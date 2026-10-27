@@ -30,6 +30,9 @@ draw a line after every day's run
 - [x ] 2026-10-27 | Sprinto | AI Implementation Intern | Bengaluru | 4–6 LPA | Accel-backed; Jobfound copy — Lever was 404 | https://jobfound.org/job/sprinto-is-hiring-for-ai-implementation-intern-bengaluru-karnataka-india-india-26-october-2026
 - [Xrequired 4yr+ exp ] 2026-10-27 | Driif.ai | AI/ML Engineer | Bengaluru (on-site) | 6–10 LPA | STRETCH: production ML/real-time systems focus | https://jobfound.org/job/driif-is-hiring-for-ai-ml-engineer-bengaluru-karnataka-india-india-26-october-2026
 - [ x ] 2026-10-27 | Langslide | Full-Stack AI Engineer Intern | Remote everywhere | ₹1L–1.5L/yr (verify comp — may be display error) | STRETCH: 1 yr exp | https://wellfound.com/jobs/4101394-full-stack-ai-engineer-intern
+- [ ] 2026-10-27 | eTeam | AI Intern (Generative AI) | Remote WFH | ₹10K–30K/mo (6mo; PPO → ₹4.2–6 LPA) | 2026/2027 batch; 2027 needs NOC; 3PM–11PM shift | https://jobfound.org/job/eteam-is-hiring-for-artificial-intelligence-intern-noida-uttar-pradesh-india-india-26-october-2026
+- [ ] 2026-10-27 | EaseHawk Technologies | AI/ML Intern (LLM & Applied AI) | Remote India | 6 months; no exp req; confirm stipend | https://in.linkedin.com/jobs/view/ai-ml-intern-llm-applied-ai-at-easehawk-technologies-4479987351
+- [ ] 2026-10-27 | Razorpay | AI Builder | Bengaluru (on-site) | no exp req; top-tier fintech; STRETCH | https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744950005
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -56,3 +59,15 @@ draw a line after every day's run
 2026-10-27 | Glassdoor Clarion Analytics GenAI/LLM/Vision AI Intern | GenAI/LLM/Vision AI Intern @ Clarion Analytics — posted 24 days ago, exceeds recency gate
 2026-10-27 | Glassdoor Discover Dollar AI Engineer Intern Bengaluru | AI Engineer Intern @ Discover Dollar — posted 18 days ago, exceeds recency gate
 2026-10-27 | Internshala TG Levels Agentic AI Intern | Agentic AI Intern @ TG Levels — in-office Maharashtra only; not Bengaluru/remote
+2026-10-27 | https://jobfound.org/job/thommidhi-is-hiring-for-ai-engineer-intern-remote-india-10-october-2026 | AI Engineer Intern @ Thommidhi — posted 10 Oct, 17 days old; exceeds 7-day internship recency gate
+2026-10-27 | OutMate Founding AI Intern (Remote India) | Founding AI Intern @ OutMate — posted 18 Oct, 9 days old; exceeds 7-day internship recency gate
+2026-10-27 | Venxr GenAI Intern (Pune on-site) | GenAI Intern @ Venxr — Pune on-site only; not remote/WFH or Bengaluru
+2026-10-27 | H&P Intern SwDev-2 (Noida/Goa on-site) | Intern SwDev-2 @ H&P — on-site Noida/Goa; not remote or Bengaluru
+2026-10-27 | Razorpay AI Builder via apna.co | AI Builder @ Razorpay (apna.co listing) — 3–5 years experience required; hard gate
+2026-10-27 | https://jobfound.org/job/d2n-solutions-is-hiring-for-artificial-intelligence-intern-india-india-17-october-2026 | AI Intern @ D2N Solutions — posted 17 Oct, 10 days old; exceeds 7-day internship recency gate
+2026-10-27 | https://jobfound.org/job/internmo-is-hiring-for-artificial-intelligence-engineer-india-india-16-october-2026 | AI Engineer @ Internmo — posted 16 Oct, 11 days old; exceeds 7-day internship recency gate
+2026-10-27 | https://jobfound.org/job/medinex-workforce-is-hiring-for-generative-ai-intern-python-prompting-ai-apis-india-india-14-october-2026 | GenAI Intern @ MediNex Workforce — posted 14 Oct, 13 days old; exceeds 7-day internship recency gate
+2026-10-27 | Nextiva AI Engineer Bengaluru (jobfound) | AI Engineer @ Nextiva — 2–4 years experience required; hard gate
+2026-10-27 | Coinbase Machine Learning Engineer Bengaluru (jobfound) | ML Engineer @ Coinbase — 2+ years experience required; hard gate
+2026-10-27 | XTEN-AV AI Engineer Noida (jobfound) | AI Engineer @ XTEN-AV — 2–4 years experience required + on-site Noida
+2026-10-27 | Pocket FM Software Engineer Bengaluru (jobfound) | Software Engineer @ Pocket FM — 2+ years experience required; hard gate
