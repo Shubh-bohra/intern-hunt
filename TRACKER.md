@@ -43,6 +43,17 @@ draw a line after every day's run
 - [x ] 2026-10-28 | Integra Software Services | AI & ML Fresher/Intern | Remote | UNPAID; 6mo; 0–1 yrs; Python/ML/FastAPI/LLM APIs | https://www.ambitionbox.com/jobs/ai-and-ml-freshers-in-integra-software-services-naukri_261026004220-jdp
 - [x ] 2026-10-28 | OpalCode | AI/ML Intern | WFH | ₹13K–25K/mo; 2mo; freshers; traditional ML; posted today | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1793075902
 - [ x] 2026-10-28 | Skipto AI International | AI/ML Engineer | WFH | ₹2.25L–11L/yr; 0 exp required; freshers FT; LLM/RAG/LangChain/HuggingFace | https://internshala.com/job/detail/fresher-remote-ai-ml-engineer-job-at-skipto-ai-international-private-limited1792042293
+- [ ] 2026-10-28 | Noether Data Labs | AI Engineer Intern (GenAI & Agentic AI) | Remote India | 6mo; Agentic AI/RAG/LLM tuning; apply: info@noetherdatalabs.ai; posted Oct 27 | https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-intern-at-noether-data-labs-4483680012
+- [ ] 2026-10-28 | WaterScience | Founder's Office Intern (AI & Tech) | Bengaluru on-site | ₹30K–50K/mo; AI/product ops role; posted Oct 23 | https://in.linkedin.com/jobs/view/founder-s-office-intern-ai-tech-at-waterscience-4481683419
+- [ ] 2026-10-28 | Cremisoft AI | Associate AI Engineer (GenAI & Agentic AI) | Remote India | FT; 0–2 yrs; GenAI/Agentic/RAG; posted Oct 24 | https://in.linkedin.com/jobs/view/associate-ai-engineer-genai-agentic-ai-at-cremisoft-ai-4481050334
+- [ ] 2026-10-28 | Gabeo.ai | Machine Learning Engineer (Entry Level, LLM focus) | Remote India | FT; 0–1 yr; LLM fine-tuning/NLP pipelines; US health-tech startup; posted Oct 26 | https://in.linkedin.com/jobs/view/machine-learning-engineer-at-gabeo-ai-4483738409
+- [ ] 2026-10-28 | viamagus | Artificial Intelligence Engineer | Bengaluru (remote-friendly) | FT; fresher; apply via Google Form; posted Oct 28 | https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-viamagus-4484426181
+- [ ] 2026-10-28 | Albertsons Companies India | Engineer Software – AI/Agentic AI | Bengaluru hybrid | FT; 1–3 yrs (freshers w/ AI projects welcome); Fortune 50 US employer; posted Oct 20 | https://in.linkedin.com/jobs/view/engineer-software-ai-agentic-ai-t500-30274-at-albertsons-companies-india-4480479073
+- [ ] 2026-10-28 | Tower Research Capital | Intern – AI/ML | Gurgaon on-site | Intern Jan 2027 start; 0 exp; quant HFT firm; STRETCH; posted Oct 24 | https://in.linkedin.com/jobs/view/intern-ai-ml-at-tower-research-capital-4456746255
+- [ ] 2026-10-28 | Mobility Global (S&P Global) | AI Engineer | Bengaluru hybrid | FT; 1–5 yrs (min 1); data/AI platform; STRETCH exp; posted Oct 14 | https://in.linkedin.com/jobs/view/ai-engineer-at-mobility-global-4468922949
+- [ ] 2026-10-28 | HCLTech | GenAI Agentic Developer | Noida hybrid | FT; 1–4 yrs (freshers w/ portfolio); contact: preeti_bisht@hcltech.com; STRETCH exp | https://in.linkedin.com/jobs/view/generative-ai-engineer-at-hcltech-4482484987
+- [ ] 2026-10-28 | WSP in India | AI Engineer (T&I) | Bengaluru hybrid | FT; 0–3 yrs; engineering/infra AI; global firm; posted Oct 23 | https://in.linkedin.com/jobs/view/ai-engineer-t-i-at-wsp-in-india-4480624871
+- [ ] 2026-10-28 | Ascendion | AI/ML/Gen AI Engineer | Bengaluru hybrid | FT; 0–2 yrs; LLM/GenAI/AWS; US tech services; posted Oct 14 | https://in.linkedin.com/jobs/view/ai-ml-gen-ai-engineer-at-ascendion-4478447715
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -84,3 +95,24 @@ draw a line after every day's run
 2026-10-28 | https://hiredoor.in/jobs/ai-ml-intern-freshers-0-1--505c3f | AI/ML Intern @ AidenAI (Hyderabad) — full description behind HireDoor login wall; hard gate: full description must be read
 2026-10-28 | https://in.linkedin.com/jobs/view/generative-ai-engineer-freshers-2026-27-computer-science-or-ai-only-at-digitals-ai-4478589731 | GenAI Engineer (Freshers 2026/27) @ Digitals AI (Hyderabad) — LinkedIn blocked; full description unreadable; hard gate
 2026-10-28 | https://hiredoor.in/jobs/ai-intern-data-science-e84f31 | AI Intern Data Science @ NxtMeal (Bengaluru on-site) — 12 days old, exceeds 7-day internship recency gate
+2026-10-28 | Sparks To Ideas ML Intern (LinkedIn Porbandar/Ahmedabad) | ML Intern @ Sparks To Ideas — on-site Ahmedabad; not remote or Bengaluru
+2026-10-28 | Revvity Full-Stack AI Engineering Intern (LinkedIn Thane) | Full-Stack AI Engineering Intern @ Revvity — on-site Thane Maharashtra; not remote or Bengaluru
+2026-10-28 | nference Data Science Intern Medical Imaging (LinkedIn Bengaluru) | Data Science Intern Medical Imaging @ nference — on-site; computer vision/medical imaging focus, not LLM/AI engineering
+2026-10-28 | Dimakh Consultants AI/ML Intern (LinkedIn Pune) | AI/ML Intern @ Dimakh Consultants — on-site Pune; not remote or Bengaluru
+2026-10-28 | NexGen Tech Solutions AI Engineer Intern (LinkedIn Noida) | AI Engineer Intern @ NexGen Tech Solutions — on-site Noida; not remote or Bengaluru
+2026-10-28 | AHEAD AIC Apprentice (LinkedIn Gurgaon) | AIC Apprentice @ AHEAD — on-site Gurgaon; CGPA 8+ hard requirement; not remote or Bengaluru
+2026-10-28 | Teradata Change Control Intern (LinkedIn Hyderabad) | Change Control Intern @ Teradata — on-site Hyderabad; Mid-Senior level; not matching location
+2026-10-28 | OATI AI Engineer (LinkedIn Mohali) | AI Engineer @ OATI — on-site Mohali Punjab; not remote or Bengaluru
+2026-10-28 | Xceedance Generative AI Engineer (LinkedIn Delhi) | Generative AI Engineer @ Xceedance — on-site Delhi; not Bengaluru or remote
+2026-10-28 | Digitals AI GenAI Engineer Freshers (LinkedIn Hyderabad) | GenAI Engineer Freshers @ Digitals AI — on-site Hyderabad; not Bengaluru or remote
+2026-10-28 | L&T Junior Developer AI (LinkedIn Chennai) | Junior Developer AI @ L&T — on-site Chennai; posted Oct 6, 22 days old; exceeds 14-day FT recency gate
+2026-10-28 | Devryxa Data Science Intern (LinkedIn Remote) | Data Science Intern @ Devryxa — training-company pattern; no identifiable product; certificate-based program only
+2026-10-28 | Jobs4PanIndia AI Intern (LinkedIn Remote) | AI Intern @ Jobs4PanIndia — job placement company; no verifiable product or client work
+2026-10-28 | ThinkNovaa AI Intern (LinkedIn Remote) | AI Intern @ ThinkNovaa — training-company pattern; performance-based up to ₹10K only
+2026-10-28 | UM IT Private Limited ML Intern (LinkedIn Remote) | ML Intern @ UM IT Private Limited — training-company pattern; same description as Unified Mentor/Devryxa
+2026-10-28 | Crossing Infotech AI Intern + ML Intern (LinkedIn Remote) | AI/ML Intern @ Crossing Infotech — same company as Oct 26 rejection: no verifiable web presence
+2026-10-28 | https://jobfound.org/job/easehawk-technologies-is-hiring-for-ai-ml-intern-llm-applied-ai-remote-india-india-19-october-2026 | AI/ML Intern @ EaseHawk Technologies (Jobfound Oct 19 copy) — posted Oct 19, 9 days old; exceeds 7-day internship recency gate
+2026-10-28 | Deep Dive AI Gen AI/ML/Data Science Intern (Unstop) | Gen AI/ML/Data Science Intern @ Deep Dive AI — posted ~87 days ago; far exceeds recency gate
+2026-10-28 | Cognitive Solutions AI LLM Training Intern (Unstop) | LLM Training Intern @ Cognitive Solutions AI — registration deadline July 2026; closed
+2026-10-28 | https://jobfound.org/job/anm-tech-is-hiring-for-ai-internship-remote-india-india-5-september-2026 | AI Internship @ ANM Tech — posted Sept 5, 53 days old; far exceeds recency gate
+2026-10-28 | WSP AI Engineer Digital Solutions (LinkedIn Bengaluru Oct 14) | AI Engineer Digital Solutions @ WSP in India — duplicate of WSP T&I posting (Oct 23); keeping only the fresher Oct 23 listing
