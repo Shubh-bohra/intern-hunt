@@ -33,6 +33,14 @@ draw a line after every day's run
 - [ ] 2026-10-27 | eTeam | AI Intern (Generative AI) | Remote WFH | ₹10K–30K/mo (6mo; PPO → ₹4.2–6 LPA) | 2026/2027 batch; 2027 needs NOC; 3PM–11PM shift | https://jobfound.org/job/eteam-is-hiring-for-artificial-intelligence-intern-noida-uttar-pradesh-india-india-26-october-2026
 - [ ] 2026-10-27 | EaseHawk Technologies | AI/ML Intern (LLM & Applied AI) | Remote India | 6 months; no exp req; confirm stipend | https://in.linkedin.com/jobs/view/ai-ml-intern-llm-applied-ai-at-easehawk-technologies-4479987351
 - [ ] 2026-10-27 | Razorpay | AI Builder | Bengaluru (on-site) | no exp req; top-tier fintech; STRETCH | https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744950005
+- [ ] 2026-10-28 | Zenup Health | AI/ML Intern | Remote/Hybrid | 6mo; URGENT; LLM/RAG/voice AI (Whisper/Deepgram); therapy platform; TOP MATCH | https://booking.zenuphealth.com/careers?role=ai-ml-intern
+- [ ] 2026-10-28 | Metasys Technologies | AI/ML Engineer Internship | Remote worldwide | UNPAID initially; LangChain/LlamaIndex/AutoGen/RAG/multi-agent; entry-level | https://himalayas.app/companies/metasys/jobs/ai-ml-engineer-internship
+- [ ] 2026-10-28 | PGAGI | AI Architecture Intern | Remote/Bengaluru | ₹8K–20K/mo; 0–0.5 yrs; 6mo; LLM tuning/RAG/LoRA/QLoRA; different from applied Backend role | https://cutshort.io/job/AI-Architecture-Intern-Bengaluru-Bangalore-PGAGI-KYgB2ptx
+- [ ] 2026-10-28 | EvoNexis | Machine Learning Intern | WFH | ₹17K–29K/mo; 3mo; ML/NLP/Deep Learning; freshers | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evonexis1792820235
+- [ ] 2026-10-28 | Cnvrted | AI/ML Intern (+PPO) | Bengaluru on-site | ₹25K–30K/mo; apply email work@cnvrted.com; batch 2026–2028 | https://hiredoor.in/jobs/ai-ml-intern-ppo--a88d32
+- [ ] 2026-10-28 | Integra Software Services | AI & ML Fresher/Intern | Remote | UNPAID; 6mo; 0–1 yrs; Python/ML/FastAPI/LLM APIs | https://www.ambitionbox.com/jobs/ai-and-ml-freshers-in-integra-software-services-naukri_261026004220-jdp
+- [ ] 2026-10-28 | OpalCode | AI/ML Intern | WFH | ₹13K–25K/mo; 2mo; freshers; traditional ML; posted today | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1793075902
+- [ ] 2026-10-28 | Skipto AI International | AI/ML Engineer | WFH | ₹2.25L–11L/yr; 0 exp required; freshers FT; LLM/RAG/LangChain/HuggingFace | https://internshala.com/job/detail/fresher-remote-ai-ml-engineer-job-at-skipto-ai-international-private-limited1792042293
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -71,3 +79,6 @@ draw a line after every day's run
 2026-10-27 | Coinbase Machine Learning Engineer Bengaluru (jobfound) | ML Engineer @ Coinbase — 2+ years experience required; hard gate
 2026-10-27 | XTEN-AV AI Engineer Noida (jobfound) | AI Engineer @ XTEN-AV — 2–4 years experience required + on-site Noida
 2026-10-27 | Pocket FM Software Engineer Bengaluru (jobfound) | Software Engineer @ Pocket FM — 2+ years experience required; hard gate
+2026-10-28 | https://hiredoor.in/jobs/ai-ml-intern-freshers-0-1--505c3f | AI/ML Intern @ AidenAI (Hyderabad) — full description behind HireDoor login wall; hard gate: full description must be read
+2026-10-28 | https://in.linkedin.com/jobs/view/generative-ai-engineer-freshers-2026-27-computer-science-or-ai-only-at-digitals-ai-4478589731 | GenAI Engineer (Freshers 2026/27) @ Digitals AI (Hyderabad) — LinkedIn blocked; full description unreadable; hard gate
+2026-10-28 | https://hiredoor.in/jobs/ai-intern-data-science-e84f31 | AI Intern Data Science @ NxtMeal (Bengaluru on-site) — 12 days old, exceeds 7-day internship recency gate
