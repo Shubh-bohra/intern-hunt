@@ -5,6 +5,8 @@ Put the word SKIP right after the checkbox to hide a job for good.
 The routines read this file before every run. Do not change the line format.
 if i have written NA it means the post wasn't available so it can use a deep scrap next time
 AA= already applied
+CE= cold email
+OCE=
 draw a line after every day's run
 ## To apply / applied
 
@@ -34,10 +36,10 @@ draw a line after every day's run
 - [ x No longer accepting applications] 2026-10-27 | EaseHawk Technologies | AI/ML Intern (LLM & Applied AI) | Remote India | 6 months; no exp req; confirm stipend | https://in.linkedin.com/jobs/view/ai-ml-intern-llm-applied-ai-at-easehawk-technologies-4479987351
 - [ ] 2026-10-27 | Razorpay | AI Builder | Bengaluru (on-site) | no exp req; top-tier fintech; STRETCH | https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744950005
 - [CE] 2026-10-28 | Zenup Health | AI/ML Intern | Remote/Hybrid | 6mo; URGENT; LLM/RAG/voice AI (Whisper/Deepgram); therapy platform; TOP MATCH | https://booking.zenuphealth.com/careers?role=ai-ml-intern
-- [OCE ] 2026-10-28 | Metasys Technologies | AI/ML Engineer Internship | Remote worldwide | UNPAID initially; LangChain/LlamaIndex/AutoGen/RAG/multi-agent; entry-level | https://himalayas.app/companies/metasys/jobs/ai-ml-engineer-internship
+- [unpaid X ] 2026-10-28 | Metasys Technologies | AI/ML Engineer Internship | Remote worldwide | UNPAID initially; LangChain/LlamaIndex/AutoGen/RAG/multi-agent; entry-level | https://himalayas.app/companies/metasys/jobs/ai-ml-engineer-internship
 - [x gave the two rounds of interview , got rejected ] 2026-10-28 | PGAGI | AI Architecture Intern | Remote/Bengaluru | ₹8K–20K/mo; 0–0.5 yrs; 6mo; LLM tuning/RAG/LoRA/QLoRA; different from applied Backend role | https://cutshort.io/job/AI-Architecture-Intern-Bengaluru-Bangalore-PGAGI-KYgB2ptx
-- [CE ] 2026-10-28 | EvoNexis | Machine Learning Intern | WFH | ₹17K–29K/mo; 3mo; ML/NLP/Deep Learning; freshers | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evonexis1792820235
-- [ ] 2026-10-28 | Cnvrted | AI/ML Intern (+PPO) | Bengaluru on-site | ₹25K–30K/mo; apply email work@cnvrted.com; batch 2026–2028 | https://hiredoor.in/jobs/ai-ml-intern-ppo--a88d32
+- [x ] 2026-10-28 | EvoNexis | Machine Learning Intern | WFH | ₹17K–29K/mo; 3mo; ML/NLP/Deep Learning; freshers | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evonexis1792820235
+- [ x] 2026-10-28 | Cnvrted | AI/ML Intern (+PPO) | Bengaluru on-site | ₹25K–30K/mo; apply email work@cnvrted.com; batch 2026–2028 | https://hiredoor.in/jobs/ai-ml-intern-ppo--a88d32
 - [x ] 2026-10-28 | Integra Software Services | AI & ML Fresher/Intern | Remote | UNPAID; 6mo; 0–1 yrs; Python/ML/FastAPI/LLM APIs | https://www.ambitionbox.com/jobs/ai-and-ml-freshers-in-integra-software-services-naukri_261026004220-jdp
 - [x ] 2026-10-28 | OpalCode | AI/ML Intern | WFH | ₹13K–25K/mo; 2mo; freshers; traditional ML; posted today | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1793075902
 - [ x] 2026-10-28 | Skipto AI International | AI/ML Engineer | WFH | ₹2.25L–11L/yr; 0 exp required; freshers FT; LLM/RAG/LangChain/HuggingFace | https://internshala.com/job/detail/fresher-remote-ai-ml-engineer-job-at-skipto-ai-international-private-limited1792042293
