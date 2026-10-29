@@ -64,6 +64,14 @@ draw a line after every day's run
 - [ ] 2026-10-29 | Zycus | AI-Native Java Engineer – Graduate Trainee | Bengaluru hybrid | FT; 2026 passouts; Java/Spring Boot + AI-assisted dev; product SaaS | https://hiredoor.in/jobs/ai-native-java-engineer-graduate-trainee-2026-passouts--44d035
 - [ ] 2026-10-29 | Hevo Data | Software Development Engineer I | Bengaluru on-site | FT; ₹10–12 LPA; 0–1 yr; Java/TypeScript/Python; Series B; direct Lever link | https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a
 - [ ] 2026-10-29 | OZi | AI/ML Engineer | Bengaluru on-site | FT; ₹20–50 LPA; 2025 batch; STRETCH: demo narrative req; backed by RTP/Blume/Huddle | https://hiredoor.in/jobs/ai-ml-engineer-73f2f7
+- [ ] 2026-10-29 | VEGAH | AI Product Engineering Intern | India Remote | Internship; students/recent grads welcome; Python/FastAPI/React/Docker/Azure/AWS/RAG/Claude Code; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-%E2%80%93-full-stack-devops-mlops-at-vegah-4484786437
+- [ ] 2026-10-29 | Treva | AI Engineer Intern | Bengaluru on-site | Internship; ₹15K/mo; experience not stated; React/Next.js/LLM APIs/Python; 6-day week; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-engineer-intern-at-treva-4481677206
+- [ ] 2026-10-29 | Techolution | AI Python Developer / Python AI Engineer | India Remote | FT; 1–4 yrs; FastAPI/Pydantic/RAG/LLMs/vector DBs/AI agents; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-python-developer-python-ai-engineer-at-techolution-4483293045
+- [ ] 2026-10-29 | CV3 | AI Automation Intern | Remote | Internship; ₹10K/mo; 4mo; freshers welcome; n8n/Make/Zapier/LLM APIs; STRETCH | https://in.linkedin.com/jobs/view/ai-automation-intern-at-cv3-4483846899
+- [ ] 2026-10-29 | Data Eminence | Prompt Engineer | India Remote | FT/contract; entry level; LLM prompt design/RLHF; ⚠️ company unverified; STRETCH | https://in.linkedin.com/jobs/view/prompt-engineer-at-data-eminence-4483641634
+- [ ] 2026-10-29 | Data Eminence | Machine Learning Developer | India Remote | FT; 0–2 yrs; Python/sklearn/TensorFlow/PyTorch; ⚠️ company unverified; STRETCH | https://in.linkedin.com/jobs/view/machine-learning-developer-at-data-eminence-4483663079
+- [ ] 2026-10-29 | Accenture | AI/ML Computational Science Associate | Bengaluru hybrid | FT; 0–1 yr; Python/REST APIs/SQL; job code AIOC-S01655438; SAFEST BET | https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627
+- [ ] 2026-10-29 | Tailored AI (via HuntingCube) | AI Engineer 1 | Bengaluru East on-site | FT; ₹10–25 LPA; 0–2 yrs B.Tech; Python/Django/AWS/LLMs/LangChain; SAFEST BET | https://in.linkedin.com/jobs/view/ai-engineer-1-at-huntingcube-4484023256
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -142,3 +150,12 @@ draw a line after every day's run
 2026-10-29 | Artefact Data Scientist (Pune) | Data Scientist @ Artefact — Pune on-site; not in eligible locations
 2026-10-29 | Optum Associate Data Scientist (Pune) | Associate Data Scientist @ Optum — Pune on-site; not in eligible locations
 2026-10-29 | Stitch AI Engineer Fresher (Chennai) | AI Engineer Fresher @ Stitch — Chennai on-site; not in eligible locations
+2026-10-29 | https://job-boards.greenhouse.io/razorpay/jobs/4744950005 | Razorpay AI Builder — CLOSED; Razorpay AI Buildathon deadline was Sep 5, 2026; posting expired
+2026-10-29 | https://in.linkedin.com/jobs/view/4484100553 | AI/ML Engineering Intern @ OneRx — on-site Ahmedabad; not remote/WFH or Bengaluru
+2026-10-29 | https://in.linkedin.com/jobs/view/4483617171 | Software Engineer @ Visiblaze — on-site Gurugram; not remote/WFH or Bengaluru
+2026-10-29 | https://in.linkedin.com/jobs/view/4483332828 | GenAI Engineer Freshers 2026/27 @ Digitals AI — on-site Hyderabad; not remote/WFH or Bengaluru
+2026-10-29 | https://in.linkedin.com/jobs/view/4472942927 | Associate Engineer AI Services @ NTT DATA — on-site/hybrid Chennai; not remote/WFH or Bengaluru
+2026-10-29 | https://in.linkedin.com/jobs/view/4484034141 | Operation Research Scientist @ Kinaxis — profile mismatch: requires Operations Research, mathematical optimization, supply chain domain
+2026-10-29 | https://in.linkedin.com/jobs/view/4483591447 | AI/ML Computational Science Associate @ Accenture Pune — Pune only; not remote/WFH or Bengaluru (Bengaluru listing tracked separately)
+2026-10-29 | https://in.linkedin.com/jobs/view/4480623906 | AI Engineer T&I @ WSP Mumbai/Bengaluru — duplicate of Oct 28 tracked entry
+2026-10-29 | https://in.linkedin.com/jobs/view/4483657159 | AI Intern @ Crossing Infotech — duplicate of Oct 26 rejection: no verifiable web presence
