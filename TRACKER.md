@@ -54,6 +54,16 @@ draw a line after every day's run
 - [ AA] 2026-10-28 | HCLTech | GenAI Agentic Developer | Noida hybrid | FT; 1–4 yrs (freshers w/ portfolio); contact: preeti_bisht@hcltech.com; STRETCH exp | https://in.linkedin.com/jobs/view/generative-ai-engineer-at-hcltech-4482484987
 - [AA rejected ] 2026-10-28 | WSP in India | AI Engineer (T&I) | Bengaluru hybrid | FT; 0–3 yrs; engineering/infra AI; global firm; posted Oct 23 | https://in.linkedin.com/jobs/view/ai-engineer-t-i-at-wsp-in-india-4480624871
 - [ AA] 2026-10-28 | Ascendion | AI/ML/Gen AI Engineer | Bengaluru hybrid | FT; 0–2 yrs; LLM/GenAI/AWS; US tech services; posted Oct 14 | https://in.linkedin.com/jobs/view/ai-ml-gen-ai-engineer-at-ascendion-4478447715
+- [ ] 2026-10-29 | Infergent Labs | AI/Full-Stack Engineering Intern (+PPO) | Remote India | ₹30K/mo; 3–6mo; LLMs/RAG/React/Next.js/Python; 2026–2028 batch; founders-direct | https://hiredoor.in/jobs/ai-full-stack-engineering-intern-ppo--0c508c
+- [ ] 2026-10-29 | PwC Acceleration Centres | Business AI Engineer Intern 2027 | Bangalore/Telangana on-site | ₹60K–80K/mo est; 2026–2027 batch; top-tier brand | https://hiredoor.in/jobs/business-ai-engineer-intern-2027-447fc0
+- [ ] 2026-10-29 | Alehar | AI & Software Engineering Intern (+PPO potential) | Bengaluru on-site | ₹30K/mo; 2–4mo; full-stack + LLMs/RAG/AI agents "strong plus"; apply: techintern@alehar.com | https://www.alehar.com/about/careers/tech-intern
+- [ ] 2026-10-29 | Evolvra | Machine Learning Intern | WFH | ₹12K–25K/mo; 3mo; Python/ML/NLP; posted today | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evolvra1792994178
+- [ ] 2026-10-29 | Diffzene | Machine Learning Intern | WFH | ₹12K–25K/mo; 3mo; Python/ML/NLP/Deep Learning; Bengaluru company | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793081701
+- [ ] 2026-10-29 | Innoknowvex | Machine Learning Intern | WFH | ₹11K–23K/mo; 3mo; PPO up to ₹4.6 LPA; Python/ML/NLP | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-innoknowvex1793098232
+- [ ] 2026-10-29 | CRUV | AI Engineer Intern | Remote India | ₹10K–20K/mo; 3mo; GenAI/LLMs/LangChain/HuggingFace; 2024/2026 batch; fresh HireDoor listing Oct 28 | https://hiredoor.in/jobs/ai-engineer-intern-d0363c
+- [ ] 2026-10-29 | Zycus | AI-Native Java Engineer – Graduate Trainee | Bengaluru hybrid | FT; 2026 passouts; Java/Spring Boot + AI-assisted dev; product SaaS | https://hiredoor.in/jobs/ai-native-java-engineer-graduate-trainee-2026-passouts--44d035
+- [ ] 2026-10-29 | Hevo Data | Software Development Engineer I | Bengaluru on-site | FT; ₹10–12 LPA; 0–1 yr; Java/TypeScript/Python; Series B; direct Lever link | https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a
+- [ ] 2026-10-29 | OZi | AI/ML Engineer | Bengaluru on-site | FT; ₹20–50 LPA; 2025 batch; STRETCH: demo narrative req; backed by RTP/Blume/Huddle | https://hiredoor.in/jobs/ai-ml-engineer-73f2f7
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -116,3 +126,19 @@ draw a line after every day's run
 2026-10-28 | Cognitive Solutions AI LLM Training Intern (Unstop) | LLM Training Intern @ Cognitive Solutions AI — registration deadline July 2026; closed
 2026-10-28 | https://jobfound.org/job/anm-tech-is-hiring-for-ai-internship-remote-india-india-5-september-2026 | AI Internship @ ANM Tech — posted Sept 5, 53 days old; far exceeds recency gate
 2026-10-28 | WSP AI Engineer Digital Solutions (LinkedIn Bengaluru Oct 14) | AI Engineer Digital Solutions @ WSP in India — duplicate of WSP T&I posting (Oct 23); keeping only the fresher Oct 23 listing
+2026-10-29 | https://job-boards.greenhouse.io/hackerrank/jobs/8281055 | AI Researcher Intern @ HackerRank — profile mismatch: requires fine-tuning NNs from scratch, paper reproductions, peer-reviewed publications; Shubh is LLM application developer not ML researcher
+2026-10-29 | Cyclotron AI Intern (Remote India) | AI Intern @ Cyclotron — posted 1 month ago; exceeds 7-day internship recency gate
+2026-10-29 | Digital Alpha Platforms AI/ML Engineer (Remote India) via Remotive | AI/ML Engineer @ Digital Alpha Platforms — listing archived/404; no longer available
+2026-10-29 | Sprinto AI Implementation Intern (Bengaluru remote) — duplicate of Oct 27 TRACKER entry | already tracked Oct 27; posted 19 days ago; exceeds 7-day internship recency gate
+2026-10-29 | DecisionOpt AI Engineer Intern (Bengaluru) | AI Engineer Intern @ DecisionOpt — posted 23 days ago; exceeds 7-day internship recency gate
+2026-10-29 | Augle AI AI Engineer Intern (+PPO) | AI Engineer Intern @ Augle AI — Pune on-site; not in eligible locations
+2026-10-29 | Babaclick Full Stack + AI Engineer Intern (+PPO) | Full Stack + AI Engineer Intern @ Babaclick — Gurugram on-site; not in eligible locations
+2026-10-29 | Winsen Labs Founding AI + Backend Engineer | Founding AI + Backend Engineer @ Winsen Labs — Mumbai on-site; not in eligible locations
+2026-10-29 | Acclime AI Engineering Intern (+PPO) | AI Engineering Intern @ Acclime — Gurugram on-site; not in eligible locations
+2026-10-29 | Emplay Associate AI Engineer | Associate AI Engineer @ Emplay — posted 1 month ago; exceeds 14-day FT recency gate
+2026-10-29 | Metapercept Technology AI Intern (Pune) | AI Intern @ Metapercept Technology — Pune on-site; not in eligible locations
+2026-10-29 | AidenAI Junior Full Stack Engineer Python (Hyderabad) | Junior Full Stack Engineer @ AidenAI — Hyderabad on-site; not in eligible locations
+2026-10-29 | Capco Jr Java Full Stack Engineer (Pune) | Jr Java Full Stack Engineer @ Capco — Pune on-site; not in eligible locations
+2026-10-29 | Artefact Data Scientist (Pune) | Data Scientist @ Artefact — Pune on-site; not in eligible locations
+2026-10-29 | Optum Associate Data Scientist (Pune) | Associate Data Scientist @ Optum — Pune on-site; not in eligible locations
+2026-10-29 | Stitch AI Engineer Fresher (Chennai) | AI Engineer Fresher @ Stitch — Chennai on-site; not in eligible locations
