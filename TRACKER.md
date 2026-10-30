@@ -77,6 +77,8 @@ draw a line after every day's run
 - [ ] 2026-10-30 | Networth Corp | Data and AI Fresher | Remote + Bengaluru | FT; no exp required; Python/RAG/GenAI; early-stage high-ownership; STRONGEST MATCH | https://wellfound.com/jobs/4897434-data-and-ai-fresher
 - [ ] 2026-10-30 | Teal India | AI/ML Engineer | Bengaluru hybrid | FT; ₹9–12L; 1 yr exp (prod exp not mandatory); LangChain/RAG/BERT/FastAPI/VectorDB; STRETCH | https://wellfound.com/jobs/4246041-ai-ml-engineer
 - [ ] 2026-10-30 | Codeatrix | AI/ML Internship (part-time WFH) | Work from Home | Internship; ₹20–27K/mo; 2mo; training org; basic ML scope; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1793284129
+- [ ] 2026-10-30 | VANCO AI | Forward Deployed Engineer (FDE) Intern | Bengaluru on-site | Internship; ₹50K/mo; 2026-2027 batch; FDE + LLM/AI + backend APIs; apply via Google Form; STRONG MATCH | https://hiredoor.in/jobs/forward-deployed-engineer-fde-intern-457e2c
+- [ ] 2026-10-30 | Diffzene | Machine Learning Intern (fresh repost) | WFH | Internship; ₹12–25K/mo; 3mo; Python/ML/NLP/Deep Learning; posted today (Oct 29 listing also open) | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793257340
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -173,3 +175,6 @@ draw a line after every day's run
 2026-10-30 | https://wellfound.com/jobs/4897492-data-engineer-yoe-0-2-clone | Data Engineer II @ Teal India — requires 2–4 years experience; exceeds hard gate
 2026-10-30 | https://cutshort.io/job/AI-Backend-engineering-Intern-Bengaluru-Bangalore-PGAGI-38hWlzmY | AI Backend Engineering Intern @ PGAGI — careers page renders blank; cannot verify posting or description
 2026-10-30 | https://hiredoor.in/jobs/ai-engineering-intern-4c4c66 | AI Engineering Intern @ FOXO (Bengaluru) — posted 14 days ago; exceeds 7-day internship recency gate
+2026-10-30 | https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-genrise-ai-4484543184 | Forward Deployed Engineer @ Genrise.ai — LinkedIn scraping blocked; full description unreadable; hard gate
+2026-10-30 | https://parsewave.ai/developer | Python Developer (ML) @ Parsewave — redirects to Tally application form; freelance/contributor gig for AI training data collection, not an employment role
+2026-10-30 | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evolvra1792994178 | Machine Learning Intern @ Evolvra — applications closed Oct 28 2026; listing was still shown on Oct 29 but expired
