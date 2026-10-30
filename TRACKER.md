@@ -78,8 +78,8 @@ draw a line after every day's run
 - [ x] 2026-10-30 | Teal India | AI/ML Engineer | Bengaluru hybrid | FT; ₹9–12L; 1 yr exp (prod exp not mandatory); LangChain/RAG/BERT/FastAPI/VectorDB; STRETCH | https://wellfound.com/jobs/4246041-ai-ml-engineer
 - [ ] 2026-10-30 | Codeatrix | AI/ML Internship (part-time WFH) | Work from Home | Internship; ₹20–27K/mo; 2mo; training org; basic ML scope; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1793284129
 - [x ] 2026-10-30 | VANCO AI | Forward Deployed Engineer (FDE) Intern | Bengaluru on-site | Internship; ₹50K/mo; 2026-2027 batch; FDE + LLM/AI + backend APIs; apply via Google Form; STRONG MATCH | https://hiredoor.in/jobs/forward-deployed-engineer-fde-intern-457e2c
-- [ ] 2026-10-30 | Diffzene | Machine Learning Intern (fresh repost) | WFH | Internship; ₹12–25K/mo; 3mo; Python/ML/NLP/Deep Learning; posted today (Oct 29 listing also open) | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793257340
-- [ ] 2026-10-25 | Blackcoffer | AI Engineer | India Remote / Hybrid | Full-time (6-mo probation → permanent); ₹10–12K/mo probation; LangChain/LLM APIs/RAG/FastAPI/Python/PostgreSQL; direct stack match; STRONG MATCH | https://jobfound.org/job/blackcoffer-is-hiring-for-ai-engineer-india-india-25-october-2026
+- [ NA] 2026-10-30 | Diffzene | Machine Learning Intern (fresh repost) | WFH | Internship; ₹12–25K/mo; 3mo; Python/ML/NLP/Deep Learning; posted today (Oct 29 listing also open) | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793257340
+- [ NA] 2026-10-25 | Blackcoffer | AI Engineer | India Remote / Hybrid | Full-time (6-mo probation → permanent); ₹10–12K/mo probation; LangChain/LLM APIs/RAG/FastAPI/Python/PostgreSQL; direct stack match; STRONG MATCH | https://jobfound.org/job/blackcoffer-is-hiring-for-ai-engineer-india-india-25-october-2026
 
 ## Rejected by filters (routine only, do not edit)
 
