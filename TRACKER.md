@@ -79,6 +79,7 @@ draw a line after every day's run
 - [ ] 2026-10-30 | Codeatrix | AI/ML Internship (part-time WFH) | Work from Home | Internship; ₹20–27K/mo; 2mo; training org; basic ML scope; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1793284129
 - [ ] 2026-10-30 | VANCO AI | Forward Deployed Engineer (FDE) Intern | Bengaluru on-site | Internship; ₹50K/mo; 2026-2027 batch; FDE + LLM/AI + backend APIs; apply via Google Form; STRONG MATCH | https://hiredoor.in/jobs/forward-deployed-engineer-fde-intern-457e2c
 - [ ] 2026-10-30 | Diffzene | Machine Learning Intern (fresh repost) | WFH | Internship; ₹12–25K/mo; 3mo; Python/ML/NLP/Deep Learning; posted today (Oct 29 listing also open) | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793257340
+- [ ] 2026-10-25 | Blackcoffer | AI Engineer | India Remote / Hybrid | Full-time (6-mo probation → permanent); ₹10–12K/mo probation; LangChain/LLM APIs/RAG/FastAPI/Python/PostgreSQL; direct stack match; STRONG MATCH | https://jobfound.org/job/blackcoffer-is-hiring-for-ai-engineer-india-india-25-october-2026
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -178,3 +179,12 @@ draw a line after every day's run
 2026-10-30 | https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-genrise-ai-4484543184 | Forward Deployed Engineer @ Genrise.ai — LinkedIn scraping blocked; full description unreadable; hard gate
 2026-10-30 | https://parsewave.ai/developer | Python Developer (ML) @ Parsewave — redirects to Tally application form; freelance/contributor gig for AI training data collection, not an employment role
 2026-10-30 | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evolvra1792994178 | Machine Learning Intern @ Evolvra — applications closed Oct 28 2026; listing was still shown on Oct 29 but expired
+2026-10-30 | https://breezy.hr/p/solvative-python-ai-ml-intern | Python AI/ML Intern @ Solvative — page shows "Position Closed"; listing no longer active
+2026-10-30 | https://remotive.com/remote-jobs/software-dev/python-ai-ml | Python/AI/ML Intern @ Remotive listing — HTTP 410 Gone; listing no longer exists
+2026-10-30 | https://in.linkedin.com/jobs/view/engineering-intern-gen-ai-at-drivetrain-4452305697 | Engineering Intern Gen AI @ Drivetrain — reposted 14+ days ago; exceeds 7-day internship recency gate; India eligibility unclear
+2026-10-30 | https://wadhwaniai.org/work-with-us | ML Intern @ Wadhwani AI — Delhi on-site only; not remote or Bengaluru
+2026-10-30 | https://semesteria.in/jobs/spacey-science-ai-engineer-intern | AI Engineer Intern @ Spacey Science — posted 8 months ago; far exceeds 7-day internship recency gate
+2026-10-30 | https://wellfound.com/jobs/clearfeed-ml-intern | ML Intern @ ClearFeed — HTTP 410 Gone; listing closed
+2026-10-30 | https://in.linkedin.com/jobs/view/full-stack-intern-at-grenai | Full Stack Intern @ GrenAI — Chennai-based only; not remote/WFH or Bengaluru
+2026-10-30 | https://careers.antler.co/companies/callus-company/jobs/ai-ml-intern | AI & ML Intern @ Callus.company (Antler Careers) — full description unreadable (page fetch FAILED); hard gate: drop if cannot read full description
+2026-10-30 | https://wellfound.com/jobs/orqum-ai-ai-engineer-intern | AI Engineer Intern @ orqum.ai — approximately 6 months old; far exceeds 7-day internship recency gate
