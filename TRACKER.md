@@ -72,6 +72,11 @@ draw a line after every day's run
 - [ ] 2026-10-29 | Data Eminence | Machine Learning Developer | India Remote | FT; 0–2 yrs; Python/sklearn/TensorFlow/PyTorch; ⚠️ company unverified; STRETCH | https://in.linkedin.com/jobs/view/machine-learning-developer-at-data-eminence-4483663079
 - [ ] 2026-10-29 | Accenture | AI/ML Computational Science Associate | Bengaluru hybrid | FT; 0–1 yr; Python/REST APIs/SQL; job code AIOC-S01655438; SAFEST BET | https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627
 - [ ] 2026-10-29 | Tailored AI (via HuntingCube) | AI Engineer 1 | Bengaluru East on-site | FT; ₹10–25 LPA; 0–2 yrs B.Tech; Python/Django/AWS/LLMs/LangChain; SAFEST BET | https://in.linkedin.com/jobs/view/ai-engineer-1-at-huntingcube-4484023256
+- [ ] 2026-10-30 | mytribe | Engineering Intern – AI Agents (+PPO) | Bengaluru on-site | Internship; ₹40K/mo; PPO ₹8–12L + equity; 6mo; fresher OK; AI agents + founders; STRONGEST MATCH | https://mytribe.in/careers/engineering-intern
+- [ ] 2026-10-30 | Angel One | AI Engineering Intern (+PPO) | Bengaluru on-site | Internship; ₹60K/mo; PPO; batch 2026–2028; fintech scale; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineering-intern-cb1e82
+- [ ] 2026-10-30 | Networth Corp | Data and AI Fresher | Remote + Bengaluru | FT; no exp required; Python/RAG/GenAI; early-stage high-ownership; STRONGEST MATCH | https://wellfound.com/jobs/4897434-data-and-ai-fresher
+- [ ] 2026-10-30 | Teal India | AI/ML Engineer | Bengaluru hybrid | FT; ₹9–12L; 1 yr exp (prod exp not mandatory); LangChain/RAG/BERT/FastAPI/VectorDB; STRETCH | https://wellfound.com/jobs/4246041-ai-ml-engineer
+- [ ] 2026-10-30 | Codeatrix | AI/ML Internship (part-time WFH) | Work from Home | Internship; ₹20–27K/mo; 2mo; training org; basic ML scope; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1793284129
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -159,3 +164,12 @@ draw a line after every day's run
 2026-10-29 | https://in.linkedin.com/jobs/view/4483591447 | AI/ML Computational Science Associate @ Accenture Pune — Pune only; not remote/WFH or Bengaluru (Bengaluru listing tracked separately)
 2026-10-29 | https://in.linkedin.com/jobs/view/4480623906 | AI Engineer T&I @ WSP Mumbai/Bengaluru — duplicate of Oct 28 tracked entry
 2026-10-29 | https://in.linkedin.com/jobs/view/4483657159 | AI Intern @ Crossing Infotech — duplicate of Oct 26 rejection: no verifiable web presence
+2026-10-30 | https://wellfound.com/jobs/4797056-ai-engineering-intern | AI Engineering Intern @ red6.ai — posted 3 weeks ago; exceeds 7-day internship recency gate
+2026-10-30 | https://wellfound.com/jobs/4436943 | AI/LLM Engineer Intern @ paygent — posted 3 months ago + unpaid
+2026-10-30 | https://hiredoor.in/jobs/ai-ml-engineering-intern-ppo--064127 | AI/ML Engineering Intern (+PPO) @ Matrice AI — posted 17 days ago; exceeds 7-day internship recency gate
+2026-10-30 | https://hiredoor.in/jobs/software-engineering-intern-43b972 | Software Engineering Intern @ Ressl AI (YC W26) — posted 24 days ago; exceeds 7-day internship recency gate
+2026-10-30 | https://hiredoor.in/jobs/ai-intern-050a39 | AI Intern @ Avaloka.ai — posted 9 days ago; exceeds 7-day internship recency gate
+2026-10-30 | https://in.linkedin.com/jobs/view/4438484555 | AI Engineer Intern @ Automica.ai — August 2026 start date; posting is stale
+2026-10-30 | https://wellfound.com/jobs/4897492-data-engineer-yoe-0-2-clone | Data Engineer II @ Teal India — requires 2–4 years experience; exceeds hard gate
+2026-10-30 | https://cutshort.io/job/AI-Backend-engineering-Intern-Bengaluru-Bangalore-PGAGI-38hWlzmY | AI Backend Engineering Intern @ PGAGI — careers page renders blank; cannot verify posting or description
+2026-10-30 | https://hiredoor.in/jobs/ai-engineering-intern-4c4c66 | AI Engineering Intern @ FOXO (Bengaluru) — posted 14 days ago; exceeds 7-day internship recency gate
