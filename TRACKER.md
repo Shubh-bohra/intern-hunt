@@ -84,6 +84,10 @@ draw a line after every day's run
 - [ ] 2026-10-31 | IQVIA | Software Engineer Intern (AI & Test Automation) | Bengaluru/Gurugram hybrid | Hybrid; students/grads; Python+LangChain+RAG+REST; STRONGEST MATCH | https://jobs.iqvia.com/en/jobs/R1567860-0
 - [ ] 2026-10-31 | ClearTax | Software Engineering Intern (AI Engineering) | Bangalore on-site | On-site; ₹60K/mo; 2026-2028 batch; LLMs/SLMs track; top fintech | https://hiredoor.in/jobs/software-engineering-intern-f7b5d2
 - [ ] 2026-10-31 | Evolvra | Machine Learning Intern (fresh repost) | WFH | ₹12–25K/mo; 3mo; Python/ML; no exp req; apply by Nov 29; SAFE BET | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evolvra1793339598
+- [ ] 2026-10-31 | NYX | Backend & AI Engineering Intern | Bengaluru on-site (WFO mandatory) | Internship; paid; 0–2 yrs exp (min 0); Python/Node.js/LLM/RAG/FastAPI; STRONG MATCH | https://in.linkedin.com/jobs/view/backend-ai-engineering-intern-at-nyx-4483938429
+- [ ] 2026-10-31 | Meril | Software Engineer Intern (AI/ML & Backend) | Bengaluru on-site | Internship; preferred batch 2026 (not hard req); LangChain/LangGraph/RAG/Python; medical device company; STRONG MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-at-meril-4483015017
+- [ ] 2026-10-31 | Applogika | AI Intern | Hyderabad (hybrid/remote — confirm eligibility) | Internship; Anthropic Select partner + AWS partner; LLM/Agentic AI; no exp req; STRETCH — verify remote | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033
+- [ ] 2026-10-31 | AgentSocialX | AI Growth Engineer | India Remote | Entry level (FTE or intern — confirm type); NVIDIA/IIT Ropar backed; LLM APIs/Python/agentic AI; STRETCH | https://in.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -203,3 +207,21 @@ draw a line after every day's run
 2026-10-31 | https://remoteok.com/remote-jobs/remote-ai-intern-certifyos-1135555 | AI Intern @ CertifyOS (RemoteOK) — live check fail: "no longer available"; last modified July 2026
 2026-10-31 | https://cutshort.io/job/AI-Engineer-Intern-LetsIntern-10E9JuuJ | AI Engineer Intern @ LetsIntern (Cutshort) — recency gate: posted Oct 20; 11 days ago; exceeds 7-day internship recency gate
 2026-10-31 | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116 | Software Engineering AMTS @ Salesforce — batch gate: eligibility "graduating in 2025 & 2026" only; Shubh is 2027 batch
+2026-10-31 | Lexsi Labs AI Agent Engineer Intern (LinkedIn, Mumbai) | location gate: Mumbai Metropolitan Region; remote not confirmed in description
+2026-10-31 | Techolution Python AI Intern (LinkedIn, Hyderabad) | location gate: on-site Hyderabad; not Bengaluru or remote
+2026-10-31 | The Leapfrog Network AI Engineer Intern (LinkedIn, Noida) | location gate: hybrid Noida; not Bengaluru or remote
+2026-10-31 | Jarvis Technology Voice AI Internship (LinkedIn, Delhi) | location gate: Delhi on-site; not Bengaluru or remote
+2026-10-31 | Procter & Gamble IT Intern (LinkedIn, Mumbai) | location gate: Mumbai on-site only
+2026-10-31 | Lexsi Labs AI Research Internship (LinkedIn, Mumbai) | profile mismatch: XAI / mechanistic interpretability / PyTorch research focus; also Mumbai
+2026-10-31 | Ai Disha Learning AI Interns (LinkedIn, Hyderabad) | training-company pattern; basic LLM/prompt intern program; Hyderabad on-site
+2026-10-31 | MediNex Workforce AI Intern (LinkedIn, India Remote) | staffing/workforce company listing; same company rejected Oct 26 for expired deadline; repost
+2026-10-31 | Crossing Infotech AI Intern (LinkedIn, India Remote) | previously rejected Oct 26/28/29: no verifiable product or web presence
+2026-10-31 | ThinkNovaa AI Intern (LinkedIn, India Remote) | previously rejected Oct 28: training-company pattern, up to ₹10K performance-based only
+2026-10-31 | Jobs4PanIndia AI Intern (LinkedIn, India Remote) | previously rejected Oct 28: job placement/training company, no verifiable product
+2026-10-31 | Jobgether Backend Developer Python GenAI (LinkedIn, India Remote) | aggregator listing: undisclosed partner company; actual employer unverifiable; hard gate
+2026-10-31 | Kula AI Engineering Intern (careers.kula.ai, Bengaluru) | unreadable: careers.kula.ai network-blocked; hard gate: drop if cannot read full description
+2026-10-31 | Digital Alpha Platforms AI/ML Engineer Intern (Remotive) | unreadable: remotive.com network-blocked; previously rejected Oct 29 as 404/archived
+2026-10-31 | Noether Data Labs AI Engineer Intern | already in tracker (Oct 28 entry)
+2026-10-31 | eTeam AI Intern | already in tracker (Oct 27 entry)
+2026-10-31 | Sprinto AI Implementation Intern | already in tracker (Oct 27 entry)
+2026-10-31 | VEGAH AI Product Engineering Intern | already in tracker (Oct 29 entry)
