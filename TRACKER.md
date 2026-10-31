@@ -80,6 +80,10 @@ draw a line after every day's run
 - [x ] 2026-10-30 | VANCO AI | Forward Deployed Engineer (FDE) Intern | Bengaluru on-site | Internship; ₹50K/mo; 2026-2027 batch; FDE + LLM/AI + backend APIs; apply via Google Form; STRONG MATCH | https://hiredoor.in/jobs/forward-deployed-engineer-fde-intern-457e2c
 - [ NA] 2026-10-30 | Diffzene | Machine Learning Intern (fresh repost) | WFH | Internship; ₹12–25K/mo; 3mo; Python/ML/NLP/Deep Learning; posted today (Oct 29 listing also open) | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793257340
 - [ NA] 2026-10-25 | Blackcoffer | AI Engineer | India Remote / Hybrid | Full-time (6-mo probation → permanent); ₹10–12K/mo probation; LangChain/LLM APIs/RAG/FastAPI/Python/PostgreSQL; direct stack match; STRONG MATCH | https://jobfound.org/job/blackcoffer-is-hiring-for-ai-engineer-india-india-25-october-2026
+- [ ] 2026-10-31 | Cubiktech | AI Software Engineering Intern | Remote India | WFH; ₹25–30K/mo; 2026-2028 batch; AI tools + LLMs + APIs; apply: hiring@cubiktech.com | hiring@cubiktech.com
+- [ ] 2026-10-31 | IQVIA | Software Engineer Intern (AI & Test Automation) | Bengaluru/Gurugram hybrid | Hybrid; students/grads; Python+LangChain+RAG+REST; STRONGEST MATCH | https://jobs.iqvia.com/en/jobs/R1567860-0
+- [ ] 2026-10-31 | ClearTax | Software Engineering Intern (AI Engineering) | Bangalore on-site | On-site; ₹60K/mo; 2026-2028 batch; LLMs/SLMs track; top fintech | https://hiredoor.in/jobs/software-engineering-intern-f7b5d2
+- [ ] 2026-10-31 | Evolvra | Machine Learning Intern (fresh repost) | WFH | ₹12–25K/mo; 3mo; Python/ML; no exp req; apply by Nov 29; SAFE BET | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evolvra1793339598
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -188,3 +192,14 @@ draw a line after every day's run
 2026-10-30 | https://in.linkedin.com/jobs/view/full-stack-intern-at-grenai | Full Stack Intern @ GrenAI — Chennai-based only; not remote/WFH or Bengaluru
 2026-10-30 | https://careers.antler.co/companies/callus-company/jobs/ai-ml-intern | AI & ML Intern @ Callus.company (Antler Careers) — full description unreadable (page fetch FAILED); hard gate: drop if cannot read full description
 2026-10-30 | https://wellfound.com/jobs/orqum-ai-ai-engineer-intern | AI Engineer Intern @ orqum.ai — approximately 6 months old; far exceeds 7-day internship recency gate
+2026-10-31 | Interstell AI Internship (Delhi on-site) | AI Engineer Intern @ Interstell AI — location gate: Delhi on-site only; not remote/WFH or Bengaluru
+2026-10-31 | Catalysts Software Engineer | Software Engineer @ Catalysts — batch gate: 2023-2026 graduates only; Shubh is 2027 batch
+2026-10-31 | https://latentforce.io | Full-Stack AI Intern @ LatentForce — live check fail: page shows "This role is closed / Closed 27 Aug 2026"
+2026-10-31 | https://hiredoor.in/jobs/software-development-trainee-data-ai-risk--4f9b30 | Software Development Trainee @ WEX — full description unreadable (login redirect); hard gate: drop if cannot read
+2026-10-31 | Sarvam AI Agent Engineer | Agent Engineer @ Sarvam AI — experience gate: "hiring across levels, from 3+ years"; hard gate
+2026-10-31 | PwC Acceleration Centres Full-stack Agentic AI Developer | Full-stack Agentic AI Developer @ PwC — experience gate: "at least 2 years" minimum
+2026-10-31 | Aidentifi AI Prototyping Internship | AI Prototyping Internship @ Aidentifi — eligibility gate: 2nd/3rd year students (IIT or similar) only; final year ineligible
+2026-10-31 | Vortizo AI Internship | AI Internship @ Vortizo AI — recency gate: posted 3 weeks ago; exceeds 7-day internship recency gate
+2026-10-31 | https://remoteok.com/remote-jobs/remote-ai-intern-certifyos-1135555 | AI Intern @ CertifyOS (RemoteOK) — live check fail: "no longer available"; last modified July 2026
+2026-10-31 | https://cutshort.io/job/AI-Engineer-Intern-LetsIntern-10E9JuuJ | AI Engineer Intern @ LetsIntern (Cutshort) — recency gate: posted Oct 20; 11 days ago; exceeds 7-day internship recency gate
+2026-10-31 | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116 | Software Engineering AMTS @ Salesforce — batch gate: eligibility "graduating in 2025 & 2026" only; Shubh is 2027 batch
