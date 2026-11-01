@@ -88,6 +88,7 @@ draw a line after every day's run
 - [ x] 2026-10-31 | Meril | Software Engineer Intern (AI/ML & Backend) | Bengaluru on-site | Internship; preferred batch 2026 (not hard req); LangChain/LangGraph/RAG/Python; medical device company; STRONG MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-at-meril-4483015017
 - [ x] 2026-10-31 | Applogika | AI Intern | Hyderabad (hybrid/remote — confirm eligibility) | Internship; Anthropic Select partner + AWS partner; LLM/Agentic AI; no exp req; STRETCH — verify remote | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033
 - [ x] 2026-10-31 | AgentSocialX | AI Growth Engineer | India Remote | Entry level (FTE or intern — confirm type); NVIDIA/IIT Ropar backed; LLM APIs/Python/agentic AI; STRETCH | https://in.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843
+- [ ] 2026-10-31 | SynaptyX AI | AI Apprentice (Intern) | India Remote | Internship; stipend undisclosed; FastAPI+LangChain/LangGraph+MCP+RAG+evals+FastAPI; agentic platform startup; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-apprentice-intern-at-synaptyx-ai-4483487443
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -225,3 +226,10 @@ draw a line after every day's run
 2026-10-31 | eTeam AI Intern | already in tracker (Oct 27 entry)
 2026-10-31 | Sprinto AI Implementation Intern | already in tracker (Oct 27 entry)
 2026-10-31 | VEGAH AI Product Engineering Intern | already in tracker (Oct 29 entry)
+2026-11-01 | Quantum Strides LLC GenAI Engineer Intern (Himalayas, India Remote) | recency gate: posted Oct 10, 2026 — 22 days old; exceeds 7-day internship recency gate
+2026-11-01 | LawVriksh GenAI Intern (Wellfound, India Remote) | recency gate: listing shows "Reposted: 1 month ago"; far exceeds 7-day internship recency gate
+2026-11-01 | Mango Giraffe Labs AI Filmmaking Intern (Internshala, WFH) | profile mismatch: creative/film production role (Adobe Premiere, DaVinci Resolve, Blender 3D, storytelling); not software/AI engineering
+2026-11-01 | Sales Brigade Revenue Automation Engineer Intern (Internshala, WFH) | profile mismatch: marketing automation/CRM/WhatsApp campaigns; not AI/ML engineering
+2026-11-01 | InAmigos Foundation AI & Machine Learning Intern (Internshala, WFH) | unpaid; 2-week "explore AI fundamentals" program; not a real engineering role
+2026-11-01 | Arivula Technologies Foundational Internship (LinkedIn, Chennai) | location gate: Chennai on-site; not remote/WFH or Bengaluru
+2026-11-01 | AnvayuOne AI-Native Full Stack Developer Intern (LinkedIn, Hyderabad) | location gate: Hyderabad on-site; not remote/WFH or Bengaluru
