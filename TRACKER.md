@@ -89,6 +89,7 @@ draw a line after every day's run
 - [ x] 2026-10-31 | Applogika | AI Intern | Hyderabad (hybrid/remote — confirm eligibility) | Internship; Anthropic Select partner + AWS partner; LLM/Agentic AI; no exp req; STRETCH — verify remote | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033
 - [ x] 2026-10-31 | AgentSocialX | AI Growth Engineer | India Remote | Entry level (FTE or intern — confirm type); NVIDIA/IIT Ropar backed; LLM APIs/Python/agentic AI; STRETCH | https://in.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843
 - [ ] 2026-10-31 | SynaptyX AI | AI Apprentice (Intern) | India Remote | Internship; stipend undisclosed; FastAPI+LangChain/LangGraph+MCP+RAG+evals+FastAPI; agentic platform startup; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-apprentice-intern-at-synaptyx-ai-4483487443
+- [ ] 2026-10-26 | Megaminds IT Services | Full Stack AI Developer Intern | WFH | Internship; ₹6K–10K/mo; 6mo; 10 openings; FastAPI+Python+GenAI/LLM APIs (Anthropic)+Docker+AWS+React; services firm; apply by Nov 25; GOOD MATCH | https://internshala.com/internship/detail/work-from-home-full-stack-ai-developer-internship-at-megaminds-it-services1792988097
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -233,3 +234,9 @@ draw a line after every day's run
 2026-11-01 | InAmigos Foundation AI & Machine Learning Intern (Internshala, WFH) | unpaid; 2-week "explore AI fundamentals" program; not a real engineering role
 2026-11-01 | Arivula Technologies Foundational Internship (LinkedIn, Chennai) | location gate: Chennai on-site; not remote/WFH or Bengaluru
 2026-11-01 | AnvayuOne AI-Native Full Stack Developer Intern (LinkedIn, Hyderabad) | location gate: Hyderabad on-site; not remote/WFH or Bengaluru
+2026-11-01 | Soulstarr AI Founding AI Engineer Intern (Internshala, WFH) | recency gate: posted Sep 26, 2026 — 35 days old; exceeds 7-day internship recency gate
+2026-11-01 | Agile Vortex AI Engineer Intern (Internshala, WFH) | recency gate: posted Oct 6, 2026 — 26 days old; exceeds 7-day internship recency gate
+2026-11-01 | Stratnova Technologies Data Science & AI/ML Intern (Internshala, WFH) | recency gate: posted Oct 8, 2026 — 23 days old; exceeds 7-day internship recency gate
+2026-11-01 | KnowledgeCatch AI & Technology Intern part-time (Internshala, WFH) | recency gate: posted Oct 22, 2026 — 9.5 days old; exceeds 7-day internship recency gate
+2026-11-01 | Synergy Labs AI Research Intern (Internshala, Gurgaon) | location gate: Gurgaon on-site; not remote/WFH or Bengaluru
+2026-11-01 | Assetcues Solutions AI Intern (Internshala, Pune) | location gate: Pune on-site; not remote/WFH or Bengaluru
