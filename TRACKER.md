@@ -91,6 +91,9 @@ draw a line after every day's run
 - [ ] 2026-10-31 | SynaptyX AI | AI Apprentice (Intern) | India Remote | Internship; stipend undisclosed; FastAPI+LangChain/LangGraph+MCP+RAG+evals+FastAPI; agentic platform startup; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-apprentice-intern-at-synaptyx-ai-4483487443
 - [ ] 2026-10-26 | Megaminds IT Services | Full Stack AI Developer Intern | WFH | Internship; ₹6K–10K/mo; 6mo; 10 openings; FastAPI+Python+GenAI/LLM APIs (Anthropic)+Docker+AWS+React; services firm; apply by Nov 25; GOOD MATCH | https://internshala.com/internship/detail/work-from-home-full-stack-ai-developer-internship-at-megaminds-it-services1792988097
 
+---
+- [ ] 2026-11-01 | Celonis | Associate Deployment Engineer – Galaxy Graduate Program | Greater Bengaluru Area (hybrid) | FT; recent grad / final year eligible; Feb 2027 start; Python+SQL+ML+LLM integrations; process mining platform; consulting-implementation track; STRETCH | https://www.linkedin.com/jobs/view/4483210600
+
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
@@ -240,3 +243,22 @@ draw a line after every day's run
 2026-11-01 | KnowledgeCatch AI & Technology Intern part-time (Internshala, WFH) | recency gate: posted Oct 22, 2026 — 9.5 days old; exceeds 7-day internship recency gate
 2026-11-01 | Synergy Labs AI Research Intern (Internshala, Gurgaon) | location gate: Gurgaon on-site; not remote/WFH or Bengaluru
 2026-11-01 | Assetcues Solutions AI Intern (Internshala, Pune) | location gate: Pune on-site; not remote/WFH or Bengaluru
+2026-11-01 | https://www.linkedin.com/jobs/view/4482952066 | Site Reliability Engineer II @ Trimble Inc. — Chennai on-site; location gate
+2026-11-01 | https://www.linkedin.com/jobs/view/4465206509 | Associate Software Engineer (Full Stack & Applied AI) @ Kamineni Hospitals — Hyderabad on-site; location gate
+2026-11-01 | Trimble Inc. Site Reliability Engineer P1 (LinkedIn Chennai) | Chennai on-site; location gate
+2026-11-01 | https://www.linkedin.com/jobs/view/4475244316 | Data Scientist I @ Mastercard — Pune on-site; location gate
+2026-11-01 | Smart Data Solutions AI/ML Intern (LinkedIn, India Remote) | location gate: Chennai on-site only; not remote/WFH or Bengaluru
+2026-11-01 | Krunalkumar Shah AI/ML Trainee (LinkedIn, India Remote) | stipend gate: unpaid; no compensation stated
+2026-11-01 | DNV Data Science Intern (LinkedIn, Pune) | location gate: Pune on-site; not remote/WFH or Bengaluru
+2026-11-01 | Vortenza Systems Data Science Intern (LinkedIn, India Remote) | training-company pattern: IT training firm; no verifiable product
+2026-11-01 | Venture Launcher AI/ML Intern (LinkedIn, India Remote) | stipend gate: unpaid; performance-based only
+2026-11-01 | Polestar Analytics AI Engineer (LinkedIn, Bengaluru) | experience gate: 3–8 years required; hard gate
+2026-11-01 | Eli Lilly AI Developer (LinkedIn, India) | experience gate: 6–8 years required; hard gate
+2026-11-01 | Michael Page ML Engineer (LinkedIn, Bengaluru) | experience gate: 1.5–4 years required; hard gate
+2026-11-01 | KPMG India GenAI Engineer 6-10 yrs (LinkedIn, India) | experience gate: 6–10 years required; hard gate
+2026-11-01 | KPMG India GenAI Engineer 3-6 yrs (LinkedIn, India) | experience gate: 3–6 years required; hard gate
+2026-11-01 | Quest Global GenAI Engineer (LinkedIn, India) | experience gate: 5+ years required; hard gate
+2026-11-01 | MSD Sr. Specialist Data Scientist (LinkedIn, Bengaluru) | title gate: Senior + experience gate: 5 years required
+2026-11-01 | NTT DATA AI Advisor (LinkedIn, India) | title gate: Advisor-level title; experience gate
+2026-11-01 | UST ML Engineer I (LinkedIn, Bengaluru) | experience gate: 3–5 years required; hard gate
+2026-11-01 | Pfizer Intern (LinkedIn, Chennai) | location gate: Chennai on-site; not remote/WFH or Bengaluru
