@@ -6,7 +6,8 @@ The routines read this file before every run. Do not change the line format.
 if i have written NA it means the post wasn't available so it can use a deep scrap next time
 AA= already applied
 CE= cold email
-OCE=
+OCE=only cold email
+LS - low stipend
 draw a line after every day's run
 ## To apply / applied
 
@@ -88,20 +89,20 @@ draw a line after every day's run
 - [ x] 2026-10-31 | Meril | Software Engineer Intern (AI/ML & Backend) | Bengaluru on-site | Internship; preferred batch 2026 (not hard req); LangChain/LangGraph/RAG/Python; medical device company; STRONG MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-at-meril-4483015017
 - [ x] 2026-10-31 | Applogika | AI Intern | Hyderabad (hybrid/remote — confirm eligibility) | Internship; Anthropic Select partner + AWS partner; LLM/Agentic AI; no exp req; STRETCH — verify remote | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-applogika-4485297033
 - [ x] 2026-10-31 | AgentSocialX | AI Growth Engineer | India Remote | Entry level (FTE or intern — confirm type); NVIDIA/IIT Ropar backed; LLM APIs/Python/agentic AI; STRETCH | https://in.linkedin.com/jobs/view/ai-growth-engineer-at-agentsocialx-4484886843
-- [ ] 2026-10-31 | SynaptyX AI | AI Apprentice (Intern) | India Remote | Internship; stipend undisclosed; FastAPI+LangChain/LangGraph+MCP+RAG+evals+FastAPI; agentic platform startup; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-apprentice-intern-at-synaptyx-ai-4483487443
-- [ ] 2026-10-26 | Megaminds IT Services | Full Stack AI Developer Intern | WFH | Internship; ₹6K–10K/mo; 6mo; 10 openings; FastAPI+Python+GenAI/LLM APIs (Anthropic)+Docker+AWS+React; services firm; apply by Nov 25; GOOD MATCH | https://internshala.com/internship/detail/work-from-home-full-stack-ai-developer-internship-at-megaminds-it-services1792988097
+- [ NA] 2026-10-31 | SynaptyX AI | AI Apprentice (Intern) | India Remote | Internship; stipend undisclosed; FastAPI+LangChain/LangGraph+MCP+RAG+evals+FastAPI; agentic platform startup; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-apprentice-intern-at-synaptyx-ai-4483487443
+- [ LS] 2026-10-26 | Megaminds IT Services | Full Stack AI Developer Intern | WFH | Internship; ₹6K–10K/mo; 6mo; 10 openings; FastAPI+Python+GenAI/LLM APIs (Anthropic)+Docker+AWS+React; services firm; apply by Nov 25; GOOD MATCH | https://internshala.com/internship/detail/work-from-home-full-stack-ai-developer-internship-at-megaminds-it-services1792988097
 
 ---
-- [ ] 2026-11-01 | Celonis | Associate Deployment Engineer – Galaxy Graduate Program | Greater Bengaluru Area (hybrid) | FT; recent grad / final year eligible; Feb 2027 start; Python+SQL+ML+LLM integrations; process mining platform; consulting-implementation track; STRETCH | https://www.linkedin.com/jobs/view/4483210600
-- [ ] 2026-11-02 | Evolvra | ML Intern | WFH | Internship; ₹12K–25K/mo; 6mo; Python/ML/NLP; apply by Dec 1; 3rd fresh repost today | https://internshala.com/internships/ml-internship/1793505627
-- [ ] 2026-11-02 | GoKwik | AI Engineering Intern | Bangalore on-site | Internship; ₹30K/mo; freshers 2026–2028; Python+LLMs+Prompt Engineering | https://hiredoor.in/jobs/ai-engineering-intern-241560
-- [ ] 2026-11-02 | IBM | Research Software Intern | Gurgaon/Bangalore on-site | Internship; ₹30K–40K/mo; batches 2026–2028; Python+AI/ML basics+DSA | https://hiredoor.in/jobs/research-software-intern-8b6945
-- [ ] 2026-11-02 | WrightLabs SI | Forward Deployed Engineering Intern (+PPO) | Remote | Internship+PPO; ₹25K/mo; 2026–2028; AI prototyping tools; STRETCH (onsite mfg visits required) | https://hiredoor.in/jobs/forward-deployed-engineering-intern-ppo--d411b7
-- [ ] 2026-11-02 | Spektra Systems | AI-Native Software Engineer Trainee | Remote India | FT; ₹3–5 LPA; 0–1 yr; freshers with AI agent projects; APIs+internal AI tools | https://hiredoor.in/jobs/ai-native-software-engineer-trainee-49e845
-- [ ] 2026-11-02 | Vedika API (Vedika.io) | Token Maxxer / AI Engineer | India Remote | Internship 6mo → PPO; no exp req for intern route; Python/MCP/LLM eval+fine-tuning/agent workflows/Claude Code; STRONGEST MATCH | https://in.linkedin.com/jobs/view/token-maxxer-ai-engineer-at-vedika-api-4485160734
-- [ ] 2026-11-02 | Illumina | AI Engineer | Greater Bengaluru Area (hybrid) | FT; entry level; no exp req; LLMs/RAG/embeddings/AI agents; major biotech (Nasdaq: ILMN); hackathon wins qualify | https://in.linkedin.com/jobs/view/ai-engineer-at-illumina-4484033498
-- [ ] 2026-11-02 | BharatCode | Software Development Engineer Intern | India (likely remote) | Internship; IIMA Ventures-backed; ML inference stack/model serving/GPU optim; Python; 6 days ago; STRETCH | https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-bharatcode-4481471583
-- [ ] 2026-11-02 | Blacklitt | Software Engineer Intern (Backend) | India Remote | Internship; up to ₹10K/mo; Python/broker APIs/data pipelines; fintech; founders-direct; SAFE BET | https://in.linkedin.com/jobs/view/software-engineer-intern-at-blacklitt-4485445339
+- [ x] 2026-11-01 | Celonis | Associate Deployment Engineer – Galaxy Graduate Program | Greater Bengaluru Area (hybrid) | FT; recent grad / final year eligible; Feb 2027 start; Python+SQL+ML+LLM integrations; process mining platform; consulting-implementation track; STRETCH | https://www.linkedin.com/jobs/view/4483210600
+- [X ] 2026-11-02 | Evolvra | ML Intern | WFH | Internship; ₹12K–25K/mo; 6mo; Python/ML/NLP; apply by Dec 1; 3rd fresh repost today | https://internshala.com/internships/ml-internship/1793505627
+- [x ] 2026-11-02 | GoKwik | AI Engineering Intern | Bangalore on-site | Internship; ₹30K/mo; freshers 2026–2028; Python+LLMs+Prompt Engineering | https://hiredoor.in/jobs/ai-engineering-intern-241560
+- [NA ] 2026-11-02 | IBM | Research Software Intern | Gurgaon/Bangalore on-site | Internship; ₹30K–40K/mo; batches 2026–2028; Python+AI/ML basics+DSA | https://hiredoor.in/jobs/research-software-intern-8b6945
+- [ x] 2026-11-02 | WrightLabs SI | Forward Deployed Engineering Intern (+PPO) | Remote | Internship+PPO; ₹25K/mo; 2026–2028; AI prototyping tools; STRETCH (onsite mfg visits required) | https://hiredoor.in/jobs/forward-deployed-engineering-intern-ppo--d411b7
+- [ X] 2026-11-02 | Spektra Systems | AI-Native Software Engineer Trainee | Remote India | FT; ₹3–5 LPA; 0–1 yr; freshers with AI agent projects; APIs+internal AI tools | https://hiredoor.in/jobs/ai-native-software-engineer-trainee-49e845
+- [x ] 2026-11-02 | Vedika API (Vedika.io) | Token Maxxer / AI Engineer | India Remote | Internship 6mo → PPO; no exp req for intern route; Python/MCP/LLM eval+fine-tuning/agent workflows/Claude Code; STRONGEST MATCH | https://in.linkedin.com/jobs/view/token-maxxer-ai-engineer-at-vedika-api-4485160734
+- [X ] 2026-11-02 | Illumina | AI Engineer | Greater Bengaluru Area (hybrid) | FT; entry level; no exp req; LLMs/RAG/embeddings/AI agents; major biotech (Nasdaq: ILMN); hackathon wins qualify | https://in.linkedin.com/jobs/view/ai-engineer-at-illumina-4484033498
+- [ NA] 2026-11-02 | BharatCode | Software Development Engineer Intern | India (likely remote) | Internship; IIMA Ventures-backed; ML inference stack/model serving/GPU optim; Python; 6 days ago; STRETCH | https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-bharatcode-4481471583
+- [ NA] 2026-11-02 | Blacklitt | Software Engineer Intern (Backend) | India Remote | Internship; up to ₹10K/mo; Python/broker APIs/data pipelines; fintech; founders-direct; SAFE BET | https://in.linkedin.com/jobs/view/software-engineer-intern-at-blacklitt-4485445339
 
 ## Rejected by filters (routine only, do not edit)
 
