@@ -98,6 +98,10 @@ draw a line after every day's run
 - [ ] 2026-11-02 | IBM | Research Software Intern | Gurgaon/Bangalore on-site | Internship; ₹30K–40K/mo; batches 2026–2028; Python+AI/ML basics+DSA | https://hiredoor.in/jobs/research-software-intern-8b6945
 - [ ] 2026-11-02 | WrightLabs SI | Forward Deployed Engineering Intern (+PPO) | Remote | Internship+PPO; ₹25K/mo; 2026–2028; AI prototyping tools; STRETCH (onsite mfg visits required) | https://hiredoor.in/jobs/forward-deployed-engineering-intern-ppo--d411b7
 - [ ] 2026-11-02 | Spektra Systems | AI-Native Software Engineer Trainee | Remote India | FT; ₹3–5 LPA; 0–1 yr; freshers with AI agent projects; APIs+internal AI tools | https://hiredoor.in/jobs/ai-native-software-engineer-trainee-49e845
+- [ ] 2026-11-02 | Vedika API (Vedika.io) | Token Maxxer / AI Engineer | India Remote | Internship 6mo → PPO; no exp req for intern route; Python/MCP/LLM eval+fine-tuning/agent workflows/Claude Code; STRONGEST MATCH | https://in.linkedin.com/jobs/view/token-maxxer-ai-engineer-at-vedika-api-4485160734
+- [ ] 2026-11-02 | Illumina | AI Engineer | Greater Bengaluru Area (hybrid) | FT; entry level; no exp req; LLMs/RAG/embeddings/AI agents; major biotech (Nasdaq: ILMN); hackathon wins qualify | https://in.linkedin.com/jobs/view/ai-engineer-at-illumina-4484033498
+- [ ] 2026-11-02 | BharatCode | Software Development Engineer Intern | India (likely remote) | Internship; IIMA Ventures-backed; ML inference stack/model serving/GPU optim; Python; 6 days ago; STRETCH | https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-bharatcode-4481471583
+- [ ] 2026-11-02 | Blacklitt | Software Engineer Intern (Backend) | India Remote | Internship; up to ₹10K/mo; Python/broker APIs/data pipelines; fintech; founders-direct; SAFE BET | https://in.linkedin.com/jobs/view/software-engineer-intern-at-blacklitt-4485445339
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -272,3 +276,14 @@ draw a line after every day's run
 2026-11-02 | HackerRank AI Researcher Intern (careers page, Bangalore on-site) | degree gate: M.S./Ph.D. required; experience gate: 2–3 years deep learning research; not an undergrad intern role
 2026-11-02 | Orangewood Labs Vision Engineer Intern (YC Work at a Startup, Noida on-site) | recency gate: posted 11 months ago; stale
 2026-11-02 | Innoknowvex AI Intern (Internshala, WFH) | training-company/edtech pattern; not a product engineering role
+2026-11-02 | https://in.linkedin.com/jobs/view/generative-ai-engineer-intern-at-margadeshaka-4485455380 | Generative AI Engineer Intern @ Margadeshaka — location gate: Chandigarh on-site; not remote/WFH or Bengaluru
+2026-11-02 | https://in.linkedin.com/jobs/view/ai-ml-intern-document-intelligence-at-smart-data-solutions-4485416052 | AI/ML Intern Document Intelligence @ Smart Data Solutions — location gate: Sholinganallur Tamil Nadu on-site; not remote/WFH or Bengaluru
+2026-11-02 | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-optisol-business-solutions-4485452742 | AI Intern @ OptiSol Business Solutions — location gate: Chennai on-site; not remote/WFH or Bengaluru
+2026-11-02 | https://in.linkedin.com/jobs/view/ai-automation-intern-at-hextgen-ai-4484321727 | AI Automation Intern @ HextGen AI — location gate: Hyderabad on-site; not remote/WFH or Bengaluru
+2026-11-02 | https://in.linkedin.com/jobs/view/ai-and-ml-intern-at-vrt-management-group-llc-4483936920 | AI and ML Intern @ VRT Management Group — location gate: Hyderabad on-site; not remote/WFH or Bengaluru
+2026-11-02 | https://in.linkedin.com/jobs/view/backend-developer-python-%E2%80%93-genai-llm-applications-at-jobgether-4484517133 | Backend Developer (Python) – GenAI & LLM @ Jobgether — aggregator listing; undisclosed partner company; actual employer unverifiable; hard gate
+2026-11-02 | https://in.linkedin.com/jobs/view/ai-engineer-at-oati-4458501392 | AI Engineer @ OATI — location gate: Mohali Punjab on-site; not remote/WFH or Bengaluru
+2026-11-02 | https://in.linkedin.com/jobs/view/computer-vision-engineer-at-recrew-ai-4486130400 | Computer Vision Engineer @ Recrew AI — profile mismatch: astronomical image processing / ADCS for satellites; not LLM/AI engineering or backend
+2026-11-02 | https://in.linkedin.com/jobs/view/ai-research-engineer-mumbai-at-uplers-4484486493 | AI Research Engineer @ Uplers/Novyte Materials — location gate: Mumbai on-site; experience gate: 1+ year required; hard gate
+2026-11-02 | https://in.linkedin.com/jobs/view/ai-engineer-at-cornerstone-ondemand-4476356155 | AI Engineer @ Cornerstone OnDemand — experience gate: 1–2 years required (Java mandatory); location: Pune/Hyderabad hybrid; hard gate
+2026-11-02 | https://in.linkedin.com/jobs/view/associate-engineer-ai-services-at-ntt-data-inc-4474851008 | Associate Engineer AI Services @ NTT DATA — location gate: Chennai on-site; previously rejected Nov 1
