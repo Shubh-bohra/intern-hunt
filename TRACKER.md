@@ -93,6 +93,11 @@ draw a line after every day's run
 
 ---
 - [ ] 2026-11-01 | Celonis | Associate Deployment Engineer – Galaxy Graduate Program | Greater Bengaluru Area (hybrid) | FT; recent grad / final year eligible; Feb 2027 start; Python+SQL+ML+LLM integrations; process mining platform; consulting-implementation track; STRETCH | https://www.linkedin.com/jobs/view/4483210600
+- [ ] 2026-11-02 | Evolvra | ML Intern | WFH | Internship; ₹12K–25K/mo; 6mo; Python/ML/NLP; apply by Dec 1; 3rd fresh repost today | https://internshala.com/internships/ml-internship/1793505627
+- [ ] 2026-11-02 | GoKwik | AI Engineering Intern | Bangalore on-site | Internship; ₹30K/mo; freshers 2026–2028; Python+LLMs+Prompt Engineering | https://hiredoor.in/jobs/ai-engineering-intern-241560
+- [ ] 2026-11-02 | IBM | Research Software Intern | Gurgaon/Bangalore on-site | Internship; ₹30K–40K/mo; batches 2026–2028; Python+AI/ML basics+DSA | https://hiredoor.in/jobs/research-software-intern-8b6945
+- [ ] 2026-11-02 | WrightLabs SI | Forward Deployed Engineering Intern (+PPO) | Remote | Internship+PPO; ₹25K/mo; 2026–2028; AI prototyping tools; STRETCH (onsite mfg visits required) | https://hiredoor.in/jobs/forward-deployed-engineering-intern-ppo--d411b7
+- [ ] 2026-11-02 | Spektra Systems | AI-Native Software Engineer Trainee | Remote India | FT; ₹3–5 LPA; 0–1 yr; freshers with AI agent projects; APIs+internal AI tools | https://hiredoor.in/jobs/ai-native-software-engineer-trainee-49e845
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -262,3 +267,8 @@ draw a line after every day's run
 2026-11-01 | NTT DATA AI Advisor (LinkedIn, India) | title gate: Advisor-level title; experience gate
 2026-11-01 | UST ML Engineer I (LinkedIn, Bengaluru) | experience gate: 3–5 years required; hard gate
 2026-11-01 | Pfizer Intern (LinkedIn, Chennai) | location gate: Chennai on-site; not remote/WFH or Bengaluru
+2026-11-02 | Eightgen AI ML Intern (Internshala, WFH) | live check fail: careers page shows "Applications paused — not accepting applications at this time"
+2026-11-02 | HackerRank AI/ML Engineering Intern (+PPO) (HireDoor, Bengaluru) | full description unavailable — HireDoor Premium paywall; hard gate: must read full description
+2026-11-02 | HackerRank AI Researcher Intern (careers page, Bangalore on-site) | degree gate: M.S./Ph.D. required; experience gate: 2–3 years deep learning research; not an undergrad intern role
+2026-11-02 | Orangewood Labs Vision Engineer Intern (YC Work at a Startup, Noida on-site) | recency gate: posted 11 months ago; stale
+2026-11-02 | Innoknowvex AI Intern (Internshala, WFH) | training-company/edtech pattern; not a product engineering role
