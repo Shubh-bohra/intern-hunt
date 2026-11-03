@@ -103,6 +103,9 @@ draw a line after every day's run
 - [X ] 2026-11-02 | Illumina | AI Engineer | Greater Bengaluru Area (hybrid) | FT; entry level; no exp req; LLMs/RAG/embeddings/AI agents; major biotech (Nasdaq: ILMN); hackathon wins qualify | https://in.linkedin.com/jobs/view/ai-engineer-at-illumina-4484033498
 - [ NA] 2026-11-02 | BharatCode | Software Development Engineer Intern | India (likely remote) | Internship; IIMA Ventures-backed; ML inference stack/model serving/GPU optim; Python; 6 days ago; STRETCH | https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-bharatcode-4481471583
 - [ NA] 2026-11-02 | Blacklitt | Software Engineer Intern (Backend) | India Remote | Internship; up to ₹10K/mo; Python/broker APIs/data pipelines; fintech; founders-direct; SAFE BET | https://in.linkedin.com/jobs/view/software-engineer-intern-at-blacklitt-4485445339
+---
+- [ ] 2026-11-03 | Axe Consultancy And Security Services LLC | ML Internship | WFH | ₹10K–15K/mo; 3mo; Python/ML/NLP/Deep Learning/LLM APIs; final-year students eligible; apply by Dec 2 | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-axe-consultancy-and-security-services-llc1793595227
+- [ ] 2026-11-03 | HCLTech | Analyst – Generative AI | Bengaluru/Noida/Hyderabad/Chennai/Pune (multi-city) | FT; 0–3 yrs; freshers OK; LangGraph/LangChain/Python/Azure OpenAI; DIFFERENT role from Oct 28 AA entry; search HCLTech Careers | https://alumnx.com/jobs/763c6f86
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -288,3 +291,9 @@ draw a line after every day's run
 2026-11-02 | https://in.linkedin.com/jobs/view/ai-research-engineer-mumbai-at-uplers-4484486493 | AI Research Engineer @ Uplers/Novyte Materials — location gate: Mumbai on-site; experience gate: 1+ year required; hard gate
 2026-11-02 | https://in.linkedin.com/jobs/view/ai-engineer-at-cornerstone-ondemand-4476356155 | AI Engineer @ Cornerstone OnDemand — experience gate: 1–2 years required (Java mandatory); location: Pune/Hyderabad hybrid; hard gate
 2026-11-02 | https://in.linkedin.com/jobs/view/associate-engineer-ai-services-at-ntt-data-inc-4474851008 | Associate Engineer AI Services @ NTT DATA — location gate: Chennai on-site; previously rejected Nov 1
+2026-11-03 | https://www.wayfair.com/careers/job/software-engineer-intern/2-20829 | SW Eng Intern (AI-First & GenAI Focus) @ Wayfair — recency gate: original posting Oct 25 (9 days old); exceeds 7-day internship gate
+2026-11-03 | https://cutshort.io/job/AI-ML-Bengaluru-Bangalore-Gemba-Concepts-cgSD0yeR | AI & ML Engineer @ Gemba Concepts — experience gate: 2–3 yrs required; posting Oct 15 (19d old); double fail
+2026-11-03 | Binance Web3 Accelerator Program | Recency gate: posted Oct 14 (20d old); exceeds internship recency gate
+2026-11-03 | https://wellfound.com/jobs/4872307-founding-ai-engineer | Founding AI Engineer @ Daxani Technologies — remote gate: "hires remotely in Gujarat" only; not India-wide or Bengaluru
+2026-11-03 | https://internshala.com/internship/detail/1793619475 | ML Intern @ OpalCode (new listing 1793619475) — live check fail: 404 not found
+2026-11-03 | https://cutshort.io/job/AI-Intern-Hyderabad-Zirodigital-yIllqX5j | AI Intern @ Zirodigital — location gate: Hyderabad on-site; not remote/WFH or Bengaluru
