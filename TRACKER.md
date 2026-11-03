@@ -106,6 +106,9 @@ draw a line after every day's run
 ---
 - [ ] 2026-11-03 | Axe Consultancy And Security Services LLC | ML Internship | WFH | ₹10K–15K/mo; 3mo; Python/ML/NLP/Deep Learning/LLM APIs; final-year students eligible; apply by Dec 2 | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-axe-consultancy-and-security-services-llc1793595227
 - [ ] 2026-11-03 | HCLTech | Analyst – Generative AI | Bengaluru/Noida/Hyderabad/Chennai/Pune (multi-city) | FT; 0–3 yrs; freshers OK; LangGraph/LangChain/Python/Azure OpenAI; DIFFERENT role from Oct 28 AA entry; search HCLTech Careers | https://alumnx.com/jobs/763c6f86
+- [ ] 2026-11-03 | martai | AI Engineering Intern | Remote India | Internship 3–6mo; ₹15K–25K/mo; 0 exp req; Claude Code / AI-assisted dev required; IIT Bombay alumni-founded product studio; posted today | https://in.linkedin.com/jobs/view/ai-engineering-intern-at-martai-4484662963
+- [ ] 2026-11-03 | Terralogic Software Solutions | Python and AI/ML Developer | Bengaluru in-office | FT; 0–2 yrs; FastAPI/RAG/multi-agent/LangGraph/MCP/A2A/vector DBs; cohort of 10; STRONGEST MATCH | https://in.linkedin.com/jobs/view/python-and-ai-ml-developer-at-terralogic-4484600426
+- [ ] 2026-11-03 | SAP | Forward Deployed Developer Associate | Bengaluru | FT; entry-level Associate; AI-native enterprise apps; LLM integration; agentic AI daily use; global brand | https://in.linkedin.com/jobs/view/forward-deployed-developer-associate-at-sap-4484384161
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -297,3 +300,9 @@ draw a line after every day's run
 2026-11-03 | https://wellfound.com/jobs/4872307-founding-ai-engineer | Founding AI Engineer @ Daxani Technologies — remote gate: "hires remotely in Gujarat" only; not India-wide or Bengaluru
 2026-11-03 | https://internshala.com/internship/detail/1793619475 | ML Intern @ OpalCode (new listing 1793619475) — live check fail: 404 not found
 2026-11-03 | https://cutshort.io/job/AI-Intern-Hyderabad-Zirodigital-yIllqX5j | AI Intern @ Zirodigital — location gate: Hyderabad on-site; not remote/WFH or Bengaluru
+2026-11-03 | https://in.linkedin.com/jobs/view/4423237-senior-executive-at-exl-4446731398 | "Senior Executive" (Data Scientist GenAI 0-2yr) @ EXL — title gate: "Senior" in LinkedIn title; Noida
+2026-11-03 | https://in.linkedin.com/jobs/view/eng-artificial-intelligence-at-kla-4427334560 | Eng, Artificial Intelligence @ KLA — location gate: Chennai on-site; not remote/WFH or Bengaluru
+2026-11-03 | https://in.linkedin.com/jobs/view/ai-developer-1-at-cencora-4478296443 | AI Developer 1 @ Cencora — location gate: Pune; recency gate: posted Oct 19 (15 days old); exceeds 14-day FT gate
+2026-11-03 | https://in.linkedin.com/jobs/view/ai-engineer-developer-at-ametek-4481275295 | AI Engineer/Developer @ AMETEK — recency gate: posted Oct 19 (15 days old); exceeds 14-day FT gate
+2026-11-03 | https://in.linkedin.com/jobs/view/ai-engineer-innovation-lab-at-egov-foundation-4477501637 | AI Engineer Innovation Lab @ eGov Foundation — recency gate: posted Oct 12 (22 days old); exceeds 14-day FT gate
+2026-11-03 | https://in.linkedin.com/jobs/view/ai-developer-at-rhaenise-talent-4486022824 | AI Developer @ Rhaenise Talent/BusinessNow — location gate: Jaipur on-site; not remote/WFH or Bengaluru
