@@ -71,7 +71,7 @@ draw a line after every day's run
 - [ x] 2026-10-29 | CV3 | AI Automation Intern | Remote | Internship; ₹10K/mo; 4mo; freshers welcome; n8n/Make/Zapier/LLM APIs; STRETCH | https://in.linkedin.com/jobs/view/ai-automation-intern-at-cv3-4483846899
 - [ x] 2026-10-29 | Data Eminence | Prompt Engineer | India Remote | FT/contract; entry level; LLM prompt design/RLHF; ⚠️ company unverified; STRETCH | https://in.linkedin.com/jobs/view/prompt-engineer-at-data-eminence-4483641634
 - [ x] 2026-10-29 | Data Eminence | Machine Learning Developer | India Remote | FT; 0–2 yrs; Python/sklearn/TensorFlow/PyTorch; ⚠️ company unverified; STRETCH | https://in.linkedin.com/jobs/view/machine-learning-developer-at-data-eminence-4483663079
-- [ ] 2026-10-29 | Accenture | AI/ML Computational Science Associate | Bengaluru hybrid | FT; 0–1 yr; Python/REST APIs/SQL; job code AIOC-S01655438; SAFEST BET | https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627
+- [ ] SKIP 2026-10-29 | Accenture | AI/ML Computational Science Associate | Bengaluru hybrid | FT; 0–1 yr; Python/REST APIs/SQL; job code AIOC-S01655438; SAFEST BET | https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627
 - [ x] 2026-10-29 | Tailored AI (via HuntingCube) | AI Engineer 1 | Bengaluru East on-site | FT; ₹10–25 LPA; 0–2 yrs B.Tech; Python/Django/AWS/LLMs/LangChain; SAFEST BET | https://in.linkedin.com/jobs/view/ai-engineer-1-at-huntingcube-4484023256
 - [x ] 2026-10-30 | mytribe | Engineering Intern – AI Agents (+PPO) | Bengaluru on-site | Internship; ₹40K/mo; PPO ₹8–12L + equity; 6mo; fresher OK; AI agents + founders; STRONGEST MATCH | https://mytribe.in/careers/engineering-intern
 - [ NA] 2026-10-30 | Angel One | AI Engineering Intern (+PPO) | Bengaluru on-site | Internship; ₹60K/mo; PPO; batch 2026–2028; fintech scale; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineering-intern-cb1e82
@@ -109,6 +109,11 @@ draw a line after every day's run
 - [ NA] 2026-11-03 | martai | AI Engineering Intern | Remote India | Internship 3–6mo; ₹15K–25K/mo; 0 exp req; Claude Code / AI-assisted dev required; IIT Bombay alumni-founded product studio; posted today | https://in.linkedin.com/jobs/view/ai-engineering-intern-at-martai-4484662963
 - [x ] 2026-11-03 | Terralogic Software Solutions | Python and AI/ML Developer | Bengaluru in-office | FT; 0–2 yrs; FastAPI/RAG/multi-agent/LangGraph/MCP/A2A/vector DBs; cohort of 10; STRONGEST MATCH | https://in.linkedin.com/jobs/view/python-and-ai-ml-developer-at-terralogic-4484600426
 - [x ] 2026-11-03 | SAP | Forward Deployed Developer Associate | Bengaluru | FT; entry-level Associate; AI-native enterprise apps; LLM integration; agentic AI daily use; global brand | https://in.linkedin.com/jobs/view/forward-deployed-developer-associate-at-sap-4484384161
+---
+- [ ] 2026-11-04 | Investcode Private Limited | Founding Engineer Voice AI (Call Transcription & LLM Systems) | WFH | ₹15K–25K/mo; 3mo; apply by Dec 2; posted TODAY; voice AI + LLM systems; STRONGEST MATCH | https://internshala.com/internship/detail/work-from-home-founding-engineer-voice-ai--call-transcription-llm-systems-internship-at-investcode-private-limited1793616618
+- [ ] 2026-11-03 | Enterpret | Machine Learning Intern (+PPO) | Bengaluru on-site | ₹40K–70K/mo est; PPO; LLM retrieval pipelines + eval harnesses; Canva/Notion customer; STRONGEST MATCH | https://job-boards.greenhouse.io/enterpret/jobs/7723230003
+- [ ] 2026-11-02 | Karya | Research Engineering Intern, AI Evaluations | Bengaluru on-site | ₹30K–50K/mo; freshers/0yr; Python+Pandas+LLMs+evals; Anthropic+MSR partner; STRONG MATCH | https://hiredoor.in/jobs/research-engineering-intern-ai-evaluations-623a2b
+- [ ] 2026-11-03 | eTeam | AI Engineering Intern (+PPO) | Noida on-site | ₹20K–30K/mo; 2027 batch needs NOC; LangChain+RAG+LLMs+Python+vector DBs; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--9f4e6e
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -306,3 +311,7 @@ draw a line after every day's run
 2026-11-03 | https://in.linkedin.com/jobs/view/ai-engineer-developer-at-ametek-4481275295 | AI Engineer/Developer @ AMETEK — recency gate: posted Oct 19 (15 days old); exceeds 14-day FT gate
 2026-11-03 | https://in.linkedin.com/jobs/view/ai-engineer-innovation-lab-at-egov-foundation-4477501637 | AI Engineer Innovation Lab @ eGov Foundation — recency gate: posted Oct 12 (22 days old); exceeds 14-day FT gate
 2026-11-03 | https://in.linkedin.com/jobs/view/ai-developer-at-rhaenise-talent-4486022824 | AI Developer @ Rhaenise Talent/BusinessNow — location gate: Jaipur on-site; not remote/WFH or Bengaluru
+2026-11-03 | https://careers.microsoft.com/us/en/job/200041777 | Applied Sciences Intern @ Microsoft — full description unreadable: official careers page returns 404; Hard Gate 1
+2026-11-02 | https://hiredoor.in/jobs/ai-enabled-engineering-intern-full-stack--72ff36 | AI-Enabled Engineering Intern (Full Stack) @ GE HealthCare — profile mismatch: Java/Spring Boot/Angular stack; Shubh's stack is Python/AI engineering
+2026-11-03 | https://hiredoor.in/jobs/ai-ml-engineering-intern-ppo--1ece44 | AI/ML Engineering Intern (+PPO) @ HackerRank — profile mismatch: requires PyTorch/JAX + neural network architecture from scratch + research paper reproduction; Shubh is application AI/LLM developer not deep-learning researcher
+2026-11-04 | https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627 | AI/ML Computational Science Associate @ Accenture (re-check 2026-11-04) — LinkedIn scraping blocked on re-check; cannot read full description; Hard Gate 1; removed from open list
