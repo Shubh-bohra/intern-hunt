@@ -114,6 +114,13 @@ draw a line after every day's run
 - [ ] 2026-11-03 | Enterpret | Machine Learning Intern (+PPO) | Bengaluru on-site | ₹40K–70K/mo est; PPO; LLM retrieval pipelines + eval harnesses; Canva/Notion customer; STRONGEST MATCH | https://job-boards.greenhouse.io/enterpret/jobs/7723230003
 - [ ] 2026-11-02 | Karya | Research Engineering Intern, AI Evaluations | Bengaluru on-site | ₹30K–50K/mo; freshers/0yr; Python+Pandas+LLMs+evals; Anthropic+MSR partner; STRONG MATCH | https://hiredoor.in/jobs/research-engineering-intern-ai-evaluations-623a2b
 - [ ] 2026-11-03 | eTeam | AI Engineering Intern (+PPO) | Noida on-site | ₹20K–30K/mo; 2027 batch needs NOC; LangChain+RAG+LLMs+Python+vector DBs; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--9f4e6e
+---
+- [ ] 2026-11-03 | Evnek | Generative AI Engineer (Junior) | Bengaluru on-site | FT; 0–1 yr; LLMs/RAG/LangChain/LlamaIndex/HuggingFace/FastAPI/vector DBs; immediate joiner; VERY STRONG MATCH | https://in.linkedin.com/jobs/view/generative-ai-engineer-at-evnek-4486348390
+- [ ] 2026-11-04 | DataCore France | Software Intern (AI) | Bangalore on-site | Internship; 2027 batch explicit; Python/LLMs/AI APIs/REST; GPA 7+ req; rotational across AI projects; STRONG MATCH | https://in.linkedin.com/jobs/view/software-intern-ai-at-datacore-france-4485060614
+- [ ] 2026-11-01 | Magna International | Intern Smart Factory Solutions | Bengaluru on-site | Internship; Bachelor's accepted (Masters preferred); AI/ML + data engineering + full-stack; automotive domain; MODERATE MATCH | https://in.linkedin.com/jobs/view/intern-smart-factory-solutions-at-magna-international-4422173133
+- [ ] 2026-11-03 | Artisan Field Inc. | Tech Intern | Bengaluru (on-site likely) | Entry level; 0 exp stated; Conversational AI domain; Python/Java/C++/Golang; thin description; MODERATE MATCH | https://in.linkedin.com/jobs/view/tech-intern-at-artisan-field-inc-4486057061
+- [ ] 2026-11-03 | RecruitBots AI | Forward Deployed Engineer | Bangalore on-site | FT; 0–2 yrs; ₹6–12 LPA; AI-powered apps/API integrations/automation/LLMs/RAG (GTH); agentic AI startup; MODERATE MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-recruitbots-ai-4486060373
+- [ ] 2026-11-04 | KidsNeuron | Machine Learning Intern | WFH | ₹12K–19K/mo; 3mo; Python/ML/NLP/Deep Learning; AI-in-education edtech; deadline Dec 4; 156 applicants; MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1793770925
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -315,3 +322,28 @@ draw a line after every day's run
 2026-11-02 | https://hiredoor.in/jobs/ai-enabled-engineering-intern-full-stack--72ff36 | AI-Enabled Engineering Intern (Full Stack) @ GE HealthCare — profile mismatch: Java/Spring Boot/Angular stack; Shubh's stack is Python/AI engineering
 2026-11-03 | https://hiredoor.in/jobs/ai-ml-engineering-intern-ppo--1ece44 | AI/ML Engineering Intern (+PPO) @ HackerRank — profile mismatch: requires PyTorch/JAX + neural network architecture from scratch + research paper reproduction; Shubh is application AI/LLM developer not deep-learning researcher
 2026-11-04 | https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627 | AI/ML Computational Science Associate @ Accenture (re-check 2026-11-04) — LinkedIn scraping blocked on re-check; cannot read full description; Hard Gate 1; removed from open list
+2026-11-04 | https://in.linkedin.com/jobs/view/ai-ml-intern-at-scyverge-4479956651 | AI/ML Intern @ Scyverge — recency gate: posted Oct 19 (16 days old); exceeds 7-day internship recency gate
+2026-11-04 | https://in.linkedin.com/jobs/view/backend-engineer-at-auric-ai-labs-4477588841 | Backend Engineer @ Auric AI — recency gate: posted Oct 12 (23 days old); experience gate: 1+ year required; double fail
+2026-11-04 | https://in.linkedin.com/jobs/view/research-intern-ai-at-ge-healthcare-4461088583 | Research Intern AI @ GE HealthCare — degree gate: PhD pursuing required; recency gate: posted Oct 14 (21 days old)
+2026-11-04 | https://in.linkedin.com/jobs/view/speech-recognition-intern-at-sony-research-india-4478019878 | Speech Recognition Intern @ Sony Research India — degree gate: PhD/Masters pursuing required; recency gate: posted Oct 10 (25 days old)
+2026-11-04 | https://in.linkedin.com/jobs/view/llm-research-intern-at-sony-research-india-4478061801 | LLM Research Intern @ Sony Research India — degree gate: PhD/Masters required; recency gate: posted Oct 10 (25 days old)
+2026-11-04 | https://in.linkedin.com/jobs/view/software-engineer-intern-at-vahan-ai-4484071621 | Software Engineer Intern @ Vahan.ai — recency gate: posted Oct 27 (8 days old); also requires prior internship completed; double fail
+2026-11-04 | https://in.linkedin.com/jobs/view/full-stack-software-engineer-intern-at-selah-digital-4475769875 | Full Stack SWE Intern @ Selah Digital — recency gate: posted Oct 7 (28 days old)
+2026-11-04 | https://in.linkedin.com/jobs/view/software-engineer-intern-at-weekday-yc-w21-4453416357 | Software Engineer Intern @ Weekday (YC W21) — recency gate: posted Oct 19 (16 days old); also aggregator listing for undisclosed client
+2026-11-04 | https://in.linkedin.com/jobs/view/software-engineering-phd-intern-summer-2027-at-google-4462934581 | Software Engineering PhD Intern Summer 2027 @ Google — degree gate: PhD pursuing required
+2026-11-04 | https://in.linkedin.com/jobs/view/founder-s-office-intern-ai-tech-at-waterscience-4481683419 | Founder's Office Intern AI & Tech @ WaterScience — recency gate: posted Oct 23 (12 days old); experience gate: 6 months+ AI experience required
+2026-11-04 | https://in.linkedin.com/jobs/view/python-development-internship-in-bangalore-at-digitap-ai-4479232422 | Python Development Internship @ Digitap.ai — recency gate: posted Oct 14 (21 days old); on-site Bengaluru (acceptable location but too old)
+2026-11-04 | https://in.linkedin.com/jobs/view/ibm-research-research-software-intern-at-ibm-4480635433 | IBM Research/Research Software Intern @ IBM — recency gate: posted Oct 23 (12 days old); exceeds 7-day internship recency gate
+2026-11-04 | https://in.linkedin.com/jobs/view/intern-at-iqvia-4482952475 | Software Engineer Intern (AI) @ IQVIA — recency gate: posted Oct 26 (9 days old); exceeds 7-day internship recency gate
+2026-11-04 | https://in.linkedin.com/jobs/view/ai-engineer-intern-at-discover-dollar-inc-4476231706 | AI Engineer Intern (Agentic AI) @ Discover Dollar Inc — recency gate: posted Oct 9 (26 days old)
+2026-11-04 | https://in.linkedin.com/jobs/view/ai-data-science-apprentice-program-india-at-1clickaudit-4486317738 | AI & Data Science Apprentice Program @ 1clickaudit/Naukr AI — experience gate: track descriptions list 3+ years required; company name mismatch (1clickaudit vs Naukr AI/Microgcc Inc); ambiguous requirements; hard gate
+2026-11-04 | foundit.in listing (blocked) | ML Engineer Intern @ Myntoptics — full description unreadable; foundit.in domain blocked in this cloud session; hard gate: must read full description
+2026-11-04 | https://internshala.com/internship/detail/work-from-home-data-science-internship-at-cornixe | Data Science Intern @ Cornixe — part-time only; recency: Oct 30 (5d old, passes gate) but part-time gate fail
+2026-11-04 | Internshala Nirmaan Aoudhyogik Rasayan via CareerNest | ML Intern @ CareerNest/Nirmaan Aoudhyogik Rasayan — company name mismatch: chemical company (Aoudhyogik Rasayan = industrial chemicals); not an AI/tech company; hard gate
+2026-11-04 | Internshala Hope Behind Tails Foundation | ML/AI Intern @ Hope Behind Tails Foundation — NGO/non-profit; unpaid
+2026-11-04 | Internshala Women First India Foundation | Python/ML Intern @ Women First India Foundation — NGO; unpaid; not a tech employer
+2026-11-04 | Internshala NayePankh Foundation | ML Intern @ NayePankh Foundation — NGO; unpaid
+2026-11-04 | Internshala InAmigos Foundation | ML Intern @ InAmigos Foundation — NGO; unpaid
+2026-11-04 | Internshala Queens Of Change Foundation | ML Intern @ Queens Of Change Foundation — NGO; unpaid
+2026-11-04 | Internshala Basti Ki Pathshala | AI/ML Intern @ Basti Ki Pathshala — NGO/education charity; unpaid
+2026-11-04 | Internshala Simpli Intern | ML Intern @ Simpli Intern — training/bootcamp company (Simpli.com brand); not a product engineering employer; part-time
