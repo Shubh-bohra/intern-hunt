@@ -120,6 +120,7 @@ draw a line after every day's run
 - [ ] 2026-11-01 | Magna International | Intern Smart Factory Solutions | Bengaluru on-site | Internship; Bachelor's accepted (Masters preferred); AI/ML + data engineering + full-stack; automotive domain; MODERATE MATCH | https://in.linkedin.com/jobs/view/intern-smart-factory-solutions-at-magna-international-4422173133
 - [ ] 2026-11-03 | Artisan Field Inc. | Tech Intern | Bengaluru (on-site likely) | Entry level; 0 exp stated; Conversational AI domain; Python/Java/C++/Golang; thin description; MODERATE MATCH | https://in.linkedin.com/jobs/view/tech-intern-at-artisan-field-inc-4486057061
 - [ ] 2026-11-03 | RecruitBots AI | Forward Deployed Engineer | Bangalore on-site | FT; 0–2 yrs; ₹6–12 LPA; AI-powered apps/API integrations/automation/LLMs/RAG (GTH); agentic AI startup; MODERATE MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-recruitbots-ai-4486060373
+- [ ] 2026-11-04 | KidsNeuron | Machine Learning Intern | WFH | ₹12K–19K/mo; 3mo; Python/ML/NLP/Deep Learning; AI-in-education edtech; deadline Dec 4; 156 applicants; MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1793770925
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -336,3 +337,13 @@ draw a line after every day's run
 2026-11-04 | https://in.linkedin.com/jobs/view/intern-at-iqvia-4482952475 | Software Engineer Intern (AI) @ IQVIA — recency gate: posted Oct 26 (9 days old); exceeds 7-day internship recency gate
 2026-11-04 | https://in.linkedin.com/jobs/view/ai-engineer-intern-at-discover-dollar-inc-4476231706 | AI Engineer Intern (Agentic AI) @ Discover Dollar Inc — recency gate: posted Oct 9 (26 days old)
 2026-11-04 | https://in.linkedin.com/jobs/view/ai-data-science-apprentice-program-india-at-1clickaudit-4486317738 | AI & Data Science Apprentice Program @ 1clickaudit/Naukr AI — experience gate: track descriptions list 3+ years required; company name mismatch (1clickaudit vs Naukr AI/Microgcc Inc); ambiguous requirements; hard gate
+2026-11-04 | foundit.in listing (blocked) | ML Engineer Intern @ Myntoptics — full description unreadable; foundit.in domain blocked in this cloud session; hard gate: must read full description
+2026-11-04 | https://internshala.com/internship/detail/work-from-home-data-science-internship-at-cornixe | Data Science Intern @ Cornixe — part-time only; recency: Oct 30 (5d old, passes gate) but part-time gate fail
+2026-11-04 | Internshala Nirmaan Aoudhyogik Rasayan via CareerNest | ML Intern @ CareerNest/Nirmaan Aoudhyogik Rasayan — company name mismatch: chemical company (Aoudhyogik Rasayan = industrial chemicals); not an AI/tech company; hard gate
+2026-11-04 | Internshala Hope Behind Tails Foundation | ML/AI Intern @ Hope Behind Tails Foundation — NGO/non-profit; unpaid
+2026-11-04 | Internshala Women First India Foundation | Python/ML Intern @ Women First India Foundation — NGO; unpaid; not a tech employer
+2026-11-04 | Internshala NayePankh Foundation | ML Intern @ NayePankh Foundation — NGO; unpaid
+2026-11-04 | Internshala InAmigos Foundation | ML Intern @ InAmigos Foundation — NGO; unpaid
+2026-11-04 | Internshala Queens Of Change Foundation | ML Intern @ Queens Of Change Foundation — NGO; unpaid
+2026-11-04 | Internshala Basti Ki Pathshala | AI/ML Intern @ Basti Ki Pathshala — NGO/education charity; unpaid
+2026-11-04 | Internshala Simpli Intern | ML Intern @ Simpli Intern — training/bootcamp company (Simpli.com brand); not a product engineering employer; part-time
