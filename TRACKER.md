@@ -124,6 +124,7 @@ draw a line after every day's run
 ---
 - [ ] 2026-11-05 | Smart Data Solutions | AI/ML Intern | Chennai on-site | Internship; ₹30K/mo; posted today; Python/NLP/LLMs/LangChain/vector DBs; Chennai on-site constraint; MODERATE MATCH | https://hiredoor.in/jobs/ai-ml-intern-da89f6
 - [ ] 2026-11-03 | Matrice AI | AI/ML Intern (+PPO) | India WFH | Internship; ₹60K–80K/mo; PPO; reposted Nov 3 (prev Oct listing expired); deep learning TF/PyTorch/Keras CNNs/RNNs/Transformers; STRETCH | https://hiredoor.in/jobs/ai-ml-intern-ppo--e11d81
+- [ ] 2026-11-05 | SoftwareBrio | AI Engineer Internship (Paid) | 100% Remote | Internship; paid; LangGraph, CrewAI, LLM APIs, Python, multi-agent workflows; posted today; 48 applicants; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-engineer-internship-paid-at-softwarebrio-4486599821
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -356,3 +357,9 @@ draw a line after every day's run
 2026-11-05 | Wellfound Magi AI Intern (WFH) | AI Intern @ Magi — recency gate: posted ~1 month ago; exceeds 7-day internship recency gate
 2026-11-05 | Naukri.com AI intern page 1 (batch) | AI Intern listings — stipend gate: all visible listings unpaid (Sparta Systems Intern Bachelors AI, Build Formula, Arham Web Works, Iconicpages, Revrag AI, Gokwik Voice AI-repost unpaid, Ametek, Softlabs, Tilicho)
 2026-11-05 | Himalayas India AI intern page (batch) | AI Intern listings @ Himalayas — all 21 visible listings rejected: either >1 month old, institution-restricted (IIT Delhi / BITS Pilani only), crypto/blockchain domains, or non-AI-engineering roles
+2026-11-05 | DeepIQ AI Engineer Intern | location gate: Hyderabad on-site; not remote/WFH or Bengaluru
+2026-11-05 | TalentXM AI Intern (Remote India) | stipend gate: unpaid
+2026-11-05 | Arivula Technologies Foundational Internship (Chennai) | stipend gate: unpaid + location gate: Chennai on-site
+2026-11-05 | ARKRAY Data Scientist Intern (Pune) | experience gate: 1+ year required; also Pune on-site; double fail
+2026-11-05 | Jobgether Senior AI Engineer (India Remote, via LinkedIn scraper) | title gate: "Senior" in title; experience gate: 4-5 years required; double fail
+2026-11-05 | Jobgether Senior ML Engineer (India Remote, via LinkedIn scraper) | title gate: "Senior" in title; experience gate: 5+ years required; double fail
