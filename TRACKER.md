@@ -121,6 +121,9 @@ draw a line after every day's run
 - [ ] 2026-11-03 | Artisan Field Inc. | Tech Intern | Bengaluru (on-site likely) | Entry level; 0 exp stated; Conversational AI domain; Python/Java/C++/Golang; thin description; MODERATE MATCH | https://in.linkedin.com/jobs/view/tech-intern-at-artisan-field-inc-4486057061
 - [ ] 2026-11-03 | RecruitBots AI | Forward Deployed Engineer | Bangalore on-site | FT; 0–2 yrs; ₹6–12 LPA; AI-powered apps/API integrations/automation/LLMs/RAG (GTH); agentic AI startup; MODERATE MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-at-recruitbots-ai-4486060373
 - [ ] 2026-11-04 | KidsNeuron | Machine Learning Intern | WFH | ₹12K–19K/mo; 3mo; Python/ML/NLP/Deep Learning; AI-in-education edtech; deadline Dec 4; 156 applicants; MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1793770925
+---
+- [ ] 2026-11-05 | Smart Data Solutions | AI/ML Intern | Chennai on-site | Internship; ₹30K/mo; posted today; Python/NLP/LLMs/LangChain/vector DBs; Chennai on-site constraint; MODERATE MATCH | https://hiredoor.in/jobs/ai-ml-intern-da89f6
+- [ ] 2026-11-03 | Matrice AI | AI/ML Intern (+PPO) | India WFH | Internship; ₹60K–80K/mo; PPO; reposted Nov 3 (prev Oct listing expired); deep learning TF/PyTorch/Keras CNNs/RNNs/Transformers; STRETCH | https://hiredoor.in/jobs/ai-ml-intern-ppo--e11d81
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -347,3 +350,9 @@ draw a line after every day's run
 2026-11-04 | Internshala Queens Of Change Foundation | ML Intern @ Queens Of Change Foundation — NGO; unpaid
 2026-11-04 | Internshala Basti Ki Pathshala | AI/ML Intern @ Basti Ki Pathshala — NGO/education charity; unpaid
 2026-11-04 | Internshala Simpli Intern | ML Intern @ Simpli Intern — training/bootcamp company (Simpli.com brand); not a product engineering employer; part-time
+2026-11-05 | Coditude AI Engineering Intern (Pune on-site) | AI Engineering Intern @ Coditude — mandatory 4-year bond contractual obligation post-selection; unacceptable terms
+2026-11-05 | VRT Management Group LLC AI/ML Intern (+PPO) (Hyderabad on-site) | AI/ML Intern @ VRT Management Group LLC — profile mismatch: AI tools evaluation and documentation role, not engineering; Hyderabad on-site location gate
+2026-11-05 | Wipro AI Native (Fresher) (Bengaluru hybrid) | AI Native (Fresher) @ Wipro — IT services outsourcing; ₹3.5–4.5 LPA below target; vague role description
+2026-11-05 | Wellfound Magi AI Intern (WFH) | AI Intern @ Magi — recency gate: posted ~1 month ago; exceeds 7-day internship recency gate
+2026-11-05 | Naukri.com AI intern page 1 (batch) | AI Intern listings — stipend gate: all visible listings unpaid (Sparta Systems Intern Bachelors AI, Build Formula, Arham Web Works, Iconicpages, Revrag AI, Gokwik Voice AI-repost unpaid, Ametek, Softlabs, Tilicho)
+2026-11-05 | Himalayas India AI intern page (batch) | AI Intern listings @ Himalayas — all 21 visible listings rejected: either >1 month old, institution-restricted (IIT Delhi / BITS Pilani only), crypto/blockchain domains, or non-AI-engineering roles
