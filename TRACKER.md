@@ -126,6 +126,12 @@ draw a line after every day's run
 - [ ] 2026-11-03 | Matrice AI | AI/ML Intern (+PPO) | India WFH | Internship; ₹60K–80K/mo; PPO; reposted Nov 3 (prev Oct listing expired); deep learning TF/PyTorch/Keras CNNs/RNNs/Transformers; STRETCH | https://hiredoor.in/jobs/ai-ml-intern-ppo--e11d81
 - [ ] 2026-11-05 | SoftwareBrio | AI Engineer Internship (Paid) | 100% Remote | Internship; paid; LangGraph, CrewAI, LLM APIs, Python, multi-agent workflows; posted today; 48 applicants; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-engineer-internship-paid-at-softwarebrio-4486599821
 
+---
+- [ ] 2026-11-06 | Enterpret | AI/ML Engineering Intern (new HireDoor listing) | Bengaluru on-site | ₹50K/mo; PPO; 2026-2028; LLMs/prompting/fine-tuning/retrieval/agents/evals; project exp req; 1d ago; different from Nov 3 Greenhouse entry; STRONGEST MATCH | https://hiredoor.in/jobs/ai-ml-engineering-intern-caa178
+- [ ] 2026-11-06 | Karya | AI Engineering Intern (new HireDoor listing) | Bengaluru on-site | ₹40K/mo; Student/Recent Grad; 2026-2028; Python/Pandas/LLMs/ML/API integration; 20h ago; different from Nov 2 Research Engineering entry; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-193e02
+- [ ] 2026-11-06 | Vaultedge Software | Python Dev Intern | WFH | ₹25-30K/mo; 5mo; apply by Dec 1; 2027 batch preferred; Python/Django/ML/REST/Flask; PPO ₹9 LPA; Accenture/PwC/Fidelity client; STRONG MATCH | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-vaultedge-software-private-limited1793515686
+- [ LS] 2026-11-06 | Weekday | Engineering Intern (AI Agents) | WFH | ₹10-15K/mo; 6mo; AI agents + full-stack (Node.js/React.js/Ruby/PostgreSQL); apply by Dec 4; 526 applicants; low stipend; MARGINAL | https://internshala.com/internship/detail/work-from-home-engineering-internship-at-weekday1793786875
+
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
@@ -363,3 +369,19 @@ draw a line after every day's run
 2026-11-05 | ARKRAY Data Scientist Intern (Pune) | experience gate: 1+ year required; also Pune on-site; double fail
 2026-11-05 | Jobgether Senior AI Engineer (India Remote, via LinkedIn scraper) | title gate: "Senior" in title; experience gate: 4-5 years required; double fail
 2026-11-05 | Jobgether Senior ML Engineer (India Remote, via LinkedIn scraper) | title gate: "Senior" in title; experience gate: 5+ years required; double fail
+2026-11-06 | https://hiredoor.in/jobs/ai-full-stack-intern-d5f14c | AI Full Stack Intern @ DnyanAI Consultancy — full description behind HireDoor premium paywall; hard gate
+2026-11-06 | https://hiredoor.in/jobs/ai-ml-engineer-446de0 | AI/ML Engineer @ Prosperr.io — full description behind HireDoor premium paywall; hard gate
+2026-11-06 | https://hiredoor.in/jobs/gen-ai-engineer-93ee68 | Gen AI Engineer @ CareerXperts — batch gate: eligible batch 2022–2025 only; Shubh is 2027 batch
+2026-11-06 | https://hiredoor.in/jobs/software-engineering-intern-a48361 | Software Engineering Intern @ Visa — full description behind HireDoor premium paywall; hard gate
+2026-11-06 | https://wellfound.com/jobs/4696235-ai-engineer-intern | AI Engineer Intern @ CRUV (Wellfound) — recency gate: posted 1 month ago; exceeds 7-day internship recency gate (HireDoor listing d0363c rejected Oct 29 for same reason)
+2026-11-06 | https://hiredoor.in/jobs/ai-engineer-intern-109bc6 | AI Engineer Intern @ craftAI — live check fail: closed Oct 22, 2026
+2026-11-06 | https://hiredoor.in/jobs/generative-ai-intern-113b76 | Generative AI Intern @ 8peaks — live check fail: closed Oct 22, 2026
+2026-11-06 | https://hiredoor.in/jobs/ai-forward-deployed-engineer-intern-aea22b | AI Forward Deployed Engineer Intern @ Fundamento — live check fail: closed Oct 23, 2026; also Delhi on-site
+2026-11-06 | https://hiredoor.in/jobs/ai-engineer-intern-1b8fa3 | AI Engineer Intern @ Revrag AI — recency gate: posted Oct 15 (22 days ago); exceeds 7-day internship recency gate
+2026-11-06 | https://hiredoor.in/jobs/forward-deployed-engineer-fde--66fed7 | Forward Deployed Engineer @ Oodles Technologies — location gate: Gurugram on-site
+2026-11-06 | https://hiredoor.in/jobs/infrastructure-engineering-intern-c87ce5 | Infrastructure Engineering Intern @ Real Time Data Services — location gate: Gurugram on-site
+2026-11-06 | https://hiredoor.in/jobs/junior-ai-ml-engineer-3c376c | Junior AI/ML Engineer @ Unistring Tech Solutions — location gate: Hyderabad on-site
+2026-11-06 | Internshala AI WFH batch (NGOs) | Multiple unpaid AI/ML intern roles — stipend gate: unpaid (Basti Ki Pathshala, Queens of Change, Hope Behind Tails, Pledge India, Women First India, InAmigos, NayePankh)
+2026-11-06 | Internshala Generation Virtual AI & Automation Intern (Mumbai) | location gate: Mumbai on-site
+2026-11-06 | https://wellfound.com/jobs/3347585-3-ml-intern | ML Intern @ Entrupy — recency gate: reposted 2 months ago
+2026-11-06 | https://wellfound.com/jobs/3783438-ai-engineer-intern | AI Engineer Intern @ orqum.ai — recency gate: reposted 6 months ago
