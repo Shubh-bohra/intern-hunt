@@ -131,6 +131,10 @@ draw a line after every day's run
 - [ ] 2026-11-06 | Karya | AI Engineering Intern (new HireDoor listing) | Bengaluru on-site | ₹40K/mo; Student/Recent Grad; 2026-2028; Python/Pandas/LLMs/ML/API integration; 20h ago; different from Nov 2 Research Engineering entry; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-193e02
 - [ ] 2026-11-06 | Vaultedge Software | Python Dev Intern | WFH | ₹25-30K/mo; 5mo; apply by Dec 1; 2027 batch preferred; Python/Django/ML/REST/Flask; PPO ₹9 LPA; Accenture/PwC/Fidelity client; STRONG MATCH | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-vaultedge-software-private-limited1793515686
 - [ LS] 2026-11-06 | Weekday | Engineering Intern (AI Agents) | WFH | ₹10-15K/mo; 6mo; AI agents + full-stack (Node.js/React.js/Ruby/PostgreSQL); apply by Dec 4; 526 applicants; low stipend; MARGINAL | https://internshala.com/internship/detail/work-from-home-engineering-internship-at-weekday1793786875
+- [ ] 2026-11-06 | iion | AI Engineering Intern (Agentic Workflows) | India WFH | Internship; ₹30-40K/mo; 6mo→FT; Python/LLM APIs/agentic workflows/MCP; Australia-HQ APAC teams; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-engineering-intern-agentic-workflows-at-iion-4486965950
+- [ ] 2026-11-06 | Recollia | AI Content Automation Engineer (Founding Track) | India WFH | Internship→founding FT+equity; ₹20K+₹5K incentive; Claude agents+MCP+Sarvam AI+ElevenLabs+FastAPI; apply email+30s video demo; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-content-automation-engineer-founding-track-at-recollia-4486945440
+- [ LS] 2026-11-06 | VIMA3YA | Machine Learning Intern - LLM Finetune | Bengaluru on-site | Internship; ₹15K/mo; 3mo→FT; LoRA/QLoRA/SFT/Unsloth/HF TRL; apply email+GitHub; STRETCH | https://in.linkedin.com/jobs/view/machine-learning-intern-llm-finetune-at-vima3ya-4475418243
+- [ LS] 2026-11-06 | Haidrix Technologies | AI & Software Engineering Intern | Bengaluru | Internship; GenAI/LLMs/FastAPI/Python/React; no stipend listed; STRETCH | https://in.linkedin.com/jobs/view/ai-software-engineering-intern-at-haidrix-technologies-4486785775
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -385,3 +389,17 @@ draw a line after every day's run
 2026-11-06 | Internshala Generation Virtual AI & Automation Intern (Mumbai) | location gate: Mumbai on-site
 2026-11-06 | https://wellfound.com/jobs/3347585-3-ml-intern | ML Intern @ Entrupy — recency gate: reposted 2 months ago
 2026-11-06 | https://wellfound.com/jobs/3783438-ai-engineer-intern | AI Engineer Intern @ orqum.ai — recency gate: reposted 6 months ago
+2026-11-06 | https://in.linkedin.com/jobs/view/devops-cloud-engineering-intern-mlops-ai-ml-exposure-at-vegah-4487287744 | DevOps/Cloud Engineering Intern (MLOps) @ VEGAH — location gate: Telangana on-site; also requires USA CST business hours
+2026-11-06 | https://in.linkedin.com/jobs/view/intern-software-development-at-tammina-infotech-pvt-ltd-4485014304 | Intern – Software Development @ Tammina Infotech — location gate: Visakhapatnam on-site; generic SW intern
+2026-11-06 | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-jobs4panindia-4486966640 | Artificial Intelligence Intern @ Jobs4PanIndia — training-company pattern; ₹10K performance-only stipend
+2026-11-06 | https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4486955861 | Back End Developer Intern @ Jobs4PanIndia — training-company pattern; ₹10K performance-only stipend
+2026-11-06 | https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4486973084 | Full Stack Engineer @ Zetheta Algorithms — unpaid internship
+2026-11-06 | https://in.linkedin.com/jobs/view/ml-ai-intern-at-josh-talks-4486089402 | ML/AI Intern @ Josh Talks — location gate: Gurgaon on-site
+2026-11-06 | https://in.linkedin.com/jobs/view/ai-engineer-intern-autonomous-driving-at-kedge-systems-private-limited-4486952564 | AI Engineer Intern (Autonomous Driving) @ Kedge Systems — location gate: Chennai on-site
+2026-11-06 | https://in.linkedin.com/jobs/view/python-developer-entry-level-fresher-internship-python-flask-postgresql-at-medi-nex-workforce-4486976956 | Python Developer Entry Level @ Medi Nex Workforce — not AI/ML engineering (Flask + recruiting automation)
+2026-11-06 | https://in.linkedin.com/jobs/view/technical-services-intern-at-kaleris-4477923299 | Technical Services Intern @ Kaleris — location gate: Chennai on-site
+2026-11-06 | https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4486965575 | Backend Developer Intern @ ThinkNovaa — training-company pattern; ₹10K performance-only stipend
+2026-11-06 | https://in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-mumbai-at-taxosmart-4487578287 | AI Internship @ TAXOSMART — location gate: Mumbai on-site
+2026-11-06 | https://in.linkedin.com/jobs/view/python-developer-intern-at-skillzen-loop-4485856117 | Python Developer Intern @ Skillzen Loop — training-company pattern; generic Python execution tasks
+2026-11-06 | https://in.linkedin.com/jobs/view/backend-intern-at-zeroforg-4486574678 | Backend Intern @ ZeroForg — location gate: Gurgaon hybrid 3 days/week
+2026-11-06 | https://in.linkedin.com/jobs/view/python-ai-intern-at-techolution-4486936462 | Python AI Intern @ Techolution — location gate: Hyderabad on-site
