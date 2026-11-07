@@ -139,6 +139,14 @@ draw a line after every day's run
 - [ ] 2026-11-07 | RavelCode | Full Stack Development Intern | WFH | Internship; ₹10K-15K/mo; 3mo; Python/FastAPI/React/GenAI integration/LLM APIs/prompt engineering; apply by Dec 6; 146 applicants; 2 openings; SAFE BET | https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-ravelcode1793958303
 - [ ] 2026-11-07 | KidsNeuron | Machine Learning Intern (new repost) | WFH | Internship; ₹12K-19K/mo; 3mo; Python/ML/NLP/Deep Learning; 15 openings; 141 applicants; different from Nov 4 listing (1793770925); MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1793950791
 - [ ] 2026-11-07 | Innovfix Pvt. Ltd. | Artificial Intelligence Intern | Bengaluru (HSR Layout) on-site | Internship; freshers welcome; LLMs/AI agents/reasoning models; ⚠️ full description unread (LinkedIn blocked); verify before applying | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-innovfix-pvt-ltd-4486990278
+---
+- [ ] 2026-11-07 | Google | Student Researcher 2027 | India | Internship/Research; deadline ~Dec 4; enrolled student required; ML/NLP/CS; STRETCH – competitive but worth applying | https://in.linkedin.com/jobs/view/student-researcher-2027-at-google-4486349589
+- [ ] 2026-11-07 | Bluebex | AI/ML Intern | Bengaluru on-site | Internship; LLMs/AI projects; freshers welcome; ⚠️ verify company web presence before applying; MODERATE | https://in.linkedin.com/jobs/view/ai-ml-intern-at-bluebex-4487386644
+- [ ] 2026-11-07 | SkillZen Loop | AI/ML Intern | India Remote | Internship; ₹13,500/mo; 1–3 months; freshers; SAFE BET (different from Oct 26 Semesteria listing already rejected) | https://in.linkedin.com/jobs/view/ai-ml-intern-at-skillzen-loop-4485849317
+- [ ] 2026-11-07 | MediNex Workforce | AI Intern (Python, Prompt Engineering, LLM APIs) | India Remote | Internship; ₹14,000/mo; 1–3 months; ⚠️ staffing agency; new repost (Oct 31 prior repost also rejected – same company pattern); SAFE BET | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-python-prompt-engineering-llm-apis-at-medinex-workforce-4487397705
+- [ ] 2026-11-07 | Dexter's Tech | Machine Learning Intern | India Remote | Internship; up to ₹15K perf-based; 3 months; ⚠️ training-org pattern likely; verify before applying; SAFE BET | https://in.linkedin.com/jobs/view/machine-learning-intern-at-dexter-s-tech-4488485856
+- [ ] 2026-11-07 | Zenithbyte | Python Development Intern | India Remote | Internship; perf-based; 3 months; ⚠️ verify company legitimacy; SAFE BET | https://in.linkedin.com/jobs/view/python-development-intern-at-zenithbyte-4488499596
+- [ ] 2026-11-07 | Jobgether | AI Engineer – LLM Agents & Workflow Automation | India Remote | FT; ⚠️ Jobgether is a placement platform – verify if internal hire or aggregator before applying; within 14-day FT gate; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-llm-agents-workflow-automation-at-jobgether-4486331462
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -413,3 +421,5 @@ draw a line after every day's run
 2026-11-06 | https://in.linkedin.com/jobs/view/python-developer-intern-at-skillzen-loop-4485856117 | Python Developer Intern @ Skillzen Loop — training-company pattern; generic Python execution tasks
 2026-11-06 | https://in.linkedin.com/jobs/view/backend-intern-at-zeroforg-4486574678 | Backend Intern @ ZeroForg — location gate: Gurgaon hybrid 3 days/week
 2026-11-06 | https://in.linkedin.com/jobs/view/python-ai-intern-at-techolution-4486936462 | Python AI Intern @ Techolution — location gate: Hyderabad on-site
+2026-11-07 | https://in.linkedin.com/jobs/view/associate-developer-agentic-ai-at-jaggaer-4486941234 | Associate Developer Agentic AI @ JAGGAER — location gate: Hyderabad on-site; closed June 2026 recruitment drive (positions filled)
+2026-11-07 | YTT Global Technology Intern (LinkedIn, Hyderabad) | Technology Intern @ YTT Global — location gate: Hyderabad on-site; recency gate: posted May 18 (too old, far exceeds gate)
