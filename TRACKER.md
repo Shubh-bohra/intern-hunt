@@ -135,10 +135,20 @@ draw a line after every day's run
 - [ ] 2026-11-06 | Recollia | AI Content Automation Engineer (Founding Track) | India WFH | Internship→founding FT+equity; ₹20K+₹5K incentive; Claude agents+MCP+Sarvam AI+ElevenLabs+FastAPI; apply email+30s video demo; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-content-automation-engineer-founding-track-at-recollia-4486945440
 - [ LS] 2026-11-06 | VIMA3YA | Machine Learning Intern - LLM Finetune | Bengaluru on-site | Internship; ₹15K/mo; 3mo→FT; LoRA/QLoRA/SFT/Unsloth/HF TRL; apply email+GitHub; STRETCH | https://in.linkedin.com/jobs/view/machine-learning-intern-llm-finetune-at-vima3ya-4475418243
 - [ LS] 2026-11-06 | Haidrix Technologies | AI & Software Engineering Intern | Bengaluru | Internship; GenAI/LLMs/FastAPI/Python/React; no stipend listed; STRETCH | https://in.linkedin.com/jobs/view/ai-software-engineering-intern-at-haidrix-technologies-4486785775
+---
+- [ ] 2026-11-07 | RavelCode | Full Stack Development Intern | WFH | Internship; ₹10K-15K/mo; 3mo; Python/FastAPI/React/GenAI integration/LLM APIs/prompt engineering; apply by Dec 6; 146 applicants; 2 openings; SAFE BET | https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-ravelcode1793958303
+- [ ] 2026-11-07 | KidsNeuron | Machine Learning Intern (new repost) | WFH | Internship; ₹12K-19K/mo; 3mo; Python/ML/NLP/Deep Learning; 15 openings; 141 applicants; different from Nov 4 listing (1793770925); MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1793950791
+- [ ] 2026-11-07 | Innovfix Pvt. Ltd. | Artificial Intelligence Intern | Bengaluru (HSR Layout) on-site | Internship; freshers welcome; LLMs/AI agents/reasoning models; ⚠️ full description unread (LinkedIn blocked); verify before applying | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-innovfix-pvt-ltd-4486990278
 
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-07 | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-codeatrix1793717530 | AI Intern @ Codeatrix (new repost, ID 1793717530) — training/learning-org pattern: "technology-focused learning organisation helping students build practical, industry-relevant skills"; 1000+ applicants; prior Oct 30 listing (1793284129) already applied
+2026-11-07 | https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-tzuroni-ltd1793904343 | AI Agent Development Intern @ TZURONI LTD. (Kefar Sava, Israel) — stipend gate: ₹5K–7K/mo only; part-time; working hours 9:30 am–1:30 am IST required; crypto/trading niche
+2026-11-07 | AI/ML Intern, Document Intelligence @ unknown (Sholinganallur, Nov 1, LinkedIn Apify run offset 24) | location gate: Chennai area on-site; same as Smart Data Solutions already rejected 2026-11-02
+2026-11-07 | Artificial Intelligence Intern @ unknown company (Chennai, Nov 2, LinkedIn Apify run offset 26) | location gate: Chennai on-site; not remote/WFH or Bengaluru; no URL available from Apify
+2026-11-07 | ML AI Intern @ unknown company (Gurugram, Nov 3, LinkedIn Apify run offset 27) | location gate: Gurugram on-site; not remote/WFH or Bengaluru; no URL available from Apify
+2026-11-07 | AI Engineer Intern - Gen AI and Data @ unknown company (Hyderabad, Nov 2, LinkedIn Apify run offset 28) | location gate: Hyderabad on-site; not remote/WFH or Bengaluru; no URL available from Apify
 2026-10-26 | https://thoughtfull.world/careers | AI Engineer (India Remote) @ ThoughtFull — 404 / posting no longer available
 2026-10-26 | https://wellfound.com/jobs/3185027-software-engineer-ai-data | Software Engineer AI Data (Hyderabad) @ Speechify — 5+ years experience required
 2026-10-26 | https://wellfound.com/jobs/3238791-ai-backend-engineer | AI/Backend Engineer (Remote India) @ Inkd — 5–10 years experience required
