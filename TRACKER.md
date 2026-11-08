@@ -149,6 +149,11 @@ draw a line after every day's run
 - [ ] 2026-11-07 | Jobgether | AI Engineer – LLM Agents & Workflow Automation | India Remote | FT; ⚠️ Jobgether is a placement platform – verify if internal hire or aggregator before applying; within 14-day FT gate; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-llm-agents-workflow-automation-at-jobgether-4486331462
 ---
 - [ ] 2026-11-05 | Trovex.ai | AI Engineering Intern | India WFH (Remote) | Internship; students pursuing B.Tech eligible; voice AI + LLMs + STT/TTS + conversational AI platform; apply via jobfound.org listing; trovex.ai/careers 404; STRONGEST MATCH | https://jobfound.org/job/trovex-ai-is-hiring-for-ai-engineering-intern-remote-india-5-november-2026
+---
+- [ ] 2026-11-08 | Kidsneuron | Python Development Intern | WFH India | Internship; ₹10K–20K/mo; 3mo; Python/Django/ML/REST API/Flask; posted today; SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-kidsneuron1794112541
+- [ ] 2026-11-07 | Qubixo | Python Development Intern | WFH India | Internship; ₹12K–24K/mo; 3mo; Python/Django/ML/REST API/Flask/HTML/CSS; SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-qubixo1794028598
+- [ ] 2026-11-06 | Evolvra | Python Development Intern | WFH India | Internship; ₹12K–25K/mo; 3mo; Python/Django/ML/REST API/HTML/CSS; different from Evolvra ML (applied Oct 29/31/Nov 2); SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evolvra1793944915
+- [ ] 2026-11-07 | Qubixo | Machine Learning Intern | WFH India | Internship; ₹12K–24K/mo; 3mo; Python/ML/NLP/Deep Learning/R Programming; MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-qubixo1794028835
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -437,3 +442,21 @@ draw a line after every day's run
 2026-11-08 | Vietnamese AI Evaluator + Dutch AI Evaluator (LinkedIn, Remote India) | annotation/evaluation role, not AI engineering
 2026-11-08 | Sony Research India (LinkedIn) | experience/qualification gate: PhD-level requirement
 2026-11-08 | GE Healthcare (LinkedIn) | experience/qualification gate: PhD-level requirement
+2026-11-08 | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-codeatrix1794124750 | AI Intern @ Codeatrix (ID 1794124750) — training/learning-org pattern; same company as Oct 30 and Nov 7 rejected entries; 3rd repost
+2026-11-08 | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1794124815 | AI/ML Intern @ Codeatrix (ID 1794124815) — same training-org pattern; different listing ID but same company
+2026-11-08 | https://internshala.com/internship/detail/1793619475 | ML Intern @ OpalCode (1793619475) — same as Nov 3 rejection (404 not found); resurfaced
+2026-11-08 | https://internshala.com/internship/detail/work-from-home-ai-internship-at-kartavya-technology-pvt-ltd1793858031 | AI Intern @ Kartavya Technology (1793858031) — stipend gate: ₹5K–6K/mo + part-time; stipend too low
+2026-11-08 | Pledge India Foundation ML/AI Intern (Internshala, WFH) | stipend gate: unpaid NGO; multiple listings
+2026-11-08 | Basti Ki Pathshala Foundation AI Intern (Internshala, ID 1793964189) | stipend gate: unpaid NGO
+2026-11-08 | Hope Behind Tails Foundation AI/ML Intern (Internshala, WFH) | stipend gate: unpaid NGO
+2026-11-08 | Queens Of Change Foundation AI Intern (Internshala, WFH) | stipend gate: unpaid NGO
+2026-11-08 | InAmigos Foundation AI Intern (Internshala, WFH) | stipend gate: unpaid NGO; same as Nov 1 and Oct 30 rejected entries
+2026-11-08 | NayePankh Foundation ML/Python Intern (Internshala, WFH) | stipend gate: unpaid NGO
+2026-11-08 | Women First India Foundation ML/AI Intern (Internshala, WFH) | stipend gate: unpaid NGO
+2026-11-08 | She Can Foundation Python Intern (Internshala, WFH) | stipend gate: unpaid NGO
+2026-11-08 | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evolvra1793855538 | ML Intern @ Evolvra (1793855538) — dedup gate: same company+title as applied entries Oct 29, Oct 31, Nov 2; 3rd/4th repost
+2026-11-08 | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1794112455 | ML Intern @ Kidsneuron (1794112455) — dedup gate: same company+title as OPEN entries Nov 4 (1793770925) and Nov 7 (1793950791); 3rd repost
+2026-11-08 | https://ekacare.keka.com/careers/jobdetails/146684 | AI Engineer Intern @ Eka Care — CLOSED: Keka page shows "The Job posting is not available anymore"
+2026-11-08 | Luxoft Junior AI Engineer (LinkedIn) | experience gate: conflicting signals; one source says 3–5 years required; cannot confirm 0–1 year eligibility
+2026-11-08 | https://in.linkedin.com/jobs/view/4488778021 | Data Science Intern @ Dexter's Tech — training-org pattern; performance-based stipend up to ₹15K; traditional DS focus not AI engineering
+2026-11-08 | https://in.linkedin.com/jobs/view/4488768709 | ML Intern (new repost) @ Dexter's Tech — same training-org pattern as Nov 7 tracked entry; 2nd rejection
