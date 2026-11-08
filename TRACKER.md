@@ -147,6 +147,8 @@ draw a line after every day's run
 - [ ] 2026-11-07 | Dexter's Tech | Machine Learning Intern | India Remote | Internship; up to ₹15K perf-based; 3 months; ⚠️ training-org pattern likely; verify before applying; SAFE BET | https://in.linkedin.com/jobs/view/machine-learning-intern-at-dexter-s-tech-4488485856
 - [ ] 2026-11-07 | Zenithbyte | Python Development Intern | India Remote | Internship; perf-based; 3 months; ⚠️ verify company legitimacy; SAFE BET | https://in.linkedin.com/jobs/view/python-development-intern-at-zenithbyte-4488499596
 - [ ] 2026-11-07 | Jobgether | AI Engineer – LLM Agents & Workflow Automation | India Remote | FT; ⚠️ Jobgether is a placement platform – verify if internal hire or aggregator before applying; within 14-day FT gate; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-llm-agents-workflow-automation-at-jobgether-4486331462
+---
+- [ ] 2026-11-05 | Trovex.ai | AI Engineering Intern | India WFH (Remote) | Internship; students pursuing B.Tech eligible; voice AI + LLMs + STT/TTS + conversational AI platform; apply via jobfound.org listing; trovex.ai/careers 404; STRONGEST MATCH | https://jobfound.org/job/trovex-ai-is-hiring-for-ai-engineering-intern-remote-india-5-november-2026
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -423,3 +425,15 @@ draw a line after every day's run
 2026-11-06 | https://in.linkedin.com/jobs/view/python-ai-intern-at-techolution-4486936462 | Python AI Intern @ Techolution — location gate: Hyderabad on-site
 2026-11-07 | https://in.linkedin.com/jobs/view/associate-developer-agentic-ai-at-jaggaer-4486941234 | Associate Developer Agentic AI @ JAGGAER — location gate: Hyderabad on-site; closed June 2026 recruitment drive (positions filled)
 2026-11-07 | YTT Global Technology Intern (LinkedIn, Hyderabad) | Technology Intern @ YTT Global — location gate: Hyderabad on-site; recency gate: posted May 18 (too old, far exceeds gate)
+2026-11-08 | Target Engineer – Backend w/ Gen AI (LinkedIn, company unknown) | experience gate: 2–4 years required
+2026-11-08 | DiligenceVault – Software Engineer Backend Intern (LinkedIn) | batch gate: batch 2026 only; Shubh is 2027 batch
+2026-11-08 | Meril – ML/AI Research Intern (HireDoor) | batch gate: eligible batch 2026 and 2028; 2027 not listed
+2026-11-08 | DnyanAI – Full Stack Intern (HireDoor) | hard gate: full description behind HireDoor premium paywall; unreadable
+2026-11-08 | https://wellfound.com/jobs/4797056-ai-engineering-intern-agentic-systems-rapid-prototyping | AI Engineering Intern @ red6.ai (Wellfound) — recency gate: posted 1 month ago; exceeds 7-day internship recency gate
+2026-11-08 | https://wellfound.com/jobs/4696235-ai-engineer-intern | AI Engineer Intern @ CRUV (Wellfound) — recency gate: posted 1 month ago; exceeds 7-day internship recency gate
+2026-11-08 | https://himalayas.app/companies/snezzi/jobs/ai-visibility-engineer-intern | AI Visibility Engineer Intern @ Snezzi (Himalayas) — recency gate: posted Oct 13 (26 days ago); also SEO/marketing focus, not core AI engineering
+2026-11-08 | LinkedIn batch 2 all-caps titled listings (run 2 dataset GPT8ivRshbmkFEHdp) | training-company pattern: all-caps titles match Vortenza/Jobs4PanIndia type; no company names in Apify output to confirm individually
+2026-11-08 | Various LinkedIn (Chennai/Hyderabad/Gurugram) run 2 | location gate: not Remote/WFH or Bengaluru
+2026-11-08 | Vietnamese AI Evaluator + Dutch AI Evaluator (LinkedIn, Remote India) | annotation/evaluation role, not AI engineering
+2026-11-08 | Sony Research India (LinkedIn) | experience/qualification gate: PhD-level requirement
+2026-11-08 | GE Healthcare (LinkedIn) | experience/qualification gate: PhD-level requirement
