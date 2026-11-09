@@ -154,6 +154,10 @@ draw a line after every day's run
 - [ ] 2026-11-07 | Qubixo | Python Development Intern | WFH India | Internship; ₹12K–24K/mo; 3mo; Python/Django/ML/REST API/Flask/HTML/CSS; SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-qubixo1794028598
 - [ ] 2026-11-06 | Evolvra | Python Development Intern | WFH India | Internship; ₹12K–25K/mo; 3mo; Python/Django/ML/REST API/HTML/CSS; different from Evolvra ML (applied Oct 29/31/Nov 2); SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evolvra1793944915
 - [ ] 2026-11-07 | Qubixo | Machine Learning Intern | WFH India | Internship; ₹12K–24K/mo; 3mo; Python/ML/NLP/Deep Learning/R Programming; MODERATE MATCH | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-qubixo1794028835
+- [ ] 2026-11-09 | Nudge | Software Engineering Intern (Server/Backend) | Bengaluru on-site | Internship; final-year/recent grads eligible; backend SWE; commerce rewards platform; posted today; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-engineering-intern-server-backend-at-nudge-4487658644
+- [ ] 2026-11-09 | BNP Paribas | Data Science Intern | Bengaluru | Internship; Python/LangChain/PyTorch/sklearn; major global bank; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/data-science-intern-at-bnp-paribas-4488835858
+- [ ] 2026-11-08 | Daice Labs | Junior AI/ML Engineering | India Remote | Internship (employment type: Full-time); MIT CSAIL scientists; hybrid AI/neurosymbolic; production ML systems; 6 months; paid; STRONG MATCH | https://in.linkedin.com/jobs/view/junior-ai-ml-engineering-at-daice-labs-4487658342
+- [ ] 2026-11-09 | Vobble | AI QA/QC Engineer Intern | Bengaluru | Internship; no professional exp required; LLM QA/jailbreak detection/AI product testing; posted today; MODERATE MATCH | https://in.linkedin.com/jobs/view/ai-qa-qc-engineer-intern-at-vobble-4487119862
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -460,3 +464,11 @@ draw a line after every day's run
 2026-11-08 | Luxoft Junior AI Engineer (LinkedIn) | experience gate: conflicting signals; one source says 3–5 years required; cannot confirm 0–1 year eligibility
 2026-11-08 | https://in.linkedin.com/jobs/view/4488778021 | Data Science Intern @ Dexter's Tech — training-org pattern; performance-based stipend up to ₹15K; traditional DS focus not AI engineering
 2026-11-08 | https://in.linkedin.com/jobs/view/4488768709 | ML Intern (new repost) @ Dexter's Tech — same training-org pattern as Nov 7 tracked entry; 2nd rejection
+2026-11-09 | Vortenza AI/ML Intern (LinkedIn) | training-org pattern: "FOR COLLEGE STUDENTS ONLY" performance-based stipend boilerplate
+2026-11-09 | Devryxa AI/ML Intern (LinkedIn) | training-org pattern: same boilerplate as Vortenza, no verifiable product
+2026-11-09 | Talent to Job AI Intern (LinkedIn) | training/placement agency, not a product company
+2026-11-09 | Jobs4PanIndia various AI roles (LinkedIn) | aggregator listings, not direct employer; rejected en masse
+2026-11-09 | ThinkNovaa AI Developer Intern (LinkedIn) | training-org pattern: performance-based stipend, college-student template
+2026-11-09 | Smart Data Solutions AI/ML Intern (HireDoor, Nov 5 listing) | location gate: Chennai on-site — not Remote/WFH or Bengaluru
+2026-11-09 | Matrice AI AI/ML Intern PPO (HireDoor, Nov 3 repost) | dedup gate: same company+title as prior Oct listing already tracked
+2026-11-09 | SkillZen Loop AI/ML Intern (LinkedIn scraper result) | dedup gate: same as Oct 26 Semesteria listing already applied/rejected; same company LinkedIn repost
