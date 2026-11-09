@@ -150,6 +150,15 @@ draw a line after every day's run
 ---
 - [ ] 2026-11-05 | Trovex.ai | AI Engineering Intern | India WFH (Remote) | Internship; students pursuing B.Tech eligible; voice AI + LLMs + STT/TTS + conversational AI platform; apply via jobfound.org listing; trovex.ai/careers 404; STRONGEST MATCH | https://jobfound.org/job/trovex-ai-is-hiring-for-ai-engineering-intern-remote-india-5-november-2026
 ---
+- [ ] 2026-11-09 | Snapdeal | AI Engineering Intern (PPO) | Bengaluru on-site | ₹35K–40K/mo; PPO; apply sourav.chakraborty@snapdeal.com subj "Application for AI First Intern"; batch 2026-2028 (flag 2027); HireDoor 21h ago; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--beed45
+- [ ] 2026-11-09 | Daice Labs | Junior AI/ML Engineering | India Remote | Paid (₹ TBD); 6mo+extension; MIT CSAIL founded; PyTorch/TF; hybrid AI; posted 6h ago; STRONG MATCH | https://in.linkedin.com/jobs/view/junior-ai-ml-engineering-at-daice-labs-4487658342
+- [ ] 2026-11-09 | Techolution | Python AI Intern | Hyderabad on-site | 6mo; PPO; RAG/LLM agents/vector DBs; Inc.500; non-pref location; STRONG MATCH | https://in.linkedin.com/jobs/view/python-ai-intern-at-techolution-4486936462
+- [ ] 2026-11-09 | DeepIQ | AI Engineer Intern (Gen AI & Data) | Hyderabad hybrid | ₹? ; LangChain/LangGraph/RAG/ChromaDB; 6 days ago; non-pref location; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-engineer-intern-gen-ai-and-data-at-deepiq-4486168598
+- [ ] 2026-11-09 | Josh Talks AI | ML/AI Intern | Gurugram on-site | Paid; 6–12mo; 2027 batch explicitly stated; speech AI/Whisper/ETL pipelines; non-pref location; MODERATE MATCH | https://in.linkedin.com/jobs/view/ml-ai-intern-at-josh-talks-4486089402
+- [ ] 2026-11-09 | Sony Research India | LLM Research Intern | India Remote | Paid; 6mo; Bachelor's + fine-tuning exp allowed; multilingual LLMs/LoRA/QLoRA; research-intensive; STRETCH | https://in.linkedin.com/jobs/view/llm-research-intern-at-sony-research-india-4478061801
+- [ ] 2026-11-09 | Kaleris | Engineering Intern (Transport Analytics) | Chennai on-site | ₹? ; AI/agentic experiments/LangChain; 1 day ago; non-pref location; MODERATE MATCH | https://in.linkedin.com/jobs/view/engineering-intern-%E2%80%93-transport-analytics-at-kaleris-4487626455
+- [ ] 2026-11-09 | Kaleris | Technical Services Intern | Chennai on-site | ₹? ; LLM/RAG/agent prototypes; AI tooling; 5 days ago; non-pref location; MODERATE MATCH | https://in.linkedin.com/jobs/view/technical-services-intern-at-kaleris-4477923299
+---
 - [ ] 2026-11-08 | Kidsneuron | Python Development Intern | WFH India | Internship; ₹10K–20K/mo; 3mo; Python/Django/ML/REST API/Flask; posted today; SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-kidsneuron1794112541
 - [ ] 2026-11-07 | Qubixo | Python Development Intern | WFH India | Internship; ₹12K–24K/mo; 3mo; Python/Django/ML/REST API/Flask/HTML/CSS; SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-qubixo1794028598
 - [ ] 2026-11-06 | Evolvra | Python Development Intern | WFH India | Internship; ₹12K–25K/mo; 3mo; Python/Django/ML/REST API/HTML/CSS; different from Evolvra ML (applied Oct 29/31/Nov 2); SAFE BET | https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evolvra1793944915
@@ -460,3 +469,18 @@ draw a line after every day's run
 2026-11-08 | Luxoft Junior AI Engineer (LinkedIn) | experience gate: conflicting signals; one source says 3–5 years required; cannot confirm 0–1 year eligibility
 2026-11-08 | https://in.linkedin.com/jobs/view/4488778021 | Data Science Intern @ Dexter's Tech — training-org pattern; performance-based stipend up to ₹15K; traditional DS focus not AI engineering
 2026-11-08 | https://in.linkedin.com/jobs/view/4488768709 | ML Intern (new repost) @ Dexter's Tech — same training-org pattern as Nov 7 tracked entry; 2nd rejection
+2026-11-09 | Hewlett Packard Enterprise (LinkedIn) | experience/qualification gate: PhD program required
+2026-11-09 | GE HealthCare Research Intern AI (LinkedIn) | experience/qualification gate: PhD required
+2026-11-09 | Sony Research India Speech Recognition Intern (LinkedIn) | experience/qualification gate: Masters (Research) or PhD required
+2026-11-09 | Zetheta Algorithms Full Stack Engineer (LinkedIn) | stipend gate: explicitly Unpaid; self-paced unpaid internship
+2026-11-09 | TalentXM AI Bootcamp (LinkedIn) | stipend gate: "currently unpaid" bootcamp/fractional talent role
+2026-11-09 | Pragyan-ai Training Cum Internship (LinkedIn) | stipend gate: ₹1.5 Lakh program fee = pay-to-work scheme
+2026-11-09 | YTT Global Technology Intern (LinkedIn) | recency gate: posted May 18, 2026 — 5+ months old
+2026-11-09 | Kedge Systems AI Engineer Intern Autonomous Driving (LinkedIn) | location gate: Chennai on-site; December/January start only
+2026-11-09 | OptiSol Business Solutions AI & Vision Intern (LinkedIn) | location gate: Chennai on-site; hardware deployment focus
+2026-11-09 | Jobs4PanIndia AI Intern (LinkedIn) | quality gate: low-quality training aggregator; ₹10K performance-based
+2026-11-09 | Jobs4PanIndia Data Science Intern (LinkedIn) | quality gate: same training aggregator pattern; ₹10K performance-based
+2026-11-09 | Vortenza Systems Data Science Intern (LinkedIn) | quality gate: training org pattern same as Dexter's Tech; ₹15K performance-based
+2026-11-09 | All Squares Solutions Data Science Intern (LinkedIn) | stipend gate: part-time only; no stipend stated; Singapore/UK clients
+2026-11-09 | TAXOSMART AI Intern Mumbai (LinkedIn) | location gate: Mumbai on-site only
+2026-11-09 | OpalCode AI/ML Internshala 1793619475 | recency gate: 404 not found — 3rd time rejected (Nov 3, Nov 8, Nov 9)
