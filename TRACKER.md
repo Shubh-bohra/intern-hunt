@@ -163,6 +163,10 @@ draw a line after every day's run
 - [ ] 2026-11-10 | OpalCode | Artificial Intelligence (AI) Intern | WFH India | Internship; ₹15K–27K/mo; 2mo; AI tools/Python; posted TODAY; SAFE BET | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-opalcode1794212536
 - [ ] 2026-11-03 | GE HealthCare | AI-Enabled Engineering Intern (Full Stack) | Bengaluru on-site | Internship; ₹25K–40K/mo est; 2027–2028 batch eligible; Java/Spring Boot/Angular/AI-enabled products; posted 7d ago; MODERATE | https://hiredoor.in/jobs/ai-enabled-engineering-intern-full-stack--72ff36
 - [ ] 2026-11-06 | Mihup | Software Tech Intern | Bengaluru / Kolkata on-site | Internship; ₹25K–30K/mo; 2025–2027 batch; Python/Java/C++/Go/DSA/Conversational AI; voice AI company; MODERATE | https://hiredoor.in/jobs/software-tech-intern-54d3cc
+- [ ] 2026-11-09 | Enverus | Technical Product Intern – GenAI | Bengaluru on-site | Internship; Python/LLMs/RAG/agents/evals/prompt engineering; energy data SaaS; no explicit exp req; STRONG MATCH | https://in.linkedin.com/jobs/view/technical-product-intern-%E2%80%93-genai-26383-at-enverus-4487932349
+- [ ] 2026-11-10 | Codemonk | Machine Learning Intern (AI/ML) | Bengaluru on-site | Internship; LangChain/LlamaIndex/HuggingFace/LLM APIs/RAG/FAISS/Pinecone; posted TODAY; STRONG MATCH | https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-at-codemonk-4488324786
+- [ ] 2026-11-10 | Horrazon AI | Data Engineering Intern | WFH India | Internship; 3–6mo; Python/SQL/PostgreSQL/ETL/REST APIs/AI-ML data prep; apply careers@horrazon.in; MODERATE | https://in.linkedin.com/jobs/view/data-engineering-intern-at-horrazon-4487997222
+- [ ] 2026-11-10 | AMETEK | AI Engineer / Developer | Bengaluru on-site | FT; 0–2 yrs; Python/RAG/LLMs/document-processing; reposted TODAY; MODERATE | https://in.linkedin.com/jobs/view/ai-engineer-developer-at-ametek-4481275295
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -488,3 +492,31 @@ draw a line after every day's run
 2026-11-10 | House of Couton SME AI/ML Intern (Internshala, WFH) | role-type gate: Subject Matter Expert / content research role, not engineering
 2026-11-10 | Real Time Data Services AI/ML Intern (HireDoor, Gurugram) | location gate: Gurugram on-site
 2026-11-10 | GoKwik AI Engineering Intern (HireDoor, Bengaluru) | recency gate: posted Nov 1 (9d ago); exceeds 7-day internship gate
+2026-11-10 | Crowe AI Engineer Apprentice (LinkedIn, Nov 9) | location gate: Hyderabad on-site
+2026-11-10 | Azista Space AI Intern – SLMs (LinkedIn, Nov 9) | location gate: Hyderabad on-site
+2026-11-10 | Cigna HIH Co-Op/Intern (LinkedIn, Nov 9) | location gate: Hyderabad on-site
+2026-11-10 | Honeywell Intern Masters Data Science (LinkedIn, Nov 10) | degree gate: Masters pursuing required
+2026-11-10 | Product Manager Accelerator AI Engineer Intern (LinkedIn, Nov 9) | training-org: PM bootcamp/accelerator, not a real internship
+2026-11-10 | BizApps Studio Technical Intern Power Platform (LinkedIn, Nov 9) | profile mismatch: Dynamics 365/Power Platform, not AI/ML engineering
+2026-11-10 | S18LabX AI/CV Intern (LinkedIn, Nov 10) | profile mismatch: CV/PyTorch/sports-tech focus
+2026-11-10 | Himachalnama Content Creator AI Intern (LinkedIn, Nov 9) | profile mismatch: content creation; UNPAID
+2026-11-10 | Doveriye AI Video Social Media Intern (LinkedIn, Nov 9) | profile mismatch + location gate: Hyderabad
+2026-11-10 | Seagate Intern GenAI Customer Success (LinkedIn, Nov 10) | profile mismatch (CS role) + location: Pune
+2026-11-10 | AI Tensors AITCare AI/ML Intern (LinkedIn, Nov 10) | location gate: Visakhapatnam on-site
+2026-11-10 | People Media Factory Comfy UI Intern (LinkedIn, Nov 10) | profile mismatch (image gen) + location: Hyderabad
+2026-11-10 | IamHere Software Labs AI Video Editor Intern (LinkedIn, Nov 10) | profile mismatch (video editing) + location: Hyderabad
+2026-11-10 | Zetheta Algorithms Full Stack Engineer (LinkedIn, Nov 10) | stipend gate: UNPAID
+2026-11-10 | NexStack Innovation AI Intern (LinkedIn, Nov 10) | IT staffing/training-org pattern
+2026-11-10 | Vortenza Systems Data Science/AI Intern ×2 (LinkedIn, Nov 10) | training-org: "FOR COLLEGE STUDENTS ONLY" performance-stipend boilerplate
+2026-11-10 | ThinkNovaa Data Science/AI/Backend Intern ×3 (LinkedIn, Nov 10) | training-org: ₹10K performance-based, college-student template
+2026-11-10 | Devryxa AI/ML Intern ×3 (LinkedIn, Nov 10) | training-org: same boilerplate as Vortenza
+2026-11-10 | Talent to Job ML/Data Science Intern ×2 (LinkedIn, Nov 10) | training/placement agency, not product company
+2026-11-10 | Jobs4PanIndia AI/Backend Intern ×3 (LinkedIn, Nov 10) | aggregator listings, not direct employer
+2026-11-10 | Dexterz Technology Full Stack/AI Intern ×2 (LinkedIn, Nov 10) | training-org: ₹10K performance-only stipend
+2026-11-10 | WebBoost Solutions MERN Stack Intern (LinkedIn, Nov 10) | training-org pattern; web-only stack
+2026-11-10 | Inspotline Tech Data Science Intern (LinkedIn, Nov 10) | IT staffing/training-org pattern
+2026-11-10 | Snapmint AI Creative Design Intern (LinkedIn, Nov 10) | profile mismatch: design/UX role
+2026-11-10 | MySivi Growth Intern (LinkedIn, Nov 10) | profile mismatch: marketing/growth role
+2026-11-10 | GAOTek Content Writing Intern (LinkedIn, Nov 10) | profile mismatch: content writing role
+2026-11-10 | Weekday (YC W21) SWE Intern undisclosed client (LinkedIn, Nov 10) | aggregator for undisclosed client; same as Oct 31 rejection
+2026-11-10 | Skillzen Loop AI Intern / ML Intern ×2 (LinkedIn, Nov 8) | dedup: same company Oct 26 already tracked; training-org pattern
