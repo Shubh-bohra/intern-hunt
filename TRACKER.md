@@ -158,6 +158,11 @@ draw a line after every day's run
 - [ ] 2026-11-09 | BNP Paribas | Data Science Intern | Bengaluru | Internship; Python/LangChain/PyTorch/sklearn; major global bank; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/data-science-intern-at-bnp-paribas-4488835858
 - [ ] 2026-11-08 | Daice Labs | Junior AI/ML Engineering | India Remote | Internship (employment type: Full-time); MIT CSAIL scientists; hybrid AI/neurosymbolic; production ML systems; 6 months; paid; STRONG MATCH | https://in.linkedin.com/jobs/view/junior-ai-ml-engineering-at-daice-labs-4487658342
 - [ ] 2026-11-09 | Vobble | AI QA/QC Engineer Intern | Bengaluru | Internship; no professional exp required; LLM QA/jailbreak detection/AI product testing; posted today; MODERATE MATCH | https://in.linkedin.com/jobs/view/ai-qa-qc-engineer-intern-at-vobble-4487119862
+- [ ] 2026-11-04 | LucentraCode | AI Engineer Intern | Remote India | Internship; PPO opportunity; LLMs/multi-agent systems/agentic coding tools; 0 exp required; posted 6d ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-engineer-intern-at-lucentracode-4486085389
+- [ ] 2026-11-10 | OpalCode | AI/ML Intern | WFH India | Internship; ₹18K–25K/mo; 2mo; Python/ML/data analysis; posted TODAY; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1794212955
+- [ ] 2026-11-10 | OpalCode | Artificial Intelligence (AI) Intern | WFH India | Internship; ₹15K–27K/mo; 2mo; AI tools/Python; posted TODAY; SAFE BET | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-opalcode1794212536
+- [ ] 2026-11-03 | GE HealthCare | AI-Enabled Engineering Intern (Full Stack) | Bengaluru on-site | Internship; ₹25K–40K/mo est; 2027–2028 batch eligible; Java/Spring Boot/Angular/AI-enabled products; posted 7d ago; MODERATE | https://hiredoor.in/jobs/ai-enabled-engineering-intern-full-stack--72ff36
+- [ ] 2026-11-06 | Mihup | Software Tech Intern | Bengaluru / Kolkata on-site | Internship; ₹25K–30K/mo; 2025–2027 batch; Python/Java/C++/Go/DSA/Conversational AI; voice AI company; MODERATE | https://hiredoor.in/jobs/software-tech-intern-54d3cc
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -472,3 +477,14 @@ draw a line after every day's run
 2026-11-09 | Smart Data Solutions AI/ML Intern (HireDoor, Nov 5 listing) | location gate: Chennai on-site — not Remote/WFH or Bengaluru
 2026-11-09 | Matrice AI AI/ML Intern PPO (HireDoor, Nov 3 repost) | dedup gate: same company+title as prior Oct listing already tracked
 2026-11-09 | SkillZen Loop AI/ML Intern (LinkedIn scraper result) | dedup gate: same as Oct 26 Semesteria listing already applied/rejected; same company LinkedIn repost
+2026-11-10 | Target India Engineer Backend with Gen AI | experience gate: 2–4 years required
+2026-11-10 | Sgic Cloud Technologies AI Engineer Fresher / OpenAI Training Program | training-org pattern: recruiter-school; not a real hire
+2026-11-10 | AVYAM LABS AI/ML Intern (Wellfound #4829680) | recency gate: posted 3 weeks ago (~Oct 20); exceeds 7-day internship gate
+2026-11-10 | Magi Engineering Intern Frontend+AI (Wellfound #4746833) | recency gate: posted 1 month ago; exceeds 7-day internship gate
+2026-11-10 | Docusketch AI ML Engineer (RemoteOK #1137619) | location gate: Europe only; not India-remote
+2026-11-10 | CertifyOS AI Intern (RemoteOK #1135555) | no longer available
+2026-11-10 | PayPal Software Engineer Intern (HireDoor, Bengaluru) | batch gate: 2028 batch only; Shubh is 2027 batch
+2026-11-10 | Airbus AI for Systems Engineering Intern (HireDoor, Bengaluru, 2h ago) | hard gate: full description behind HireDoor premium paywall; requirements unverifiable
+2026-11-10 | House of Couton SME AI/ML Intern (Internshala, WFH) | role-type gate: Subject Matter Expert / content research role, not engineering
+2026-11-10 | Real Time Data Services AI/ML Intern (HireDoor, Gurugram) | location gate: Gurugram on-site
+2026-11-10 | GoKwik AI Engineering Intern (HireDoor, Bengaluru) | recency gate: posted Nov 1 (9d ago); exceeds 7-day internship gate
