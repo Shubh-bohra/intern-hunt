@@ -167,6 +167,9 @@ draw a line after every day's run
 - [ ] 2026-11-10 | Codemonk | Machine Learning Intern (AI/ML) | Bengaluru on-site | Internship; LangChain/LlamaIndex/HuggingFace/LLM APIs/RAG/FAISS/Pinecone; posted TODAY; STRONG MATCH | https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-at-codemonk-4488324786
 - [ ] 2026-11-10 | Horrazon AI | Data Engineering Intern | WFH India | Internship; 3–6mo; Python/SQL/PostgreSQL/ETL/REST APIs/AI-ML data prep; apply careers@horrazon.in; MODERATE | https://in.linkedin.com/jobs/view/data-engineering-intern-at-horrazon-4487997222
 - [ ] 2026-11-10 | AMETEK | AI Engineer / Developer | Bengaluru on-site | FT; 0–2 yrs; Python/RAG/LLMs/document-processing; reposted TODAY; MODERATE | https://in.linkedin.com/jobs/view/ai-engineer-developer-at-ametek-4481275295
+- [ ] 2026-11-11 | Offshore Minds | Software Engineer Intern | India Remote | Internship; ₹10K–15K/mo; PPO; AI agents/MCP/LLM APIs/FastAPI/RAG; final-year students welcome; closes Dec 10, 2026; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-at-offshore-minds-4487801092
+- [ ] 2026-11-11 | Skill2Source | Artificial Intelligence Intern | Delhi/Bengaluru/Mumbai (Hybrid/Remote) | Internship; ₹10K–15K/mo; freshers; RAG/AI agents/LLM APIs; ⚠️ staffing/recruiting company; MODERATE MATCH | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-skill2source-4488308688
+- [ ] 2026-11-11 | Sigmoid | DE Intern + SDE Trainee (Off-campus 2026) | Bengaluru on-site | Internship→FT PPO; 2026+2027 batch; LLM pipelines/RAG/GenAI tools; data engineering primary; MODERATE MATCH | https://in.linkedin.com/jobs/view/de-intern-sde-trainee-off-campus-hiring-2026-at-sigmoid-4489488392
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -520,3 +523,22 @@ draw a line after every day's run
 2026-11-10 | GAOTek Content Writing Intern (LinkedIn, Nov 10) | profile mismatch: content writing role
 2026-11-10 | Weekday (YC W21) SWE Intern undisclosed client (LinkedIn, Nov 10) | aggregator for undisclosed client; same as Oct 31 rejection
 2026-11-10 | Skillzen Loop AI Intern / ML Intern ×2 (LinkedIn, Nov 8) | dedup: same company Oct 26 already tracked; training-org pattern
+2026-11-11 | Scalanova Health AI Intern (LinkedIn, past 24h) | batch gate: 2024/2025/2026 only; Shubh is 2027 batch
+2026-11-11 | Sequoia Technologies Product Engineer Intern (Wellfound) | stipend gate: UNPAID
+2026-11-11 | NOCT AI Tinkerer Intern (Himalayas) | recency gate: posted Oct 8 (34 days ago); exceeds 7-day intern gate
+2026-11-11 | Addepto AI Engineering Intern (Himalayas) | location gate: Poland only
+2026-11-11 | Vilambo Private Limited AI Automation Engineer Intern (Himalayas) | recency gate: posted Oct 13 (29 days ago); exceeds 7-day intern gate
+2026-11-11 | Quantum Strides LLC AI Chatbot Developer Intern (Himalayas) | recency gate: posted Oct 11 (31 days ago); exceeds 7-day intern gate
+2026-11-11 | TerraByte Green AI Engineering Intern (Himalayas) | location gate: US only + UNPAID
+2026-11-11 | Artefact Forward Deployed Engineer Intern (Remotive) | location gate: Brazil only; not India-remote
+2026-11-11 | Jobs4PanIndia AI/Backend Intern ×3 (LinkedIn, past 24h) | aggregator listings; not direct employer
+2026-11-11 | AI Tensors / AITCare AI/ML Intern (LinkedIn, past 24h) | location gate: Visakhapatnam on-site
+2026-11-11 | S18LabX AI/CV Intern (LinkedIn, past 24h) | dedup + profile mismatch: CV/PyTorch/sports-tech; already tracked Oct entry
+2026-11-11 | ThinkNovaa ML Intern (LinkedIn, past 24h) | training-org: performance-based stipend boilerplate; already tracked
+2026-11-11 | Talent to Job ML/Data Science Intern (LinkedIn, past 24h) | training/placement agency; already tracked
+2026-11-11 | Dexter's Tech Data Science / ML Intern ×2 (LinkedIn, past 24h) | training-org: performance-based; already tracked Nov 7-8 entries
+2026-11-11 | Codemonk ML Intern (LinkedIn, 2nd view) | dedup: already in tracker as Nov 10 OPEN entry; not new
+2026-11-11 | Internshala: Pledge India / Basti Ki Pathshala / Hope Behind Tails / Queens Of Change / InAmigos / NayePankh / Women First India / She Can Foundation AI/ML Interns | stipend gate: unpaid NGOs (8 listings batch-rejected)
+2026-11-11 | Codeatrix AI/AI-ML Intern ×2 (Internshala) | training-org: 3rd repost; same as Oct 30 + Nov 7 rejected entries
+2026-11-11 | Evolvra ML Intern repost (Internshala) | dedup: 4th repost of same Oct 29/31/Nov 2 applied entry
+2026-11-11 | KidsNeuron ML Intern repost (Internshala) | dedup: 3rd repost; same as Nov 4 + Nov 7 tracked listings
