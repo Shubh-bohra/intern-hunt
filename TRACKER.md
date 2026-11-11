@@ -170,6 +170,16 @@ draw a line after every day's run
 - [ ] 2026-11-11 | Offshore Minds | Software Engineer Intern | India Remote | Internship; ₹10K–15K/mo; PPO; AI agents/MCP/LLM APIs/FastAPI/RAG; final-year students welcome; closes Dec 10, 2026; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-at-offshore-minds-4487801092
 - [ ] 2026-11-11 | Skill2Source | Artificial Intelligence Intern | Delhi/Bengaluru/Mumbai (Hybrid/Remote) | Internship; ₹10K–15K/mo; freshers; RAG/AI agents/LLM APIs; ⚠️ staffing/recruiting company; MODERATE MATCH | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-skill2source-4488308688
 - [ ] 2026-11-11 | Sigmoid | DE Intern + SDE Trainee (Off-campus 2026) | Bengaluru on-site | Internship→FT PPO; 2026+2027 batch; LLM pipelines/RAG/GenAI tools; data engineering primary; MODERATE MATCH | https://in.linkedin.com/jobs/view/de-intern-sde-trainee-off-campus-hiring-2026-at-sigmoid-4489488392
+---
+- [ ] 2026-11-11 | insureka | AI/ML Engineering Intern | Bengaluru on-site | Internship→PPO; LLM APIs (Claude/OpenAI/Gemini)/RAG/FastAPI/evals; final-year OK; STRONGEST MATCH | https://in.linkedin.com/jobs/view/ai-ml-engineering-intern-at-insureka-4488664318
+- [ ] 2026-11-11 | InfraFino | Software Engineer (AI agents + LLM integration) | India Remote | Entry level; AI agents (OpenAI/Anthropic)/backend APIs; early-stage renewable energy AI SaaS; STRONG MATCH | https://in.linkedin.com/jobs/view/software-engineer-at-infrafino-4489910756
+- [ ] 2026-11-11 | Sanas | ML DA Intern | Bengaluru on-site | Internship; Stanford-founded speech AI platform ($77M ARR); real-time accent AI; ML+data analytics hybrid; STRETCH | https://in.linkedin.com/jobs/view/ml-da-intern-at-sanas-4489948266
+- [ ] 2026-11-11 | Tradl AI | AI Generalist Intern | Bengaluru on-site | Internship; Tier-1 VC-backed trading AI platform; LLM deployment + automations; ⚠️ verify if engineering vs. ops; STRETCH | https://in.linkedin.com/jobs/view/ai-generalist-intern-at-tradl-ai-4489936600
+- [ ] 2026-11-11 | Honeywell Technologies | Intern Bachelors AI | Bengaluru on-site | Internship; Bachelors-level; ⚠️ generic description – verify AI/ML engineering scope before applying; SAFE BET brand | https://in.linkedin.com/jobs/view/intern-bachelors-ai-at-honeywell-technologies-4489911879
+- [ ] 2026-11-11 | insureka | Software Engineering Intern (Backend + Frontend) | Bengaluru on-site | Internship→PPO; Python APIs/React/microservices on GKE; same company as AI/ML intern above; SAFE BET | https://in.linkedin.com/jobs/view/software-engineering-intern-backend-%2B-frontend-at-insureka-4488664314
+- [ ] 2026-11-11 | Digital Roundabout Pte Ltd | Jr. Machine Learning Engineer | India Remote | FT; Entry level; Singapore-incorporated; fine-tune pretrained models/end-to-end ML deployment; STRETCH | https://in.linkedin.com/jobs/view/jr-machine-learning-engineer-at-digital-roundabout-pte-ltd-4488657995
+- [ ] 2026-11-11 | Abnormal AI | Software Engineer I - Backend | Bengaluru on-site | FT; experience not stated; Config Platform Python backend; Series D $530M email security AI; STRETCH – verify exp gate | https://in.linkedin.com/jobs/view/software-engineer-i-backend-at-abnormal-ai-4488673932
+- [ ] 2026-11-11 | Commure | Software Engineer (India) | Bengaluru on-site | FT; experience not stated; AI OS for healthcare; ambient AI + intelligent agents; $7B valuation; STRETCH – verify exp gate | https://in.linkedin.com/jobs/view/software-engineer-india-at-commure-4471131390
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -542,3 +552,8 @@ draw a line after every day's run
 2026-11-11 | Codeatrix AI/AI-ML Intern ×2 (Internshala) | training-org: 3rd repost; same as Oct 30 + Nov 7 rejected entries
 2026-11-11 | Evolvra ML Intern repost (Internshala) | dedup: 4th repost of same Oct 29/31/Nov 2 applied entry
 2026-11-11 | KidsNeuron ML Intern repost (Internshala) | dedup: 3rd repost; same as Nov 4 + Nov 7 tracked listings
+2026-11-11 | SS&C Technologies GenAI Developer/Engineer/Analyst (LinkedIn, pt II) | experience gate: 2-3 years required
+2026-11-11 | NexLevr AI Marketing Intern (LinkedIn, pt II) | profile mismatch: marketing/growth role, not engineering
+2026-11-11 | Articulus Surgical SWE Robotics Intern (LinkedIn, pt II) | profile mismatch: embedded/robotics engineering
+2026-11-11 | CodeRound AI SDE I (LinkedIn, pt II) | aggregator for undisclosed client + Mid-Senior level
+2026-11-11 | Joblet-AI Fullstack SWE (LinkedIn, pt II) | title/level gate: Mid-Senior level listed
