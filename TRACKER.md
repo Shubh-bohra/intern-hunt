@@ -181,6 +181,15 @@ draw a line after every day's run
 - [ ] 2026-11-11 | Abnormal AI | Software Engineer I - Backend | Bengaluru on-site | FT; experience not stated; Config Platform Python backend; Series D $530M email security AI; STRETCH – verify exp gate | https://in.linkedin.com/jobs/view/software-engineer-i-backend-at-abnormal-ai-4488673932
 - [ ] 2026-11-11 | Commure | Software Engineer (India) | Bengaluru on-site | FT; experience not stated; AI OS for healthcare; ambient AI + intelligent agents; $7B valuation; STRETCH – verify exp gate | https://in.linkedin.com/jobs/view/software-engineer-india-at-commure-4471131390
 - [ ] 2026-11-07 | Gravity AI | AI Engineer | Remote India | FT; 1yr exp; Python/LangChain/LangGraph/RAG/MCP/multi-agent/LangSmith/evals; ₹3L–5L + rev-share; active recruiter; PERFECT MATCH | https://wellfound.com/jobs/5008664-ai-engineer
+- [ ] 2026-11-12 | Fourthuman | AI full-stack engineer | India | Remote | Fit: build internal tools + AI capabilities; FastAPI/LangChain/agent background matches | https://in.linkedin.com/jobs/view/ai-full-stack-engineer-at-fourthuman-4489214059
+- [ ] 2026-11-12 | GE Aerospace | Data Science Intern | Bengaluru | On-site | Fit: GenAI solutions matches Tez Health AI pipeline and TriageForge multi-agent | https://in.linkedin.com/jobs/view/data-science-intern-at-ge-aerospace-4490309600
+- [ ] 2026-11-12 | Sony Research India | Speech Recognition Intern | Bengaluru | On-site | Fit: direct voice AI/STT match from Tez Health real-time speech pipeline and VAD | https://in.linkedin.com/jobs/view/speech-recognition-intern-at-sony-research-india-4478019878
+- [ ] 2026-11-12 | Conduent | App Dev & Support Engineer I (AI Developer) | Bangalore/Kochi/Vizag | Hybrid | Fit: Python/GenAI/MCP/FastAPI/RAG perfect stack match across all three major projects | https://in.linkedin.com/jobs/view/app-dev-support-engineer-i-at-conduent-4489903869
+- [ ] 2026-11-12 | Sony Research India | LLM Research Intern | Bengaluru | On-site | Fit: LLM research stretch; PyTorch/NLP from FloatChat RAG and TriageForge orchestration | https://in.linkedin.com/jobs/view/llm-research-intern-at-sony-research-india-4478061801
+- [ ] 2026-11-12 | GE HealthCare | Research Intern – AI | Bengaluru | On-site | Fit: AI algorithms research; different role from Full Stack intern already tracked Nov 3 | https://in.linkedin.com/jobs/view/research-intern-ai-at-ge-healthcare-4461088583
+- [ ] 2026-11-12 | S18LabX | AI / Computer Vision Intern | Pune/remote | Hybrid | Fit: stretch - CV/sports tech; Python/AI grounding applicable; remote option available | https://in.linkedin.com/jobs/view/ai-computer-vision-intern-%C2%B7-pune-or-remote-at-s18labx-4489418618
+- [ ] 2026-11-12 | Digital Roundabout Pte Ltd | Jr. Machine Learning Engineer | India | Remote | Fit: STT/TTS/GenAI partial match; Singapore company remote India; speech AI applicable | https://in.linkedin.com/jobs/view/jr-machine-learning-engineer-at-digital-roundabout-pte-ltd-4488657995
+- [ ] 2026-11-12 | Zetheta Algorithms | Full Stack Engineer | India | Remote | Fit: AI agents + MCP server must-have matches TriageForge MCP build; FinTech AI startup | https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4489099023
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -562,3 +571,28 @@ draw a line after every day's run
 2026-11-12 | Eshal AI DS/Engineering Intern (Wellfound #4577999) | CLOSED — 410 Gone
 2026-11-12 | Ambitio AI Engineer Intern (Wellfound #4980139) | Tier 1 institute restriction (IIT/NIT/IIIT/BITS only); Bengaluru on-site
 2026-11-12 | LucentraCode AI Engineer Intern (Wellfound #4995200) | DEDUP — same role as Nov 4 LinkedIn TRACKER entry (4486085389)
+2026-11-12 | Codemonk ML Intern (LinkedIn, r604800) | dedup: already in tracker Nov 10 OPEN entry
+2026-11-12 | Skill2Source AI Developer (LinkedIn, r604800) | dedup: already in tracker Nov 11 OPEN entry
+2026-11-12 | BNP Paribas AI COE Intern (LinkedIn, r604800) | dedup: already in tracker Nov 11 OPEN entry
+2026-11-12 | iion AI/ML Intern (LinkedIn, r604800) | dedup: already in tracker Oct entry
+2026-11-12 | Daice Labs AI Intern (LinkedIn, r604800) | dedup: already in tracker Nov 7 OPEN entry
+2026-11-12 | Offshore Minds SWE Intern (LinkedIn, r604800) | dedup: already in tracker Nov 11 OPEN entry
+2026-11-12 | Innovfix AI Intern (LinkedIn, r604800) | dedup: already in tracker prior entry
+2026-11-12 | GE HealthCare Full Stack Intern (LinkedIn, r604800) | dedup: AI-Enabled Full Stack intern already tracked Nov 3 (different from Research Intern – AI)
+2026-11-12 | viamagus AI Dev Intern (LinkedIn, r604800) | dedup: already in tracker as AA entry
+2026-11-12 | AMETEK Software Intern (LinkedIn, r604800) | dedup: already in tracker prior entry
+2026-11-12 | SoftwareBrio AI Dev Intern (LinkedIn, r604800) | dedup: already in tracker
+2026-11-12 | Matrice AI ML Intern (LinkedIn, r604800) | dedup: already in tracker
+2026-11-12 | Vortenza Systems Data Science/AI Intern (LinkedIn, r604800) | training-org: "FOR COLLEGE STUDENTS ONLY" performance-stipend boilerplate
+2026-11-12 | Devryxa AI/ML Intern (LinkedIn, r604800) | training-org: same boilerplate as Vortenza
+2026-11-12 | Talent to Job ML/Data Science Intern (LinkedIn, r604800) | training/placement agency, not product company
+2026-11-12 | Jobs4PanIndia AI/Backend Intern (LinkedIn, r604800) | aggregator listings, not direct employer
+2026-11-12 | ThinkNovaa Data Science/AI/Backend Intern (LinkedIn, r604800) | training-org: ₹10K performance-based, college-student template
+2026-11-12 | NexStack Innovation AI Intern (LinkedIn, r604800) | IT staffing/training-org pattern
+2026-11-12 | Zycus AI Engineer (LinkedIn, r604800) | experience gate: M.Tech/PhD required + Mid-Senior level
+2026-11-12 | Allied Minds AI Developer Intern (LinkedIn, r604800) | location gate: UK/US only; not India-remote
+2026-11-12 | Tezhire AI Intern (LinkedIn, r604800) | training-org/HR-tech; no technical internship description
+2026-11-12 | HealSpan ML Intern (LinkedIn, r604800) | location gate: Hyderabad on-site
+2026-11-12 | Omnivoltaic Energy AI Intern (LinkedIn, r604800) | location gate: Delhi on-site
+2026-11-12 | Digital Roundabout Pte Ltd Jr. MLE (1st view Nov 11, 2nd view Nov 12) | NOTE: previously rejected Nov 11 as "profile mismatch: STT/TTS partial"; RE-EVALUATED today as STRETCH pass — entry added to open
+2026-11-12 | S18LabX AI/CV Intern (1st view Nov 10/11, re-evaluated Nov 12) | NOTE: previously rejected as "profile mismatch"; RE-EVALUATED today as STRETCH pass with remote option — entry added to open
