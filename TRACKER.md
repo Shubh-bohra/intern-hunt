@@ -180,6 +180,7 @@ draw a line after every day's run
 - [ ] 2026-11-11 | Digital Roundabout Pte Ltd | Jr. Machine Learning Engineer | India Remote | FT; Entry level; Singapore-incorporated; fine-tune pretrained models/end-to-end ML deployment; STRETCH | https://in.linkedin.com/jobs/view/jr-machine-learning-engineer-at-digital-roundabout-pte-ltd-4488657995
 - [ ] 2026-11-11 | Abnormal AI | Software Engineer I - Backend | Bengaluru on-site | FT; experience not stated; Config Platform Python backend; Series D $530M email security AI; STRETCH – verify exp gate | https://in.linkedin.com/jobs/view/software-engineer-i-backend-at-abnormal-ai-4488673932
 - [ ] 2026-11-11 | Commure | Software Engineer (India) | Bengaluru on-site | FT; experience not stated; AI OS for healthcare; ambient AI + intelligent agents; $7B valuation; STRETCH – verify exp gate | https://in.linkedin.com/jobs/view/software-engineer-india-at-commure-4471131390
+- [ ] 2026-11-07 | Gravity AI | AI Engineer | Remote India | FT; 1yr exp; Python/LangChain/LangGraph/RAG/MCP/multi-agent/LangSmith/evals; ₹3L–5L + rev-share; active recruiter; PERFECT MATCH | https://wellfound.com/jobs/5008664-ai-engineer
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -557,3 +558,7 @@ draw a line after every day's run
 2026-11-11 | Articulus Surgical SWE Robotics Intern (LinkedIn, pt II) | profile mismatch: embedded/robotics engineering
 2026-11-11 | CodeRound AI SDE I (LinkedIn, pt II) | aggregator for undisclosed client + Mid-Senior level
 2026-11-11 | Joblet-AI Fullstack SWE (LinkedIn, pt II) | title/level gate: Mid-Senior level listed
+2026-11-12 | Gravity AI AI Intern (Wellfound #4377335) | CLOSED — 410 Gone
+2026-11-12 | Eshal AI DS/Engineering Intern (Wellfound #4577999) | CLOSED — 410 Gone
+2026-11-12 | Ambitio AI Engineer Intern (Wellfound #4980139) | Tier 1 institute restriction (IIT/NIT/IIIT/BITS only); Bengaluru on-site
+2026-11-12 | LucentraCode AI Engineer Intern (Wellfound #4995200) | DEDUP — same role as Nov 4 LinkedIn TRACKER entry (4486085389)
