@@ -13,6 +13,8 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-13 | Ark Abroad | AI Product Engineering Intern | India Remote | Internship | Fit: LangChain/LangGraph/MCP/RAG/PostgreSQL/agentic AI perfect stack match; 0-2yr; freshers strongly encouraged; ⚠️ stipend not stated (verify before applying) | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-at-ark-abroad-4489292427
+---
 - [x ] 2026-11-13 | Tndrr | AI/ML Intern (PPO) | Remote India | Internship PPO | Fit: LLMs/GenAI/RAG/NLP/AI agents exactly matches TriageForge + FloatChat stack; 2026-2028 batch; ₹20-25K/mo | https://hiredoor.in/jobs/ai-ml-intern-ppo--433fdb
 - [x ] 2026-11-13 | RINNOVAR | AI/ML Engineering Intern (PPO) | Remote India | Internship PPO | Fit: Python/AI-ML/GenAI/LLMs; freshers welcome; PPO track; ₹25K/mo | https://hiredoor.in/jobs/ai-ml-engineering-intern-ppo--541e9c
 - [x ] 2026-11-13 | Hook Music | AI/ML Intern (PPO) | Remote India | Internship PPO | Fit: ML recommendation/embeddings; Python/PyTorch/NumPy; 2027-2029 batch; stipend figure needs verify | https://hiredoor.in/jobs/ai-ml-intern-ppo--2906f6
@@ -616,4 +618,32 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-13 | Digitals AI Generative AI Engineer Freshers 2026/27 (HireDoor eef85e) | location gate: Hyderabad hybrid; not remote or Bengaluru
 2026-11-13 | InspironLabs AI Engineer GenAI & Agentic AI (HireDoor 3a094c) | batch gate: 2024-2026 only; Shubh is 2027
 2026-11-13 | Dxora Technologies AI Engineer FT (HireDoor 1652fa) | batch gate: 2020-2025 only; Shubh is 2027
-2026-11-13 | LinkedIn ML/AI Intern ×7 (ThinkNovaa ×2, Jobs4PanIndia, Skillzen Loop [dedup], Talent to Job, The Thinking Child Foundation, Ark Abroad) | hard gate: full description not available via API; Skillzen Loop already tracked Nov 7
+2026-11-13 | LinkedIn ML/AI Intern ×6 pt I (ThinkNovaa ×2, Jobs4PanIndia, Skillzen Loop [dedup], Talent to Job, The Thinking Child Foundation) | hard gate: full description not available via API; Skillzen Loop already tracked Nov 7
+2026-11-13 | Ark Abroad AI Product Engineering Intern (LinkedIn, pt I) | NOTE: initially rejected (full description not available); RE-EVALUATED in pt II with full scraper — PROMOTED TO OPEN; see entry above
+2026-11-13 | Fujitsu AI & Automation Solutions Developer (LinkedIn, pt II) | location gate: role based in Portugal/Poland/Costa Rica; not India-remote despite India listing
+2026-11-13 | Joblet-AI Junior Data Scientist (India Remote, pt II) | experience gate: 1+ year required; also "English-speaking country" note in listing
+2026-11-13 | Advertflair AI Engineer (Chennai, pt II) | experience gate: 1–2 years required; location gate: Chennai on-site
+2026-11-13 | BINARY WORKS Software Intern (Chennai, pt II) | location gate: Chennai on-site
+2026-11-13 | Evangelist Apps Junior AI Developer (India Remote, pt II) | experience gate: 1–2 years required
+2026-11-13 | Neeyat AI Non-paid Tech Intern (India, pt II) | unpaid + part-time
+2026-11-13 | Zetheta Algorithms Data Analyst (India, pt II) | unpaid; dedup: same company as Nov 12 tracked entry
+2026-11-13 | Digital Aura AI Developer (Ahmedabad, pt II) | location gate: Ahmedabad on-site
+2026-11-13 | Shodh AI AI/ML Engineer (Jaipur, pt II) | experience gate: 1–2 years; location gate: Jaipur on-site
+2026-11-13 | Aranca Consultant Internship (Mumbai, pt II) | location gate: Mumbai; tier-1/2 college restriction
+2026-11-13 | CodeRound AI Junior ML Engineer (India, pt II) | experience gate: 1–2 years; Mid-Senior level listing
+2026-11-13 | PMGlide Software Intern (Delhi Remote, pt II) | profile mismatch: generic SW intern for PM platform; no AI/ML engineering
+2026-11-13 | Sandal Tree Soft Software Intern (Pune, pt II) | location gate: Pune on-site
+2026-11-13 | CBOSIT AI Business Consultant Intern (Dehradun, pt II) | profile mismatch: consulting/business role; first 3 months unpaid
+2026-11-13 | AzimuthForge Machine Learning Intern (India, pt II) | training-org pattern: ₹7,500/mo performance-based; basic DS/ML scope
+2026-11-13 | PrimrIQ Artificial Intelligence Intern (India, pt II) | training-org pattern: ₹7,500/mo performance-based; basic ML scope
+2026-11-13 | Voice Arena AI-ML Intern (Gurugram, pt II) | location gate: Gurugram on-site
+2026-11-13 | Medi Nex Workforce SOFTWARE DEVELOPER INTERN (India, pt II) | staffing/workforce company; no AI/ML engineering scope; dedup pattern
+2026-11-13 | Dolby PhD Research Intern (Bengaluru, pt II) | PhD required
+2026-11-13 | Product Manager Accelerator AI Engineer Intern (India, pt II) | PM bootcamp/training-org; not real engineering internship
+2026-11-13 | Kaleris Engineering Intern Transport Analytics (Chennai, pt II) | profile mismatch: transport/logistics analytics; Chennai on-site
+2026-11-13 | Kaleris Associate SWE Intern YMS (Chennai, pt II) | profile mismatch: YMS focus; Chennai on-site
+2026-11-13 | Adobe 2027 Intern Research PhD (Kolkata, pt II) | PhD required
+2026-11-13 | Cigna HIH Co-Op/Intern (Hyderabad, pt II) | location gate: Hyderabad on-site; dedup: rejected Nov 10
+2026-11-13 | Celonis Associate Technology Consultant (Bengaluru, pt II) | dedup: already tracked Nov 1 open entry
+2026-11-13 | F13 Technologies AWS Cloud Intern (India, pt II) | profile mismatch: cloud infra only; no AI/ML engineering
+2026-11-13 | Dexterz Technology Full Stack Developer ×2 (India, pt II) | profile mismatch: no AI/ML focus; generic web dev
