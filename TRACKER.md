@@ -190,6 +190,11 @@ draw a line after every day's run
 - [ ] 2026-11-12 | S18LabX | AI / Computer Vision Intern | Pune/remote | Hybrid | Fit: stretch - CV/sports tech; Python/AI grounding applicable; remote option available | https://in.linkedin.com/jobs/view/ai-computer-vision-intern-%C2%B7-pune-or-remote-at-s18labx-4489418618
 - [ ] 2026-11-12 | Digital Roundabout Pte Ltd | Jr. Machine Learning Engineer | India | Remote | Fit: STT/TTS/GenAI partial match; Singapore company remote India; speech AI applicable | https://in.linkedin.com/jobs/view/jr-machine-learning-engineer-at-digital-roundabout-pte-ltd-4488657995
 - [ ] 2026-11-12 | Zetheta Algorithms | Full Stack Engineer | India | Remote | Fit: AI agents + MCP server must-have matches TriageForge MCP build; FinTech AI startup | https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4489099023
+- [ ] 2026-11-13 | Tndrr | AI/ML Intern (PPO) | Remote India | Internship PPO | Fit: LLMs/GenAI/RAG/NLP/AI agents exactly matches TriageForge + FloatChat stack; 2026-2028 batch; ₹20-25K/mo | https://hiredoor.in/jobs/ai-ml-intern-ppo--433fdb
+- [ ] 2026-11-13 | RINNOVAR | AI/ML Engineering Intern (PPO) | Remote India | Internship PPO | Fit: Python/AI-ML/GenAI/LLMs; freshers welcome; PPO track; ₹25K/mo | https://hiredoor.in/jobs/ai-ml-engineering-intern-ppo--541e9c
+- [ ] 2026-11-13 | Hook Music | AI/ML Intern (PPO) | Remote India | Internship PPO | Fit: ML recommendation/embeddings; Python/PyTorch/NumPy; 2027-2029 batch; stipend figure needs verify | https://hiredoor.in/jobs/ai-ml-intern-ppo--2906f6
+- [ ] 2026-11-13 | Dxora Technologies | AI Engineer Intern | Remote India | Internship | Fit: Python/AI-ML/LLMs/GenAI/prompt engineering; 2026-2028 batch; ₹20-25K/mo | https://hiredoor.in/jobs/ai-engineer-intern-fded00
+- [ ] 2026-11-13 | LatentForce | AI/ML Intern | Bengaluru on-site | Internship | Fit: Agentic AI R&D; LLMs/RAG/multi-agent matches TriageForge; 2027 batch eligible; ₹30-40K/mo | https://hiredoor.in/jobs/ai-ml-intern-c46715
 
 ## Rejected by filters (routine only, do not edit)
 
@@ -596,3 +601,10 @@ draw a line after every day's run
 2026-11-12 | Omnivoltaic Energy AI Intern (LinkedIn, r604800) | location gate: Delhi on-site
 2026-11-12 | Digital Roundabout Pte Ltd Jr. MLE (1st view Nov 11, 2nd view Nov 12) | NOTE: previously rejected Nov 11 as "profile mismatch: STT/TTS partial"; RE-EVALUATED today as STRETCH pass — entry added to open
 2026-11-12 | S18LabX AI/CV Intern (1st view Nov 10/11, re-evaluated Nov 12) | NOTE: previously rejected as "profile mismatch"; RE-EVALUATED today as STRETCH pass with remote option — entry added to open
+2026-11-13 | ImmunitoAI Software Engineering Intern (HireDoor f982c5) | CLOSED: page confirmed "ImmunitoAI is no longer accepting applications for this role"
+2026-11-13 | GXS Software Engineering Internship (HireDoor 0ffb70) | profile mismatch: Go/mobile/DevSecOps; not AI/ML/Python stack
+2026-11-13 | SimViz Labs Software Engineering Intern PPO (HireDoor ffa93b) | profile mismatch: Kotlin/React/AWS; not AI/ML stack
+2026-11-13 | Digitals AI Generative AI Engineer Freshers 2026/27 (HireDoor eef85e) | location gate: Hyderabad hybrid; not remote or Bengaluru
+2026-11-13 | InspironLabs AI Engineer GenAI & Agentic AI (HireDoor 3a094c) | batch gate: 2024-2026 only; Shubh is 2027
+2026-11-13 | Dxora Technologies AI Engineer FT (HireDoor 1652fa) | batch gate: 2020-2025 only; Shubh is 2027
+2026-11-13 | LinkedIn ML/AI Intern ×7 (ThinkNovaa ×2, Jobs4PanIndia, Skillzen Loop [dedup], Talent to Job, The Thinking Child Foundation, Ark Abroad) | hard gate: full description not available via API; Skillzen Loop already tracked Nov 7
