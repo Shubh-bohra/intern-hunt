@@ -13,11 +13,16 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-14 | Opptra | Forward Deployed Engineer Intern | Bangalore on-site | Internship | Fit: LLM agentic workflows/Python/eval loops/prompt engineering; 0 exp; production code from day 1; posted TODAY | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-opptra-4489571490
+- [ ] 2026-11-14 | ATRISI | ML/AI Intern | Bengaluru | Internship | Fit: RAG/retrieval/LangChain/FastAPI/HuggingFace/model fine-tuning; 0 exp; email analyst@atrisi.org; posted TODAY | https://atrisi.org/collaborate/ml-ai-intern#apply
+- [ ] 2026-11-14 | IBM SIL | Software Innovation Lab Intern – AI & Data | Bengaluru | Internship | Fit: LLMs/LangChain/CrewAI/agentic AI enterprise; B.Tech eligible; 7.0+ CGPA; Summer 2027 (May–Aug) | https://ibm.biz/ibmsilindia
+- [ ] 2026-11-14 | TerraTern | AI Engineer | Bengaluru on-site | Full-time | Fit: LLM APIs/RAG/AI agents/LangChain/LlamaIndex/Python; Fresher OK with strong projects; posted TODAY | https://in.linkedin.com/jobs/view/ai-engineer-at-terratern-4489860676
+- [ ] 2026-11-14 | Echno Technologies | Python Developer (Fresher) | Bengaluru on-site | Full-time | Fit: Python/GenAI/RAG/embeddings/FastAPI/Flask; Fresher FT; posted Nov 13 | https://in.linkedin.com/jobs/view/python-developer-fresher-at-echno-technologies-pvt-ltd-4490743182
 - [ ] 2026-11-14 | Discover Dollar Inc | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Python/OOP/GenAI/prompt engineering; 0-1yr; ₹18-20K/mo; posted TODAY | https://hiredoor.in/jobs/ai-engineer-intern-c45547
 - [ ] 2026-11-14 | Endee | Machine Learning Intern | Bengaluru on-site | Internship | Fit: Python/ML/embeddings/RAG/NLP/vector search; Fresher; ₹10-20K/mo est; posted TODAY | https://hiredoor.in/jobs/machine-learning-intern-9124d8
 - [ ] 2026-11-14 | Agentic Universe | Software Development Engineer Intern | Bengaluru on-site | Internship PPO | Fit: Python/Backend/REST APIs/PostgreSQL/Redis; 0 exp; ₹25-30K/mo; PPO | https://wellfound.com/jobs/4985505-software-development-engineer-interns
 ---
-- [ ] 2026-11-13 | Ark Abroad | AI Product Engineering Intern | India Remote | Internship | Fit: LangChain/LangGraph/MCP/RAG/PostgreSQL/agentic AI perfect stack match; 0-2yr; freshers strongly encouraged; ⚠️ stipend not stated (verify before applying) | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-at-ark-abroad-4489292427
+- [closed ] 2026-11-13 | Ark Abroad | AI Product Engineering Intern | India Remote | Internship | Fit: LangChain/LangGraph/MCP/RAG/PostgreSQL/agentic AI perfect stack match; 0-2yr; freshers strongly encouraged; ⚠️ stipend not stated (verify before applying) | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-at-ark-abroad-4489292427
 ---
 - [x ] 2026-11-13 | Tndrr | AI/ML Intern (PPO) | Remote India | Internship PPO | Fit: LLMs/GenAI/RAG/NLP/AI agents exactly matches TriageForge + FloatChat stack; 2026-2028 batch; ₹20-25K/mo | https://hiredoor.in/jobs/ai-ml-intern-ppo--433fdb
 - [x ] 2026-11-13 | RINNOVAR | AI/ML Engineering Intern (PPO) | Remote India | Internship PPO | Fit: Python/AI-ML/GenAI/LLMs; freshers welcome; PPO track; ₹25K/mo | https://hiredoor.in/jobs/ai-ml-engineering-intern-ppo--541e9c
@@ -51,7 +56,7 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 - X[ ] 2026-11-10 | OpalCode | AI/ML Intern | WFH India | Internship; ₹18K–25K/mo; 2mo; Python/ML/data analysis; posted TODAY; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1794212955
 - [X ] 2026-11-10 | OpalCode | Artificial Intelligence (AI) Intern | WFH India | Internship; ₹15K–27K/mo; 2mo; AI tools/Python; posted TODAY; SAFE BET | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-opalcode1794212536
 - [X] 2026-11-10 | Codemonk | Machine Learning Intern (AI/ML) | Bengaluru on-site | Internship; LangChain/LlamaIndex/HuggingFace/LLM APIs/RAG/FAISS/Pinecone; posted TODAY; STRONG MATCH | https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-at-codemonk-4488324786
-- [NA ] 2026-11-10 | Horrazon AI | Data Engineering Intern | WFH India | Internship; 3–6mo; Python/SQL/PostgreSQL/ETL/REST APIs/AI-ML data prep; apply careers@horrazon.in; MODERATE | https://in.linkedin.com/jobs/view/data-engineering-intern-at-horrazon-4487997222
+- [closed ] 2026-11-10 | Horrazon AI | Data Engineering Intern | WFH India | Internship; 3–6mo; Python/SQL/PostgreSQL/ETL/REST APIs/AI-ML data prep; apply careers@horrazon.in; MODERATE | https://in.linkedin.com/jobs/view/data-engineering-intern-at-horrazon-4487997222
 - [AA ] 2026-11-10 | AMETEK | AI Engineer / Developer | Bengaluru on-site | FT; 0–2 yrs; Python/RAG/LLMs/document-processing; reposted TODAY; MODERATE | https://in.linkedin.com/jobs/view/ai-engineer-developer-at-ametek-4481275295
 ---
 - [X ] 2026-11-09 | Nudge | Software Engineering Intern (Server/Backend) | Bengaluru on-site | Internship; final-year/recent grads eligible; backend SWE; commerce rewards platform; posted today; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-engineering-intern-server-backend-at-nudge-4487658644
@@ -214,6 +219,25 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-14 | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-at-ark-abroad-4489292427 | AI Product Engineering Intern @ Ark Abroad — live check: "No longer accepting applications" (was open Nov 13; now closed)
+2026-11-14 | https://in.linkedin.com/jobs/view/data-engineering-intern-at-horrazon-4487997222 | Data Engineering Intern @ Horrazon AI — live check: "No longer accepting applications" (was NA Nov 10; now confirmed closed)
+2026-11-14 | https://hiredoor.in/jobs/data-science-intern-remote--39b75f | Data Science Intern (Remote) @ Arthashastra Intelligence — profile mismatch: data engineering/BI pipeline role (Airflow, Apache Superset, PySpark, Tableau) — not GenAI/LLM focus
+2026-11-14 | https://hiredoor.in/jobs/software-tech-intern-f05e3f | Software Tech Intern @ ARDEM Incorporated — batch gate: eligible batches listed as 2026 and 2028 only; Shubh is 2027
+2026-11-14 | Lexsi Labs AI Agent Engineer Intern (Mumbai Metropolitan Region) | location gate: Mumbai on-site; outside Bengaluru/remote scope
+2026-11-14 | Lexsi Labs AI Research Internship (Mumbai) | location gate: Mumbai on-site + profile mismatch (mechanistic interpretability focus)
+2026-11-14 | Stackular AI/ML Intern (Hyderabad on-site) | location gate: Hyderabad on-site; outside Bengaluru/remote scope
+2026-11-14 | NAQD EXIM Consulting AI Intern (Malappuram, Kerala on-site) | location gate: Malappuram on-site; outside Bengaluru/remote scope
+2026-11-14 | FabAlley AI Design Internship (Noida) | profile mismatch: AI image generation for fashion; Noida on-site location
+2026-11-14 | Marvell Technology Research Intern | degree gate: PhD/MS required; not bachelor's-eligible
+2026-11-14 | NimbleQ Research Intern AI & Educational Technology | duration gate: 2 weeks only
+2026-11-14 | Dolby PhD Research Intern | degree gate: PhD required
+2026-11-14 | PayPal Software Engineer Intern | batch gate: 2028 only; Shubh is 2027
+2026-11-14 | Unloq Cloud & DevOps Intern | institution restriction: IIT/NIT/BITS only
+2026-11-14 | Teradata AI Engineer | experience gate: 1+ years required
+2026-11-14 | Auric AI Labs Backend Engineer | experience gate: 1+ years required
+2026-11-14 | Rippling Software Engineer I (FullStack) | experience gate: 1+ years required
+2026-11-14 | https://hiredoor.in/jobs/ai-ml-intern-ppo--f92e54 | ML Engineer Intern @ Peakflo (HireDoor f92e54) — experience gate: 0.5–2 years required
+2026-11-14 | IBM Research Software Intern (Gurgaon) | location gate: Gurgaon on-site (separate from IBM SIL Bengaluru; different role)
 2026-11-07 | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-codeatrix1793717530 | AI Intern @ Codeatrix (new repost, ID 1793717530) — training/learning-org pattern: "technology-focused learning organisation helping students build practical, industry-relevant skills"; 1000+ applicants; prior Oct 30 listing (1793284129) already applied
 2026-11-07 | https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-tzuroni-ltd1793904343 | AI Agent Development Intern @ TZURONI LTD. (Kefar Sava, Israel) — stipend gate: ₹5K–7K/mo only; part-time; working hours 9:30 am–1:30 am IST required; crypto/trading niche
 2026-11-07 | AI/ML Intern, Document Intelligence @ unknown (Sholinganallur, Nov 1, LinkedIn Apify run offset 24) | location gate: Chennai area on-site; same as Smart Data Solutions already rejected 2026-11-02
