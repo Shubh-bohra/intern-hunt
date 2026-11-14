@@ -13,6 +13,10 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-14 | Discover Dollar Inc | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Python/OOP/GenAI/prompt engineering; 0-1yr; ₹18-20K/mo; posted TODAY | https://hiredoor.in/jobs/ai-engineer-intern-c45547
+- [ ] 2026-11-14 | Endee | Machine Learning Intern | Bengaluru on-site | Internship | Fit: Python/ML/embeddings/RAG/NLP/vector search; Fresher; ₹10-20K/mo est; posted TODAY | https://hiredoor.in/jobs/machine-learning-intern-9124d8
+- [ ] 2026-11-14 | Agentic Universe | Software Development Engineer Intern | Bengaluru on-site | Internship PPO | Fit: Python/Backend/REST APIs/PostgreSQL/Redis; 0 exp; ₹25-30K/mo; PPO | https://wellfound.com/jobs/4985505-software-development-engineer-interns
+---
 - [ ] 2026-11-13 | Ark Abroad | AI Product Engineering Intern | India Remote | Internship | Fit: LangChain/LangGraph/MCP/RAG/PostgreSQL/agentic AI perfect stack match; 0-2yr; freshers strongly encouraged; ⚠️ stipend not stated (verify before applying) | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-at-ark-abroad-4489292427
 ---
 - [x ] 2026-11-13 | Tndrr | AI/ML Intern (PPO) | Remote India | Internship PPO | Fit: LLMs/GenAI/RAG/NLP/AI agents exactly matches TriageForge + FloatChat stack; 2026-2028 batch; ₹20-25K/mo | https://hiredoor.in/jobs/ai-ml-intern-ppo--433fdb
@@ -647,3 +651,16 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-13 | Celonis Associate Technology Consultant (Bengaluru, pt II) | dedup: already tracked Nov 1 open entry
 2026-11-13 | F13 Technologies AWS Cloud Intern (India, pt II) | profile mismatch: cloud infra only; no AI/ML engineering
 2026-11-13 | Dexterz Technology Full Stack Developer ×2 (India, pt II) | profile mismatch: no AI/ML focus; generic web dev
+2026-11-14 | ClickPost AI Engineering Intern (pt I) | live check: listing closed Nov 1
+2026-11-14 | InspironLabs AI Engineer (pt I) | batch gate: "2024-2026 batch only"; Shubh is 2027 batch
+2026-11-14 | Dxora Technologies AI Engineer FT (pt I) | batch gate: "2020-2025 batch eligible"; Shubh is 2027 batch
+2026-11-14 | Digitals AI GenAI Engineer (pt I) | location gate: Hyderabad hybrid
+2026-11-14 | Crowe Junior AI Platform Engineer (pt I) | location gate: Hyderabad on-site
+2026-11-14 | StoryHug.ai AI/ML Intern (pt I) | location gate: Hyderabad on-site
+2026-11-14 | Provana AI Intern PPO (pt I) | location gate: Noida on-site
+2026-11-14 | https://workatastartup.com/jobs/74067 | Founding Engineer @ Openbenchmarks (YC W24) — HireDoor labelled as "Remote India ₹40-45 LPA Fresher" but YC page states San Francisco location; requires in-person day in SF office for interview; $100K–$120K USD salary not India-compatible
+2026-11-14 | https://hiredoor.in/jobs/machine-learning-intern-fe38a5 | ML Engineer Intern @ Peakflo — duplicate: already applied 2026-10-26
+2026-11-14 | https://wellfound.com/jobs/4829601-ai-ml-intern | AI/ML Intern @ Ortus Innovation — Wellfound 410 Gone; listing taken down
+2026-11-14 | https://wellfound.com/jobs/3147707-ml-intern | ML Intern @ Future AGI — Wellfound 410 Gone; listing closed
+2026-11-14 | https://wellfound.com/jobs/4829680-ai-ml-intern | AI/ML Intern @ AVYAM LABS — explicitly unpaid 6-month internship; hard reject
+2026-11-14 | VectorShift ML Engineer (workatastartup.com) | 404 not found; listing no longer exists
