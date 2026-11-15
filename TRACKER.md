@@ -13,6 +13,13 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-15 | Aleph Technologies | SDE Intern – Full Stack & AI | Remote (India) / Pune Hybrid | Internship | Fit: Python/LangGraph/LLM tool-calling/FastAPI/React; no exp req; pre-final/final year welcome; REMOTE; STRONGEST MATCH | https://in.linkedin.com/jobs/view/sde-intern-full-stack-ai-at-aleph-technologies-4490204903
+- [ ] 2026-11-15 | SustainabilityEconomics.ai | Post-Training and RL Engineer | Bengaluru on-site | Internship contract | Fit: LoRA fine-tuning/RL reward functions/PyTorch/HuggingFace/eval; "up to two years incl internships and research projects"; STRONG MATCH | https://in.linkedin.com/jobs/view/post-training-and-reinforcement-learning-engineer-at-sustainability-economics-ai-4490206785
+- [ LS] 2026-11-15 | Plearun | AI Engineer Intern | India Remote | Internship | Fit: LLM features/retrieval pipelines/eval scripts; students/recent grads; ₹5,000/mo very low; SAFE BET | https://in.linkedin.com/jobs/view/ai-engineer-intern-at-plearun-4491206894
+- [ ] 2026-11-14 | TerraTern | AI Forward Deployed Engineer (AI FDE) | Bengaluru on-site | Full-time | Fit: LLM APIs (Claude/OpenAI/Gemini)/Python/RAG/agents/n8n/SQL; "fresher with strong projects, internships or a good portfolio" explicitly OK; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-forward-deployed-engineer-ai-fde-at-terratern-4489876268
+- [ ] 2026-11-12 | Intugle | AI Engineer – Agentic Systems | Bengaluru on-site | Full-time | Fit: LangChain/LangGraph/LangSmith/MCP servers/RAG/vector DBs/multi-agent/Docker; Entry level 1-3yr; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-agentic-systems-at-intugle-4489079608
+- [ ] 2026-11-09 | Auric AI Labs | AI Researcher: Reasoning & Retrieval | Bengaluru on-site | Full-time | Fit: RAG/multi-hop reasoning/production AI; "No experience requirement, no degree requirement"; defense/intelligence domain; STRETCH | https://in.linkedin.com/jobs/view/ai-researcher-reasoning-retrieval-at-auric-ai-labs-4477280043
+---
 - [ x] 2026-11-15 | Lexsi Labs | AI Agent Engineer Intern | Remote | Internship | Fit: Python/agentic AI/LLMs/agent frameworks/eval pipelines/planning+memory architectures; Fresher; batch 2026-28; ₹40-50K/mo; REMOTE INDIA; STRONGEST MATCH | https://hiredoor.in/jobs/ai-agent-engineer-intern-47c229
 - [x ] 2026-11-15 | Drivetrain | Engineering Intern – Gen AI for FP&A Platform | Remote India | Internship | Fit: Python/RAG/agentic workflows/LLMs; Fresher; poxsted TODAY; STRONG MATCH | https://hiredoor.in/jobs/engineering-intern-gen-ai-for-fp-a-platform-a13d78
 - [x ] 2026-11-15 | Vahan | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Python/LLMs/GenAI/prompt engineering/fine-tuning/eval frameworks/agent workflows/LangChain/RAG/vector DBs; Fresher; 1 applicant; STRONG MATCH | https://hiredoor.in/jobs/ai-engineer-intern-fe5f04
@@ -227,6 +234,15 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-15 | AI/ML Intern @ PM Accelerator (India Remote) | stipend gate: unpaid / no stipend stated
+2026-11-15 | AI Intern @ AIONDATA (Noida on-site) | location gate: Noida on-site
+2026-11-15 | AI Intern @ DataQ Labs (India Remote) | training-org pattern: performance-based ₹10K, certificate-focused curriculum
+2026-11-15 | Software Engineer I – Backend @ Northern Trust (Bengaluru) | title gate: Senior Associate seniority framing; 2+ years implied
+2026-11-15 | AI Coding Associate 2 @ PwC (Hyderabad) | location gate: Hyderabad on-site; experience gate: 2+ years
+2026-11-15 | Applied Scientist I @ Amazon (Bengaluru) | experience gate: no explicit fresher eligibility; min 1+ year industry ML implied
+2026-11-15 | AI Orchestration Engineer @ Qualcomm (Bengaluru) | experience gate: 1+ year minimum stated
+2026-11-15 | Research Fellow @ Microsoft Research India (Bengaluru) | experience gate: strong research background expected; not explicitly fresher-friendly
+2026-11-15 | Associate Technology Consultant @ Celonis – Galaxy Graduate Program (Bengaluru, ID 4488923863) | duplicate gate: functionally identical to Associate Deployment Engineer – Galaxy Graduate Program already tracked 2026-11-01
 2026-11-14 | https://in.linkedin.com/jobs/view/ai-product-engineering-intern-at-ark-abroad-4489292427 | AI Product Engineering Intern @ Ark Abroad — live check: "No longer accepting applications" (was open Nov 13; now closed)
 2026-11-14 | https://in.linkedin.com/jobs/view/data-engineering-intern-at-horrazon-4487997222 | Data Engineering Intern @ Horrazon AI — live check: "No longer accepting applications" (was NA Nov 10; now confirmed closed)
 2026-11-14 | https://hiredoor.in/jobs/data-science-intern-remote--39b75f | Data Science Intern (Remote) @ Arthashastra Intelligence — profile mismatch: data engineering/BI pipeline role (Airflow, Apache Superset, PySpark, Tableau) — not GenAI/LLM focus
