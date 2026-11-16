@@ -13,6 +13,11 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-16 | Revrag AI Technology | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Voice AI/LLM/STT/TTS/eval pipelines = direct Tez Health + TriageForge match; $2.5M seed; Fresher; ₹unstated; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineer-intern-e86e17
+- [ ] 2026-11-16 | Vahan | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Python/LLMs/GenAI/LangChain/RAG/Vector DBs = full FloatChat + TriageForge stack; ₹35K/mo; 2026-2028 batch; NEW listing distinct from fe5f04 | https://hiredoor.in/jobs/ai-engineer-intern-d38d8a
+- [ ] 2026-11-16 | Vilambo | AI Automation Engineer Intern | Remote India | Internship | Fit: n8n/Make/LLM APIs/Python automation; $7K-10K USD/yr (currency ambiguous); STRETCH | https://remotive.com/remote/jobs/artificial-intelligence/ai-automation-engineer-intern-6615783
+- [ ] 2026-11-16 | OpalCode | AI/ML Intern (Part-Time WFH) | WFH | Internship | Fit: Python/ML/AI; ₹18-25K/mo; 2 months; part-time; freshers; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1794668204
+---
 - [NA ] 2026-11-16 | IBM Research | Research Software Intern | India (batch 2026-2028) | Internship | Fit: Research + software dev, ₹40-50K/mo, May-Aug 2027; B.E./B.Tech eligible; min 70%/7.0 CGPA; STRONG MATCH | https://hiredoor.in/jobs/research-software-intern-044644
 - [ X] 2026-11-16 | VDart Digital | AI Intern – Generative AI / LLM | Bengaluru on-site | Internship | Fit: GenAI/LLM/RAG/Python/LangChain/LlamaIndex; 2025-2027 batch; ₹25K/mo; apply via email mohamed.akhif@vdartdigital.com; STRONG MATCH | https://hiredoor.in/jobs/ai-intern-generative-ai-llm-8c9f64
 - [ NA] 2026-11-16 | Clera | ML Intern | Remote India | Internship | Fit: Python/PyTorch/TensorFlow/LLMs/NLP/ML pipelines; 2025-2027 batch; ₹1-2 LPA listed (LS if annual; verify before applying) | https://hiredoor.in/jobs/ml-intern-5c1b02
@@ -730,3 +735,9 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-16 | AI/ML Intern @ NDFM Business World (WFH) | stipend gate: ₹5-7K/mo
 2026-11-16 | AI Intern @ Umang Sisodia (WFH) | stipend gate: ₹3K/mo essentially unpaid
 2026-11-14 | VectorShift ML Engineer (workatastartup.com) | 404 not found; listing no longer exists
+2026-11-16 | GoGHL.ai Forward Deployment Engineer Intern (pt II) | location gate: Jaipur/Udaipur on-site
+2026-11-16 | Noise Software Fullstack & AI Intern (pt II) | location gate: Gurugram on-site
+2026-11-16 | ThinkNovaa AI Intern via Foundit (pt II) | training-org pattern (prior rejection confirmed)
+2026-11-16 | Interface Infosys AI & ML Engineer AIMLE via Naukri (pt II) | unreadable full description — hard gate
+2026-11-16 | Floneo AI Intern via Internshala (pt II) | stipend gate: ₹6-10K/mo too low (LS)
+2026-11-16 | MAGDOX Software Engineer Intern (pt II) | profile mismatch: firmware security/Go backend, no AI/ML skills
