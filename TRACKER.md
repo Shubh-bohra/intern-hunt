@@ -13,6 +13,14 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-16 | IBM Research | Research Software Intern | India (batch 2026-2028) | Internship | Fit: Research + software dev, ₹40-50K/mo, May-Aug 2027; B.E./B.Tech eligible; min 70%/7.0 CGPA; STRONG MATCH | https://hiredoor.in/jobs/research-software-intern-044644
+- [ ] 2026-11-16 | VDart Digital | AI Intern – Generative AI / LLM | Bengaluru on-site | Internship | Fit: GenAI/LLM/RAG/Python/LangChain/LlamaIndex; 2025-2027 batch; ₹25K/mo; apply via email mohamed.akhif@vdartdigital.com; STRONG MATCH | https://hiredoor.in/jobs/ai-intern-generative-ai-llm-8c9f64
+- [ LS] 2026-11-16 | Clera | ML Intern | Remote India | Internship | Fit: Python/PyTorch/TensorFlow/LLMs/NLP/ML pipelines; 2025-2027 batch; ₹1-2 LPA listed (LS if annual; verify before applying) | https://hiredoor.in/jobs/ml-intern-5c1b02
+- [ ] 2026-11-16 | Discover Dollar Inc | Analytics / AI Engineer Intern | Bengaluru on-site | Internship | Fit: Python/PySpark/Polars/GenAI data pipelines; 0-1yr; ₹18-20K/mo; different role from AI Eng Intern tracked Nov 14 (Keka req 91847); STRETCH | https://hiredoor.in/jobs/analytics-ai-engineer-intern-62a648
+- [ ] 2026-11-16 | Qubixo | Machine Learning Intern | WFH | Internship | Fit: Python/ML/NLP/Deep Learning; no exp req; ₹12-24K/mo; IT services Bengaluru; SAFE BET | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-qubixo1794723625
+- [ ] 2026-11-16 | EvoNexis | Machine Learning Intern | WFH | Internship | Fit: Python/ML/NLP; no exp req; ₹17-29K/mo; Pune cloud startup; SAFE BET | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evonexis1794635974
+- [ ] 2026-11-16 | Codeatrix | AI/ML Intern | WFH | Internship | Fit: Python/ML/NLP; any background; ₹20-27K/mo; edtech training org Bengaluru; SAFE BET | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1794502523
+---
 - [ ] 2026-11-15 | Aleph Technologies | SDE Intern – Full Stack & AI | Remote (India) / Pune Hybrid | Internship | Fit: Python/LangGraph/LLM tool-calling/FastAPI/React; no exp req; pre-final/final year welcome; REMOTE; STRONGEST MATCH | https://in.linkedin.com/jobs/view/sde-intern-full-stack-ai-at-aleph-technologies-4490204903
 - [ ] 2026-11-15 | SustainabilityEconomics.ai | Post-Training and RL Engineer | Bengaluru on-site | Internship contract | Fit: LoRA fine-tuning/RL reward functions/PyTorch/HuggingFace/eval; "up to two years incl internships and research projects"; STRONG MATCH | https://in.linkedin.com/jobs/view/post-training-and-reinforcement-learning-engineer-at-sustainability-economics-ai-4490206785
 - [ LS] 2026-11-15 | Plearun | AI Engineer Intern | India Remote | Internship | Fit: LLM features/retrieval pipelines/eval scripts; students/recent grads; ₹5,000/mo very low; SAFE BET | https://in.linkedin.com/jobs/view/ai-engineer-intern-at-plearun-4491206894
@@ -711,4 +719,14 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-14 | https://wellfound.com/jobs/4829601-ai-ml-intern | AI/ML Intern @ Ortus Innovation — Wellfound 410 Gone; listing taken down
 2026-11-14 | https://wellfound.com/jobs/3147707-ml-intern | ML Intern @ Future AGI — Wellfound 410 Gone; listing closed
 2026-11-14 | https://wellfound.com/jobs/4829680-ai-ml-intern | AI/ML Intern @ AVYAM LABS — explicitly unpaid 6-month internship; hard reject
+2026-11-16 | AI Engineering Intern PPO @ Snapdeal (Bengaluru) | batch gate: eligible batch listed as 2026 and 2028 only; 2027 excluded
+2026-11-16 | Research Intern – AI Evaluations @ Karya (Bengaluru Remote) | profile mismatch: qualitative research / social science evaluation role, not software/AI engineering
+2026-11-16 | AI Engineer Intern @ CRUV via Wellfound (Remote India) | recency gate: posted 2 months ago
+2026-11-16 | Associate AI Engineer @ Emplay (Remote India) | experience gate: "1–2 years hands-on GenAI" required
+2026-11-16 | AI/ML Engineer @ Scriptshub Technologies (Pune on-site) | location gate: Pune only
+2026-11-16 | Data Science/AI ML Engineer @ Blubridge (Chennai) | location gate: Chennai only
+2026-11-16 | Agentic AI Development Intern @ Niveshbay (Mumbai-area on-site) | location gate: Mumbai-area on-site
+2026-11-16 | ML Intern @ Pledge India Foundation (WFH) | stipend gate: unpaid
+2026-11-16 | AI/ML Intern @ NDFM Business World (WFH) | stipend gate: ₹5-7K/mo
+2026-11-16 | AI Intern @ Umang Sisodia (WFH) | stipend gate: ₹3K/mo essentially unpaid
 2026-11-14 | VectorShift ML Engineer (workatastartup.com) | 404 not found; listing no longer exists
