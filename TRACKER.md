@@ -13,6 +13,14 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-17 | Google | Forward Deployed Engineer Intern 2027 | Bengaluru on-site | Internship | Fit: Python/RAG/multi-agent/LangGraph production AI = exact TriageForge + FloatChat stack; ⚠️ penultimate-year language (verify eligibility — title says 2027 matches graduation year); STRONGEST MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-2027-at-google-4489727942
+- [ ] 2026-11-17 | LSEG | AI/ML Intern | Bengaluru on-site | Internship | Fit: ML/GenAI/information retrieval/Python; FTSE 100 global brand; semester FT internship PPO possible; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-ml-intern-at-lseg-4489767043
+- [ ] 2026-11-17 | Secfix | Backend Engineer – GTM Engineering | Remote India | Full-time | Fit: Python/SQL/REST APIs/AI agents/LLM APIs/Claude API; 0-2yr fresh grad; European security SaaS; equity; STRONG MATCH | https://hiredoor.in/jobs/backend-engineer-gtm-engineering-676f92
+- [ ] 2026-11-17 | Velqumi | AI Engineer Intern | Bengaluru on-site | Internship | Fit: AI agents/LLMs/evals/intelligent workflows; Fresher 2025-2027; ₹20-25K/mo; GOOD MATCH | https://hiredoor.in/jobs/ai-engineer-intern-beef5b
+- [ ] 2026-11-17 | Upsta Analytics | Data Scientist & Data Engineer Intern | Remote India | Internship | Fit: Python/ML/GenAI/LLMs/AI agents; Fresher; enterprise AI analytics; GOOD MATCH | https://hiredoor.in/jobs/data-scientist-data-engineer-intern-4ae351
+- [ ] 2026-11-17 | Bolna | AI Solutions Engineer | Bengaluru on-site | Full-time | Fit: YC F25 voice AI platform/prompt engineering/Hindi+Hinglish; direct Tez Health voice AI match; Fresher; STRETCH | https://hiredoor.in/jobs/ai-solutions-engineer-b3a38f
+- [ ] 2026-11-17 | Velqumi | Forward Deployed Engineer Intern | Bengaluru on-site | Internship | Fit: Fresher 2025-2027; ₹20-25K/mo; SAFE BET | https://hiredoor.in/jobs/forward-deployed-engineer-intern-cd717d
+---
 - [ ] 2026-11-16 | Revrag AI Technology | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Voice AI/LLM/STT/TTS/eval pipelines = direct Tez Health + TriageForge match; $2.5M seed; Fresher; ₹unstated; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineer-intern-e86e17
 - [ ] 2026-11-16 | Vahan | AI Engineer Intern | Bengaluru on-site | Internship | Fit: Python/LLMs/GenAI/LangChain/RAG/Vector DBs = full FloatChat + TriageForge stack; ₹35K/mo; 2026-2028 batch; NEW listing distinct from fe5f04 | https://hiredoor.in/jobs/ai-engineer-intern-d38d8a
 - [ ] 2026-11-16 | Vilambo | AI Automation Engineer Intern | Remote India | Internship | Fit: n8n/Make/LLM APIs/Python automation; $7K-10K USD/yr (currency ambiguous); STRETCH | https://remotive.com/remote/jobs/artificial-intelligence/ai-automation-engineer-intern-6615783
@@ -741,3 +749,5 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-16 | Interface Infosys AI & ML Engineer AIMLE via Naukri (pt II) | unreadable full description — hard gate
 2026-11-16 | Floneo AI Intern via Internshala (pt II) | stipend gate: ₹6-10K/mo too low (LS)
 2026-11-16 | MAGDOX Software Engineer Intern (pt II) | profile mismatch: firmware security/Go backend, no AI/ML skills
+2026-11-17 | eTeam AI Engineering Intern PPO (HireDoor 7162c3, pt I) | staffing agency: "eTeam delivers business transformation... providing leadership and expert talent"; very thin JD
+2026-11-17 | Runable Forward Deployed Engineer Intern (HireDoor 28975b, pt I) | batch gate: eligible batch explicitly 2023 and 2026 only; Shubh is 2027
