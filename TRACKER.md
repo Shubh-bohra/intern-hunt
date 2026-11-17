@@ -751,3 +751,16 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-16 | MAGDOX Software Engineer Intern (pt II) | profile mismatch: firmware security/Go backend, no AI/ML skills
 2026-11-17 | eTeam AI Engineering Intern PPO (HireDoor 7162c3, pt I) | staffing agency: "eTeam delivers business transformation... providing leadership and expert talent"; very thin JD
 2026-11-17 | Runable Forward Deployed Engineer Intern (HireDoor 28975b, pt I) | batch gate: eligible batch explicitly 2023 and 2026 only; Shubh is 2027
+2026-11-17 | Amoh AI Research Intern (LinkedIn 4484965459, pt II) | unreadable full description — linkedin.com job page blocked in cloud session; scraper data confirms Bengaluru/Internship/Nov 17; manual check recommended
+2026-11-17 | TE Connectivity Innovation & Automation Intern (LinkedIn, pt II) | unreadable full description — careers.te.com blocked in cloud session; scraper data confirms Bengaluru/Internship/Nov 17; manual check recommended
+2026-11-17 | ClickPost AI Engineering Intern (keka 139105, pt II) | unreadable full description — clickpost.keka.com blocked in cloud session; search signals: 0-1yr, Python/LangChain/LlamaIndex/MCP; manual check recommended
+2026-11-17 | Abstrabit AI Engineering Intern (HireDoor 4b4cb6, pt II) | unreadable full description — hiredoor.in blocked in cloud session; search signals: 0-1yr, LLMOps/RAG/Agents, Bengaluru; manual check recommended
+2026-11-17 | SpotDraft AI Engineering Intern (joinsaarthi, pt II) | unreadable full description — joinsaarthi.com blocked in cloud session; search signals: 0-3yr, RAG/LLM, Bengaluru; manual check recommended
+2026-11-17 | JLL AI Engineer GenAI/RAG (peerlist, pt II) | unreadable full description — peerlist.io blocked in cloud session; search signals: 0-2yr, GenAI/RAG, Bengaluru; manual check recommended
+2026-11-17 | Swiggy AI Engineer Intern RAG/LLMs (myinternships.in, pt II) | unreadable full description — myinternships.in blocked in cloud session; manual check recommended
+2026-11-17 | EpicureAI Labs Agentic AI Engineering Intern (pt II) | unreadable full description — portal blocked in cloud session; manual check recommended
+2026-11-17 | Black Box AI Engineer Intern (pt II) | batch gate: 2024/2025/2026 only; Shubh is 2027
+2026-11-17 | ANSRSource AI/ML Intern (pt II) | stipend gate: ₹18K/mo; no LLM scope; education company
+2026-11-17 | Wayfair SWE Intern AI-First (pt II) | recency gate: posted Oct 17, 31 days old
+2026-11-17 | Gnani.ai GenAI Intern (pt II) | recency gate: posted Aug 2026; too old
+2026-11-17 | Big Air Lab AI/ML Intern (pt II) | recency gate: posted ~Oct 26, 22 days old
