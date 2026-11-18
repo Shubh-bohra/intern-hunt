@@ -13,8 +13,8 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
-- [ ] 2026-11-18 | RocketAEO | AI Engineer Intern | India Remote | Internship | Fit: Remote India; 2027 batch eligible; ₹20K/mo; today's posting; ⚠️ company unverified on HireDoor; SAFE BET | https://hiredoor.in/jobs/ai-engineer-intern-921c71
-- [ ] 2026-11-18 | Wepsol | Junior AI Engineer | Bengaluru on-site | Full-time | Fit: 2027 batch; ₹35-50K/mo; Fresher FT; Python/AI/ML/GenAI; apply swati.Patil@wepsol.com; ⚠️ employer verification pending; SAFE BET | https://hiredoor.in/jobs/junior-ai-engineer-e7359e
+- [ x] 2026-11-18 | RocketAEO | AI Engineer Intern | India Remote | Internship | Fit: Remote India; 2027 batch eligible; ₹20K/mo; today's posting; ⚠️ company unverified on HireDoor; SAFE BET | https://hiredoor.in/jobs/ai-engineer-intern-921c71
+- [ x] 2026-11-18 | Wepsol | Junior AI Engineer | Bengaluru on-site | Full-time | Fit: 2027 batch; ₹35-50K/mo; Fresher FT; Python/AI/ML/GenAI; apply swati.Patil@wepsol.com; ⚠️ employer verification pending; SAFE BET | https://hiredoor.in/jobs/junior-ai-engineer-e7359e
 ---
 - [ x] 2026-11-17 | Amoh | Artificial Intelligence Research Intern | Bengaluru hybrid | Internship | Fit: Medical AI/RL environments/Python; no exp req; posted today; STRETCH (niche domain) | https://in.linkedin.com/jobs/view/artificial-intelligence-research-intern-at-amoh-4490435204
 - [ x] 2026-11-17 | TE Connectivity | Innovation & Automation Intern | Bengaluru on-site | Internship | Fit: AI/ML tools/Python/GenAI automation; no exp req; global MNC; posted today; STRETCH | https://in.linkedin.com/jobs/view/innovation-automation-at-te-connectivity-4491548585
