@@ -13,6 +13,13 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-18 | Fast Code AI | SDE Intern | Bengaluru on-site | Internship | Fit: LLM APIs/FastAPI/backend; final-year eligible; apply manali@fastcode.ai; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-fast-code-ai-4491819789
+- [ ] 2026-11-18 | AtkinsRéalis | Apprentice (Data Scientist) | Bengaluru East hybrid | Internship/Apprenticeship | Fit: GenAI/LLM/RAG/Azure OpenAI; fresh graduates encouraged; global engineering MNC; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4492010167
+- [ ] 2026-11-18 | SkillsCapital | Software Engineer Intern – AI/ML & Agentic AI | Fully Remote India | Internship | Fit: Multi-agent/RAG/LLM Engineering; fixed stipend; apply careers@skillscapital.io; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-%E2%80%93-ai-ml-agentic-ai-fully-remote-ai-native-specialist-talent-cloud-global-tech-talent-venture-at-skillscapital-4491830484
+- [ ] 2026-11-18 | Zebra Technologies | 2027 (6 Month) Internship – Software Engineering | Bengaluru on-site | Internship | Fit: GenAI/LLM/Agentic AI; 2027 batch by name in title; ZBRA major public MNC; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/2027-6-month-internship-bengaluru-software-engineering-at-zebra-technologies-4490877313
+- [ ] 2026-11-17 | Lumia Security | AI Engineering Intern | India Remote | Internship | Fit: AI governance/ML/Python; no explicit exp req; fully remote India; GOOD MATCH | https://in.linkedin.com/jobs/view/ai-engineering-intern-at-lumia-security-4491418348
+- [ ] 2026-11-17 | Tripmojo | AI Software Engineering Intern | Gurugram or remote | Internship | Fit: Agentic travel app; freshers welcome; competitive stipend; ⚠️ URGENT apply by Nov 19; STRETCH | https://in.linkedin.com/jobs/view/ai-software-engineering-intern-at-tripmojo-4491452112
+---
 - [ x] 2026-11-18 | RocketAEO | AI Engineer Intern | India Remote | Internship | Fit: Remote India; 2027 batch eligible; ₹20K/mo; today's posting; ⚠️ company unverified on HireDoor; SAFE BET | https://hiredoor.in/jobs/ai-engineer-intern-921c71
 - [ x] 2026-11-18 | Wepsol | Junior AI Engineer | Bengaluru on-site | Full-time | Fit: 2027 batch; ₹35-50K/mo; Fresher FT; Python/AI/ML/GenAI; apply swati.Patil@wepsol.com; ⚠️ employer verification pending; SAFE BET | https://hiredoor.in/jobs/junior-ai-engineer-e7359e
 ---
@@ -776,3 +783,20 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-17 | Wayfair SWE Intern AI-First (pt II) | recency gate: posted Oct 17, 31 days old
 2026-11-17 | Gnani.ai GenAI Intern (pt II) | recency gate: posted Aug 2026; too old
 2026-11-17 | Big Air Lab AI/ML Intern (pt II) | recency gate: posted ~Oct 26, 22 days old
+2026-11-18 | Honeywell Intern Masters AI (pt II) | degree gate: requires Master's pursuit; not Bachelor's
+2026-11-18 | Zycus Walkin AI Interns (pt II) | batch gate: 2026 graduates only; Shubh is 2027 batch
+2026-11-18 | REVERSE Cleantech Tech Intern (pt II) | profile mismatch: CV/robotics/packaging, not AI/LLM engineering
+2026-11-18 | JobSPhere ML Intern (pt II) | training-org pattern: performance-based stipend only
+2026-11-18 | Crossing Infotech ML/AI/Backend (pt II) | no verifiable web presence; prior rejection Oct 26 confirmed
+2026-11-18 | ThinkNovaa ML/AI/Backend/Full Stack (pt II) | training-org: ₹10K performance-based; college-student template
+2026-11-18 | MediNex Workforce ML/SW/Backend (pt II) | staffing agency pattern; repeated rejection
+2026-11-18 | Infineo AI Engineer Intern (pt II) | unpaid internship
+2026-11-18 | Napster Corp AI/ML (pt II) | location gate: Trivandrum on-site
+2026-11-18 | HPE Intern/External Intern (pt II) | profile mismatch: not AI-specific role
+2026-11-18 | Carrier AI/ML Intern (pt II) | location gate: Hyderabad on-site
+2026-11-18 | Bluebex Software Engineer (pt II) | location gate: Noida on-site
+2026-11-18 | The Wedding Company AI/ML Research (pt II) | degree gate: M.Tech/MS required
+2026-11-18 | Stackular AI/ML Intern Agentic AI (pt II) | location gate: Hyderabad on-site (prior rejection)
+2026-11-18 | AIONDATA AI Engineering (pt II) | location gate: Noida on-site (prior rejection Nov 15)
+2026-11-18 | NextGen Digital Solutions AI/ML (pt II) | location gate: Mumbai on-site
+2026-11-18 | Jobs4PanIndia AI/Backend (pt II) | training-org/low stipend pattern
