@@ -13,6 +13,9 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-18 | RocketAEO | AI Engineer Intern | India Remote | Internship | Fit: Remote India; 2027 batch eligible; ₹20K/mo; today's posting; ⚠️ company unverified on HireDoor; SAFE BET | https://hiredoor.in/jobs/ai-engineer-intern-921c71
+- [ ] 2026-11-18 | Wepsol | Junior AI Engineer | Bengaluru on-site | Full-time | Fit: 2027 batch; ₹35-50K/mo; Fresher FT; Python/AI/ML/GenAI; apply swati.Patil@wepsol.com; ⚠️ employer verification pending; SAFE BET | https://hiredoor.in/jobs/junior-ai-engineer-e7359e
+---
 - [ x] 2026-11-17 | Amoh | Artificial Intelligence Research Intern | Bengaluru hybrid | Internship | Fit: Medical AI/RL environments/Python; no exp req; posted today; STRETCH (niche domain) | https://in.linkedin.com/jobs/view/artificial-intelligence-research-intern-at-amoh-4490435204
 - [ x] 2026-11-17 | TE Connectivity | Innovation & Automation Intern | Bengaluru on-site | Internship | Fit: AI/ML tools/Python/GenAI automation; no exp req; global MNC; posted today; STRETCH | https://in.linkedin.com/jobs/view/innovation-automation-at-te-connectivity-4491548585
 - [x ] 2026-11-17 | Google | Forward Deployed Engineer Intern 2027 | Bengaluru on-site | Internship | Fit: Python/RAG/multi-agent/LangGraph production AI = exact TriageForge + FloatChat stack; ⚠️ penultimate-year language (verify eligibility — title says 2027 matches graduation year); STRONGEST MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-2027-at-google-4489727942
@@ -257,6 +260,13 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-18 | Signify Digital Traineeship (LinkedIn 4491714464, Bengaluru) | unreadable full description — linkedin.com blocked in cloud session; manual check recommended
+2026-11-18 | NURY AI/ML Model Engineer Intern (LinkedIn 4490479277, Remote) | unreadable full description — linkedin.com blocked in cloud session; manual check recommended
+2026-11-18 | thinkbridge AI-Native Product Engineer – Generalist (HireDoor f572b4, Chennai) | location gate: Chennai on-site; outside Bengaluru/Remote target; otherwise strong fit (0–2yr, LLMs/agents/Python)
+2026-11-17 | Es Magico Agentic AI Intern (HireDoor, Nov 17) | batch gate: eligible batch 2026 and 2028 only; Shubh is 2027
+2026-11-17 | STAN AI App Development Intern (HireDoor 1a2f67) | institution restriction: IIT/NIT/IIM preference stated in description
+2026-11-17 | Reward360 AI Builder / Founding Engineer — Founder's Office (HireDoor 5d1b71) | recency gate: original posting Oct 21 (28 days old; exceeds 14-day FT gate)
+2026-11-17 | Axentriax / Elevate Labs AI/ML Intern (HireDoor, Nov 17) | training-org pattern: Elevate Labs affiliate model
 2026-11-15 | AI/ML Intern @ PM Accelerator (India Remote) | stipend gate: unpaid / no stipend stated
 2026-11-15 | AI Intern @ AIONDATA (Noida on-site) | location gate: Noida on-site
 2026-11-15 | AI Intern @ DataQ Labs (India Remote) | training-org pattern: performance-based ₹10K, certificate-focused curriculum
