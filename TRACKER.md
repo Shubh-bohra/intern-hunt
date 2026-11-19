@@ -13,6 +13,12 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-19 | Vivusoft Technologies | AI Agent Engineer: Full-Time Intern | Bengaluru on-site (Hebbal) | Internship | Fit: Voice agents/WhatsApp/RAG/guardrails = Tez Health + TriageForge; ₹10-25K/mo; batch 2026/2027; today's posting; STRONGEST MATCH | https://hiredoor.in/jobs/ai-agent-engineer-full-time-intern-2026-2027-graduates--46c382
+- [ ] 2026-11-19 | Thermo Fisher Scientific | IT Intern – AI Software Development | Bengaluru on-site | Internship | Fit: Python/ML/GenAI/RAG/embeddings/LLM APIs; major biotech (Nasdaq:TMO); fresher; today's posting; STRONG MATCH | https://hiredoor.in/jobs/it-intern-ai-software-development-70e3f6
+- [ ] 2026-11-19 | EpicureAI Labs | Engineering Intern – Agentic AI | Bengaluru on-site/hybrid | Internship PPO | Fit: LangChain/FastAPI/RAG/guardrails/healthcare domain = direct Tez Health + TriageForge match; DPIIT startup; date unverified on Weekday; STRONGEST MATCH | https://jobs.weekday.works/engineering-intern-agentic-ai-at-epicureai-labs-wkdymi79rx
+- [ ] 2026-11-18 | Tarento | Software Engineering Intern (+PPO) | Bengaluru on-site | Internship PPO | Fit: Python/AI-ML domain option; batch 2027-2028 ✓; email sharadha.annaiah@tarento.com; GOOD MATCH | https://hiredoor.in/jobs/software-engineering-intern-ppo--f1bf5a
+- [ ] 2026-11-19 | IAI Solution (BigAirLab) | AI/ML Intern – LLMs & Agent Systems | Bengaluru on-site | Internship | Fit: LLMs/RAG/agents/LangChain/ChromaDB; ₹1-1.5L/yr; Cutshort "not actively reviewed" – follow up via iaisolution.com; STRETCH | https://cutshort.io/job/AI-ML-Intern-Bengaluru-Bangalore-IAI-solution--ESn774Rl
+---
 - [x ] 2026-11-18 | Fast Code AI | SDE Intern | Bengaluru on-site | Internship | Fit: LLM APIs/FastAPI/backend; final-year eligible; apply manali@fastcode.ai; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-fast-code-ai-4491819789
 - [ x] 2026-11-18 | AtkinsRéalis | Apprentice (Data Scientist) | Bengaluru East hybrid | Internship/Apprenticeship | Fit: GenAI/LLM/RAG/Azure OpenAI; fresh graduates encouraged; global engineering MNC; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/apprentice-at-atkinsr%C3%A9alis-4492010167
 - [x ] 2026-11-18 | SkillsCapital | Software Engineer Intern – AI/ML & Agentic AI | Fully Remote India | Internship | Fit: Multi-agent/RAG/LLM Engineering; fixed stipend; apply careers@skillscapital.io; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/software-engineer-intern-%E2%80%93-ai-ml-agentic-ai-fully-remote-ai-native-specialist-talent-cloud-global-tech-talent-venture-at-skillscapital-4491830484
@@ -267,6 +273,14 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-19 | Lexsi Labs AI Research Intern (hiredoor.in/jobs/ai-research-intern-3da93e) | CLOSED: role closed Nov 15, 2026 (batch was 2026/2028 anyway)
+2026-11-19 | Thermo Fisher IT Intern – Business Analyst Salesforce & AI (hiredoor.in/jobs/it-intern-business-analyst-salesforce-ai--5d1581) | title gate: Business Analyst/Salesforce role, not AI engineering
+2026-11-19 | KronosX AI Research Engineer Intern (jobs.weekday.works/ai-research-engineer-intern-at-kronosx-ai-4385831237) | batch gate: 2025/2026 graduates only; Shubh is 2027
+2026-11-19 | VE3 LLM Engineering Intern (globaltalentjobs.technation.io) | recency gate: posted Feb 2026 (9+ months old)
+2026-11-19 | AGRATI Tech Labs AI Engineer Intern | unverifiable: no online presence found, careers page unavailable
+2026-11-19 | Tripmojo AI Software Engineering Intern (tracker Nov 17 entry) | company defunct: tripmojo.com domain is for sale on GoDaddy as of Nov 19
+2026-11-19 | RagaAI AI Agent Developer Intern (jobs.weekday.works/ragaai-ai-intern) | CLOSED: 410 Gone on Weekday
+2026-11-19 | Micoworks Agentic AI Engineer Intern (jobs.weekday.works/micoworks-internship---agentic-ai-engineer) | CLOSED: 404 Not Found on Weekday
 2026-11-18 | Signify Digital Traineeship (LinkedIn 4491714464, Bengaluru) | unreadable full description — linkedin.com blocked in cloud session; manual check recommended
 2026-11-18 | NURY AI/ML Model Engineer Intern (LinkedIn 4490479277, Remote) | unreadable full description — linkedin.com blocked in cloud session; manual check recommended
 2026-11-18 | thinkbridge AI-Native Product Engineer – Generalist (HireDoor f572b4, Chennai) | location gate: Chennai on-site; outside Bengaluru/Remote target; otherwise strong fit (0–2yr, LLMs/agents/Python)
