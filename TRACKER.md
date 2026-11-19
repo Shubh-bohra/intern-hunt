@@ -13,6 +13,8 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-19 | Zebra Technologies | Intern II – Agentic AI | Bengaluru on-site | Internship | Fit: LLMs/Agentic workflows/NLP/CI-CD/Git = TriageForge multi-agent direct match; Fortune 500 ZBRA; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/intern-ii-at-zebra-technologies-4491383886
+- [ ] 2026-11-19 | Kapalins | AI Security Intern | Remote India | Internship PPO | Fit: LLM APIs/prompt-injection/OWASP LLM/Python; fresh grads; 3-6mo PPO possible; swati.maheshwari@kapalins.com; today's posting; STRETCH | https://in.linkedin.com/jobs/view/ai-security-intern-at-kapalins-4492121607
 - [x ] 2026-11-19 | Vivusoft Technologies | AI Agent Engineer: Full-Time Intern | Bengaluru on-site (Hebbal) | Internship | Fit: Voice agents/WhatsApp/RAG/guardrails = Tez Health + TriageForge; ₹10-25K/mo; batch 2026/2027; today's posting; STRONGEST MATCH | https://hiredoor.in/jobs/ai-agent-engineer-full-time-intern-2026-2027-graduates--46c382
 - [x ] 2026-11-19 | Thermo Fisher Scientific | IT Intern – AI Software Development | Bengaluru on-site | Internship | Fit: Python/ML/GenAI/RAG/embeddings/LLM APIs; major biotech (Nasdaq:TMO); fresher; today's posting; STRONG MATCH | https://hiredoor.in/jobs/it-intern-ai-software-development-70e3f6
 - [x ] 2026-11-19 | EpicureAI Labs | Engineering Intern – Agentic AI | Bengaluru on-site/hybrid | Internship PPO | Fit: LangChain/FastAPI/RAG/guardrails/healthcare domain = direct Tez Health + TriageForge match; DPIIT startup; date unverified on Weekday; STRONGEST MATCH | https://jobs.weekday.works/engineering-intern-agentic-ai-at-epicureai-labs-wkdymi79rx
@@ -273,6 +275,8 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-19 | HPE AI Research Lab Intern (LinkedIn 4490602573, Bengaluru) | experience gate: PhD/Research degree required
+2026-11-19 | Sankar Group AI Agent Internship Bhubaneswar (LinkedIn 4492231816 & 4492227926) | location gate: Bhubaneswar on-site only; outside Bengaluru/Remote target
 2026-11-19 | Lexsi Labs AI Research Intern (hiredoor.in/jobs/ai-research-intern-3da93e) | CLOSED: role closed Nov 15, 2026 (batch was 2026/2028 anyway)
 2026-11-19 | Thermo Fisher IT Intern – Business Analyst Salesforce & AI (hiredoor.in/jobs/it-intern-business-analyst-salesforce-ai--5d1581) | title gate: Business Analyst/Salesforce role, not AI engineering
 2026-11-19 | KronosX AI Research Engineer Intern (jobs.weekday.works/ai-research-engineer-intern-at-kronosx-ai-4385831237) | batch gate: 2025/2026 graduates only; Shubh is 2027
