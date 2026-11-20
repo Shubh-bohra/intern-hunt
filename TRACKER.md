@@ -13,6 +13,10 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-20 | Thermo Fisher Scientific | IT Intern – Generative & Agentic AI Engineering | Bengaluru on-site | Internship | Fit: Python/LLMs/RAG/LangChain/LangGraph/ChromaDB/FAISS/Pinecone/prompt engineering/guardrails/eval; R-01369754; different from "IT Intern – AI Software Development" tracked Nov 19; Fresher; STRONGEST MATCH | https://hiredoor.in/jobs/it-intern-generative-agentic-ai-engineering-746f5a
+- [ ] 2026-11-20 | Karvo | AI Engineering Intern (PPO) | Remote India | Internship PPO | Fit: Python/TypeScript/LLM APIs/agents/RAG/evals/MCP/PostgreSQL = TriageForge + FloatChat direct match; 2026-2028 batch ✓; ₹25K/mo; apply friends@heykarvo.com; posted today; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--058605
+- [ ] 2026-11-19 | Nablon AI | AI Engineering Intern | Bengaluru on-site | Internship | Fit: AI/Python/Fortune 500 MedTech deployment FDE model; 2026-2028 batch ✓; ₹35K/mo; apply kingshuk.banerjee@nablon.ai; GOOD MATCH | https://hiredoor.in/jobs/ai-engineering-intern-004de0
+- [ ] 2026-11-15 | GoKwik | Intern – AI Solutions (Voice AI) | Bengaluru | Internship | Fit: Voice AI/LLMs/prompt engineering/AI agents deployment = Tez Health voice AI match; 0-1yr; ₹unstated; apply via Keka; GOOD MATCH | https://hiredoor.in/jobs/intern-ai-solutions-voice-ai--892c48
 - [ ] 2026-11-19 | Zebra Technologies | Intern II – Agentic AI | Bengaluru on-site | Internship | Fit: LLMs/Agentic workflows/NLP/CI-CD/Git = TriageForge multi-agent direct match; Fortune 500 ZBRA; today's posting; STRONGEST MATCH | https://in.linkedin.com/jobs/view/intern-ii-at-zebra-technologies-4491383886
 - [ ] 2026-11-19 | Kapalins | AI Security Intern | Remote India | Internship PPO | Fit: LLM APIs/prompt-injection/OWASP LLM/Python; fresh grads; 3-6mo PPO possible; swati.maheshwari@kapalins.com; today's posting; STRETCH | https://in.linkedin.com/jobs/view/ai-security-intern-at-kapalins-4492121607
 - [x ] 2026-11-19 | Vivusoft Technologies | AI Agent Engineer: Full-Time Intern | Bengaluru on-site (Hebbal) | Internship | Fit: Voice agents/WhatsApp/RAG/guardrails = Tez Health + TriageForge; ₹10-25K/mo; batch 2026/2027; today's posting; STRONGEST MATCH | https://hiredoor.in/jobs/ai-agent-engineer-full-time-intern-2026-2027-graduates--46c382
@@ -275,6 +279,21 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-20 | Wayam AI AI Engineering Intern PPO (hiredoor.in/jobs/ai-engineering-intern-ppo--c95442) | batch gate: 2026/2028 only; Shubh is 2027
+2026-11-20 | eTeam AI Engineering Intern PPO (hiredoor.in/jobs/ai-engineering-intern-ppo--7162c3) | experience gate: "Prior Full-Time AI/ML Internship Required"
+2026-11-20 | Coinbase Machine Learning Engineer (hiredoor.in/jobs/machine-learning-engineer-ea5af0) | experience gate: 2+ years required
+2026-11-20 | Poshmark Machine Learning Engineer Chennai (hiredoor.in/jobs/machine-learning-engineer-738019) | experience gate: 2+ years required
+2026-11-20 | Cisco AI Operations Engineer Bengaluru (hiredoor.in/jobs/ai-operations-engineer-2500cd) | experience gate: Bachelor's + 2 years required
+2026-11-20 | Nestack Technologies Tech Intern Hyderabad (hiredoor.in/jobs/tech-intern-full-stack-data-devops-cybersecurity--eda9ea) | location gate: Hyderabad on-site
+2026-11-20 | Crowe MSFT AI Business Solutions Technical Intern Hyderabad | location gate: Hyderabad on-site
+2026-11-20 | Thelios AI Machine Learning Intern Pune (hiredoor.in/jobs/machine-learning-intern-fbd220) | location gate: Pune on-site
+2026-11-20 | Robic Rufarm India Software & AI Internship Hyderabad (hiredoor.in/jobs/software-ai-internship-program-3437fa) | location gate + unpaid
+2026-11-20 | CynLr Fresher or Internship Roles Bengaluru (hiredoor.in/jobs/fresher-or-internship-roles-b8ec9a) | profile mismatch: generic title, no AI scope stated
+2026-11-20 | Wabtec Test Engineer Specialist Bengaluru (hiredoor.in/jobs/test-engineer-specialist-automation-45d34e) | profile mismatch: test automation, not AI/ML
+2026-11-20 | Level AI Analyst Noida (hiredoor.in/jobs/ai-analyst-443ae4) | location gate: Noida on-site
+2026-11-20 | Dendrite.ai Data Scientist Intern (hiredoor.in/jobs/data-scientist-intern-masters-ph-d-candidates--7d06f1) | experience gate: Masters/PhD candidates required
+2026-11-20 | Daloopa Software Engineering Intern PPO (hiredoor.in/jobs/software-engineering-intern-ppo--e88bfb) | profile mismatch: generic SWE (Python/TS/React/SQL), no AI/ML scope
+2026-11-20 | Flex Associate Software Engineer Chennai (hiredoor.in/jobs/associate-software-engineer-it-374ed8) | location gate: Chennai on-site
 2026-11-19 | HPE AI Research Lab Intern (LinkedIn 4490602573, Bengaluru) | experience gate: PhD/Research degree required
 2026-11-19 | Sankar Group AI Agent Internship Bhubaneswar (LinkedIn 4492231816 & 4492227926) | location gate: Bhubaneswar on-site only; outside Bengaluru/Remote target
 2026-11-19 | Lexsi Labs AI Research Intern (hiredoor.in/jobs/ai-research-intern-3da93e) | CLOSED: role closed Nov 15, 2026 (batch was 2026/2028 anyway)
