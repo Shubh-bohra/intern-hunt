@@ -13,9 +13,13 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
-- [ ] 2026-11-20 | InterviewGod (Banao Technologies) | Applied AI Intern | India/Bengaluru | Internship | Fit: Forward deployed AI, 350+ enterprise clients, LLM product engineering, final year welcome, no institution restriction, performance-based stipend; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/applied-ai-intern-at-interviewgod-4492557349
+- [ ] 2026-11-21 | TransformNXT | Engineer Intern (AI & Agentic Systems Engineering) | Bengaluru on-site | Internship 3–6mo | Fit: Python/FastAPI/MCP/RAG/voice AI(STT+TTS)/multi-agent/LangChain/vector DBs = Tez Health + TriageForge + FloatChat direct match; posted today; STRONGEST MATCH | https://in.linkedin.com/jobs/view/engineer-intern-at-transformnxt-4491966038
+- [ ] 2026-11-21 | Gain | Software Engineering Intern (PPO) | Remote India | Internship PPO | Fit: AI agents/LangChain/LangGraph/Google ADK/evals/guardrails/observability; primary stack JS/Node.js (stretch for Python-first); ₹25K/mo; apply operations@unlockgain.com; posted yesterday; STRETCH | https://hiredoor.in/jobs/software-engineering-intern-e2f5af
+- [ ] 2026-11-21 | Thermo Fisher Scientific | IT Intern – Cloud & Platform Engineering (NOVA) | Bengaluru on-site | Internship | Fit: Python/cloud-native/AWS/K8s/CI-CD/observability + "exposure to AI/LLM platform services"; R-01372364; different from Gen&AI Engineering and AI Software Development already tracked; Fresher; SAFE BET | https://hiredoor.in/jobs/it-intern-cloud-platform-engineering-nova--8c2994
+---
+- [SKIP] 2026-11-20 | InterviewGod (Banao Technologies) | Applied AI Intern | India/Bengaluru | Internship | Fit: Forward deployed AI, 350+ enterprise clients, LLM product engineering, final year welcome, no institution restriction, performance-based stipend; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/applied-ai-intern-at-interviewgod-4492557349
 - [ ] 2026-11-19 | SYplat Labs | AI & Cloud Engineering Intern | India | Internship PPO | Fit: AI agents + RAG + Azure + SAP BTP; B.E./B.Tech final year explicitly eligible; PPO → FT; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-cloud-engineering-intern-at-syplat-labs-private-limited-4490497463
-- [ ] 2026-11-20 | AI Startup Impact | Software Engineer Intern | Remote/Hybrid India | Internship | Fit: Python + PostgreSQL + MongoDB + AI-powered features; performance-based stipend; 3–6 months; MODERATE | https://in.linkedin.com/jobs/view/software-engineer-intern-at-ai-startup-impact-4492557290
+- [SKIP] 2026-11-20 | AI Startup Impact | Software Engineer Intern | Remote/Hybrid India | Internship | Fit: Python + PostgreSQL + MongoDB + AI-powered features; performance-based stipend; 3–6 months; MODERATE | https://in.linkedin.com/jobs/view/software-engineer-intern-at-ai-startup-impact-4492557290
 - [ x] 2026-11-20 | Thermo Fisher Scientific | IT Intern – Generative & Agentic AI Engineering | Bengaluru on-site | Internship | Fit: Python/LLMs/RAG/LangChain/LangGraph/ChromaDB/FAISS/Pinecone/prompt engineering/guardrails/eval; R-01369754; different from "IT Intern – AI Software Development" tracked Nov 19; Fresher; STRONGEST MATCH | https://hiredoor.in/jobs/it-intern-generative-agentic-ai-engineering-746f5a
 - [x ] 2026-11-20 | Karvo | AI Engineering Intern (PPO) | Remote India | Internship PPO | Fit: Python/TypeScript/LLM APIs/agents/RAG/evals/MCP/PostgreSQL = TriageForge + FloatChat direct match; 2026-2028 batch ✓; ₹25K/mo; apply friends@heykarvo.com; posted today; STRONGEST MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--058605
 - [x ] 2026-11-19 | Nablon AI | AI Engineering Intern | Bengaluru on-site | Internship | Fit: AI/Python/Fortune 500 MedTech deployment FDE model; 2026-2028 batch ✓; ₹35K/mo; apply kingshuk.banerjee@nablon.ai; GOOD MATCH | https://hiredoor.in/jobs/ai-engineering-intern-004de0
@@ -282,6 +286,16 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-21 | ThinkNovaa ML Intern | performance-based stipend only (₹10K max); training org pattern
+2026-11-21 | Swik AI Engineer Intern | institution restriction: "IIT Grads" only
+2026-11-21 | Sorsiri SWE Intern | unpaid internship
+2026-11-21 | Axentriax by Elevate Labs AI & ML Intern | training org (Elevate Labs brand)
+2026-11-21 | Unloq® Moonshot Internship AI Engineer | institution restriction: IIT/IIIT/NIT/BITS + JEE rank under 1,000 required
+2026-11-21 | Bravens Inc. Backend Agent Engineer AI/Agentic Automation | batch gate: 2023–2026 only; Shubh is 2027
+2026-11-21 | Vianaar Homes AI Forward Deployed Engineer Intern | location gate: Delhi on-site only
+2026-11-21 | Milestone Technologies AI Intern | company website mismatch (milestonetech.com = US IT procurement); employer verification pending; cannot verify
+2026-11-21 | Network of Creative Thinkers AI Tinkerer Intern | insufficient description; design agency; only "Communication" skill listed
+2026-11-21 | Icertis Intern AI Engineering | location gate: Pune WFO 5 days/week only
 2026-11-20 | Wayam AI AI Engineering Intern PPO (hiredoor.in/jobs/ai-engineering-intern-ppo--c95442) | batch gate: 2026/2028 only; Shubh is 2027
 2026-11-20 | eTeam AI Engineering Intern PPO (hiredoor.in/jobs/ai-engineering-intern-ppo--7162c3) | experience gate: "Prior Full-Time AI/ML Internship Required"
 2026-11-20 | Coinbase Machine Learning Engineer (hiredoor.in/jobs/machine-learning-engineer-ea5af0) | experience gate: 2+ years required
