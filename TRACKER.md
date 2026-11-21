@@ -13,6 +13,7 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-21 | JAGGAER | Associate Developer, Agentic AI | Hyderabad on-site | Full-time | Fit: LangChain/LangGraph/CrewAI/AutoGen/tool-calling = TriageForge direct match; CDAO org 14 openings; ⚠️ original drive June 2026 for 2024-2026 batch; LinkedIn re-posted Nov 20 — verify 2027 batch accepted before applying; STRONG if open | https://incareers-jaggaer.icims.com/jobs/4110/recruitment-drive---in-person---associate-developer%2c-agentic-ai/job
 - [ ] 2026-11-21 | Floneo | AI Intern (Artificial Intelligence / LLM) | Remote WFH India | Internship 3mo | Fit: Python/FastAPI/LangChain/Gemini/OpenAI/PostgreSQL = TriageForge + FloatChat direct stack match; posted Nov 13; ₹6-10K/mo; STRONG MATCH | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-floneo1794559783
 - [ ] 2026-11-21 | HUNARBEE | Full Stack AI Developer Intern | Remote WFH India | Internship 3mo | Fit: AI + full-stack development WFH; ₹18K/mo; posted Nov 20; ⚠️ company unverified – read full desc on LinkedIn before applying; MODERATE-STRONG | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-hunarbee-4492821882
 - [ ] 2026-11-21 | HUNARBEE | Forward Deployed Engineer Intern | Remote WFH India | Internship | Fit: FDE + AI product role WFH; ₹18K/mo; posted Nov 20; ⚠️ company unverified – read full desc on LinkedIn before applying; MODERATE | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-hunarbee-4492835394
@@ -879,3 +880,20 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-21 | myinternships.in AI Agent Engineer Intern batch (pt II) | synthetic/template listings for HDFC AMC, ICICI Prudential, Ola Cabs, SuperGaming etc.; apply links redirect to myinternships.in internal pages only; unverifiable
 2026-11-21 | Metasys AI/ML Engineer Internship (pt II) (himalayas.app) | recency gate: posted Oct 24 (28 days old); exceeds 7-day internship gate
 2026-11-21 | Snezzi AI Visibility Engineer Intern (pt II) (himalayas.app) | recency gate: posted Oct 13 (39 days old); exceeds 7-day internship gate
+2026-11-21 | Sankar Group AI Agent Dev Intern (pt II) (LinkedIn/Internshala) | location gate: Bhubaneswar hybrid only; not WFH/Bengaluru
+2026-11-21 | SoftwareBrio AI Engineer Internship Paid (pt II) (LinkedIn) | location gate: Indore, MP on-site
+2026-11-21 | LEAD Group Product Intern Fluento (pt II) (LinkedIn) | profile mismatch: Product internship, not AI engineering
+2026-11-21 | Napster Corp Junior AI Solutions Architect (pt II) (LinkedIn) | location gate: Thiruvananthapuram on-site
+2026-11-21 | Honasa Consumer Analytics AI Engineer (pt II) (LinkedIn) | profile mismatch: FMCG analytics, not LLM/agentic engineering
+2026-11-21 | Optum Associate AI ML Engineer (pt II) (LinkedIn) | location gate: Noida on-site
+2026-11-21 | Qualcomm Associate Engineer CAD AI ML (pt II) (LinkedIn) | specialty mismatch: chip design AI (CAD), not LLM/agentic
+2026-11-21 | KLA Eng AI (pt II) (LinkedIn) | location gate: Chennai + semiconductor equipment specialty
+2026-11-21 | PayPal MLE Fraud Crypto Debit (pt II) (LinkedIn) | specialty mismatch: financial fraud ML; Bengaluru + Chennai; likely 2+ yr experience
+2026-11-21 | Jobgether MLE (pt II) (LinkedIn) | type: job aggregator, not direct employer
+2026-11-21 | Joblet-AI Fullstack SWE (pt II) (LinkedIn) | experience gate: senior role 5-7 yr; fresher version unconfirmed
+2026-11-21 | Albertsons Advanced Engineer AI Agentic (pt II) (LinkedIn) | title gate: "Advanced Engineer" = senior level
+2026-11-21 | HuntingCube Associate ML Engineer (pt II) (LinkedIn) | location gate: Itanagar, Arunachal Pradesh (non-remote)
+2026-11-21 | NTT DATA Associate Engineer AI services (pt II) (LinkedIn) | location gate: Chennai on-site
+2026-11-21 | Fujitsu AI Automation Solutions Developer (pt II) (LinkedIn) | experience unconfirmed; consulting focus; Bangalore + Chennai
+2026-11-21 | TerraTern AI Engineer Bengaluru (pt II) (LinkedIn) | requirements unverifiable this run; unknown company
+2026-11-21 | Data Eminence AI ML Engineer India (pt II) (LinkedIn) | completely unknown company; requirements unverifiable
