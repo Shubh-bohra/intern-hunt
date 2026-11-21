@@ -13,6 +13,11 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-21 | Floneo | AI Intern (Artificial Intelligence / LLM) | Remote WFH India | Internship 3mo | Fit: Python/FastAPI/LangChain/Gemini/OpenAI/PostgreSQL = TriageForge + FloatChat direct stack match; posted Nov 13; ₹6-10K/mo; STRONG MATCH | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-floneo1794559783
+- [ ] 2026-11-21 | HUNARBEE | Full Stack AI Developer Intern | Remote WFH India | Internship 3mo | Fit: AI + full-stack development WFH; ₹18K/mo; posted Nov 20; ⚠️ company unverified – read full desc on LinkedIn before applying; MODERATE-STRONG | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-hunarbee-4492821882
+- [ ] 2026-11-21 | HUNARBEE | Forward Deployed Engineer Intern | Remote WFH India | Internship | Fit: FDE + AI product role WFH; ₹18K/mo; posted Nov 20; ⚠️ company unverified – read full desc on LinkedIn before applying; MODERATE | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-hunarbee-4492835394
+- [ ] 2026-11-21 | NDFM Business World | AI Agent Development Intern | Remote WFH India | Internship 4wks | Fit: Python/LLMs/agentic workflows WFH; ₹5-7K/mo LS; short 4-week duration; posted Nov 14; MODERATE | https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-ndfm-business-world-pvt-ltd1794546708
+---
 - [ x] 2026-11-21 | TransformNXT | Engineer Intern (AI & Agentic Systems Engineering) | Bengaluru on-site | Internship 3–6mo | Fit: Python/FastAPI/MCP/RAG/voice AI(STT+TTS)/multi-agent/LangChain/vector DBs = Tez Health + TriageForge + FloatChat direct match; posted today; STRONGEST MATCH | https://in.linkedin.com/jobs/view/engineer-intern-at-transformnxt-4491966038
 - [ x] 2026-11-21 | Gain | Software Engineering Intern (PPO) | Remote India | Internship PPO | Fit: AI agents/LangChain/LangGraph/Google ADK/evals/guardrails/observability; primary stack JS/Node.js (stretch for Python-first); ₹25K/mo; apply operations@unlockgain.com; posted yesterday; STRETCH | https://hiredoor.in/jobs/software-engineering-intern-e2f5af
 - [x ] 2026-11-21 | Thermo Fisher Scientific | IT Intern – Cloud & Platform Engineering (NOVA) | Bengaluru on-site | Internship | Fit: Python/cloud-native/AWS/K8s/CI-CD/observability + "exposure to AI/LLM platform services"; R-01372364; different from Gen&AI Engineering and AI Software Development already tracked; Fresher; SAFE BET | https://hiredoor.in/jobs/it-intern-cloud-platform-engineering-nova--8c2994
@@ -856,3 +861,21 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-18 | AIONDATA AI Engineering (pt II) | location gate: Noida on-site (prior rejection Nov 15)
 2026-11-18 | NextGen Digital Solutions AI/ML (pt II) | location gate: Mumbai on-site
 2026-11-18 | Jobs4PanIndia AI/Backend (pt II) | training-org/low stipend pattern
+2026-11-21 | ThinkNovaa AI Intern (pt II) (LinkedIn 4492886353) | training-org pattern; performance-based ₹10K max stipend
+2026-11-21 | Innovfix Private Limited AI Intern (pt II) (LinkedIn 4491127886) | full description blocked/unreadable via scraper; unverifiable
+2026-11-21 | Bynry Inc FDE Intern (pt II) (LinkedIn 4492558817) | location gate: Pune on-site only
+2026-11-21 | Qelp AI Research Intern (pt II) (LinkedIn 4492574021) | location gate: Guwahati on-site only
+2026-11-21 | Arvya Technologies AI Engineer Intern (pt II) (LinkedIn 4491900473) | location gate: Vijayawada on-site only
+2026-11-21 | Duck Creek Technologies Associate SWE (pt II) (LinkedIn 4483435561) | recency gate: posted Oct 30 (22 days old); exceeds 14-day FT gate
+2026-11-21 | Agoda SWE Internship 2027 (pt II) (LinkedIn 4492551807) | location gate: Gurgaon on-site only
+2026-11-21 | Crazy for Success Foundation AI Prompt Engineer (pt II) (LinkedIn 4493236317) | NGO; Pune on-site only
+2026-11-21 | Futureacad AI Agent Developer Intern (pt II) (zohorecruit.in) | experience gate: 0-5 years listed; exceeds 1-year max gate
+2026-11-21 | LegalSeva.org AI Agent Development (pt II) (Internshala) | recency gate: posted 3 weeks ago; exceeds 7-day internship gate
+2026-11-21 | Zenith AI Agent Development (pt II) (Internshala) | stipend gate: Rs.1,000-2,000/mo too low
+2026-11-21 | Enlight Lab AI Engineer Intern (pt II) (Internshala) | recency gate: posted 3 weeks ago; exceeds 7-day internship gate
+2026-11-21 | SmartBridge Educational Services Generative AI Intern (pt II) (Internshala) | on-site description despite WFH listing; educational company pattern
+2026-11-21 | TZURONI LTD. AI Agent Development (pt II) (Internshala) | recency gate: posted 2 weeks ago; exceeds 7-day internship gate
+2026-11-21 | Queens Of Change Foundation AI Agent Development (pt II) (Internshala) | stipend gate: unpaid
+2026-11-21 | myinternships.in AI Agent Engineer Intern batch (pt II) | synthetic/template listings for HDFC AMC, ICICI Prudential, Ola Cabs, SuperGaming etc.; apply links redirect to myinternships.in internal pages only; unverifiable
+2026-11-21 | Metasys AI/ML Engineer Internship (pt II) (himalayas.app) | recency gate: posted Oct 24 (28 days old); exceeds 7-day internship gate
+2026-11-21 | Snezzi AI Visibility Engineer Intern (pt II) (himalayas.app) | recency gate: posted Oct 13 (39 days old); exceeds 7-day internship gate
