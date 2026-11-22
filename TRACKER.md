@@ -13,6 +13,10 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-22 | NewSpace Research & Technologies | Engineer I – AI (AI Agent Engineer) | Bengaluru on-site | Full-time | Fit: RAG/MCP/tool-calling/multi-step-reasoning/memory/Claude-Code = TriageForge exact stack match; aerospace-tech; 0–3yr experience (fresher eligible); posted today; STRONGEST MATCH | https://hiredoor.in/jobs/engineer-i-ai-7ec6c6
+- [ ] 2026-11-22 | Bildx AI (Neurix UG) | Full-Stack AI Developer Intern | Remote India | Internship 6mo | Fit: Python/FastAPI/LangChain/LangGraph/PostgreSQL = TriageForge + Tez Health direct stack; ₹20–30K/mo; no exp req; posted Nov 19; STRONG MATCH | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-bildx-ai-4492260357
+- [ ] 2026-11-22 | Diffzene | Machine Learning Intern | Remote WFH India | Internship 3mo | Fit: Python/ML/NLP/Deep-Learning; general ML (not agentic); ₹12–25K/mo; posted today; 17 openings; MODERATE | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1795241428
+---
 - [x ] 2026-11-21 | JAGGAER | Associate Developer, Agentic AI | Hyderabad on-site | Full-time | Fit: LangChain/LangGraph/CrewAI/AutoGen/tool-calling = TriageForge direct match; CDAO org 14 openings; ⚠️ original drive June 2026 for 2024-2026 batch; LinkedIn re-posted Nov 20 — verify 2027 batch accepted before applying; STRONG if open | https://incareers-jaggaer.icims.com/jobs/4110/recruitment-drive---in-person---associate-developer%2c-agentic-ai/job
 - [x ] 2026-11-21 | Floneo | AI Intern (Artificial Intelligence / LLM) | Remote WFH India | Internship 3mo | Fit: Python/FastAPI/LangChain/Gemini/OpenAI/PostgreSQL = TriageForge + FloatChat direct stack match; posted Nov 13; ₹6-10K/mo; STRONG MATCH | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-floneo1794559783
 - [scam ] 2026-11-21 | HUNARBEE | Full Stack AI Developer Intern | Remote WFH India | Internship 3mo | Fit: AI + full-stack development WFH; ₹18K/mo; posted Nov 20; ⚠️ company unverified – read full desc on LinkedIn before applying; MODERATE-STRONG | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-hunarbee-4492821882
@@ -292,6 +296,22 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-22 | PwC Business AI Engineer Intern 2027 (hiredoor.in/jobs/business-ai-engineer-intern-2027-447fc0) | recency gate: 27 days old
+2026-11-22 | CRUV AI Engineer Intern (hiredoor.in/jobs/ai-engineer-intern-d0363c) | recency gate: 25 days old; also batch 2024/2026 only
+2026-11-22 | Lexsi Labs AI Research Intern (hiredoor.in/jobs/ai-research-intern-d94a16) | closed Sep 2026
+2026-11-22 | LatentForce Full-Stack AI Engineering Intern (hiredoor.in/jobs/full-stack-ai-engineering-intern-772929) | closed Aug 2026
+2026-11-22 | Dxora Technologies AI Engineer Intern (hiredoor.in/jobs/ai-engineer-fresher--cdc6e3) | location gate: Delhi NCR on-site
+2026-11-22 | SOL9X AI/ML Research Intern PPO (hiredoor.in/jobs/ai-ml-research-intern-ppo--6b7753) | location gate: New Delhi on-site
+2026-11-22 | Vianaar Homes AI Forward Deployed Engineer Intern (hiredoor.in/jobs/ai-forward-deployed-engineer-intern-93f077) | location gate: Delhi on-site (duplicate of Nov 21 entry — confirmed closed)
+2026-11-22 | Bravens Inc. Backend & Agent Engineer AI/Agentic Automation (hiredoor.in/jobs/backend-agent-engineer-ai-agentic-automation-74f1ca) | batch gate: 2023–2026 only; 2027 explicitly excluded
+2026-11-22 | Tech-Tailor Solutions AI Intern Bangalore (internshala.com …1795181180) | lump-sum stipend ₹26–33k total / 3 months ≈ ₹9k/mo; tailoring company; role limited to website automation
+2026-11-22 | Jobs4PanIndia AI Intern (LinkedIn dataset) | aggregator posting; performance-based stipend only
+2026-11-22 | Sankar Group AI Agent Development ×2 (Internshala) | location gate: Bhubaneswar on-site
+2026-11-22 | The Wedding Company AI/ML Research Intern (LinkedIn dataset) | degree gate: M.Tech/MS required
+2026-11-22 | SoftwareBrio AI Engineer Intern (LinkedIn dataset) | location gate: Indore on-site
+2026-11-22 | Qelp AI Research Intern (LinkedIn dataset) | location gate: Guwahati on-site
+2026-11-22 | NextGen Digital Solutions AI/ML Intern (LinkedIn dataset) | location gate: Mumbai on-site
+2026-11-22 | Crazy for Success Foundation AI roles (LinkedIn dataset) | NGO + location gate: Pune on-site
 2026-11-21 | ThinkNovaa ML Intern | performance-based stipend only (₹10K max); training org pattern
 2026-11-21 | Swik AI Engineer Intern | institution restriction: "IIT Grads" only
 2026-11-21 | Sorsiri SWE Intern | unpaid internship
