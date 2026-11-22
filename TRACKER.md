@@ -13,6 +13,8 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-22 | Bildx AI / Neurix UG | Full-Stack AI Developer Intern | Remote India (Germany-based startup) | Internship 6mo | Fit: Python/FastAPI/LangGraph/LangChain/GenAI APIs (Gemini/OpenAI/Claude/Replicate)/React/TypeScript/PostgreSQL/Docker; ecommerce video+image ad gen SaaS; ₹15–30K/mo; 6mo full-time; founder-direct; practical exercise hiring process; STRONGEST MATCH | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-bildx-ai-4492260357
+---
 - [x ] 2026-11-21 | JAGGAER | Associate Developer, Agentic AI | Hyderabad on-site | Full-time | Fit: LangChain/LangGraph/CrewAI/AutoGen/tool-calling = TriageForge direct match; CDAO org 14 openings; ⚠️ original drive June 2026 for 2024-2026 batch; LinkedIn re-posted Nov 20 — verify 2027 batch accepted before applying; STRONG if open | https://incareers-jaggaer.icims.com/jobs/4110/recruitment-drive---in-person---associate-developer%2c-agentic-ai/job
 - [x ] 2026-11-21 | Floneo | AI Intern (Artificial Intelligence / LLM) | Remote WFH India | Internship 3mo | Fit: Python/FastAPI/LangChain/Gemini/OpenAI/PostgreSQL = TriageForge + FloatChat direct stack match; posted Nov 13; ₹6-10K/mo; STRONG MATCH | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-floneo1794559783
 - [scam ] 2026-11-21 | HUNARBEE | Full Stack AI Developer Intern | Remote WFH India | Internship 3mo | Fit: AI + full-stack development WFH; ₹18K/mo; posted Nov 20; ⚠️ company unverified – read full desc on LinkedIn before applying; MODERATE-STRONG | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-hunarbee-4492821882
@@ -897,3 +899,18 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-21 | Fujitsu AI Automation Solutions Developer (pt II) (LinkedIn) | experience unconfirmed; consulting focus; Bangalore + Chennai
 2026-11-21 | TerraTern AI Engineer Bengaluru (pt II) (LinkedIn) | requirements unverifiable this run; unknown company
 2026-11-21 | Data Eminence AI ML Engineer India (pt II) (LinkedIn) | completely unknown company; requirements unverifiable
+2026-11-22 | Talent to Job ML Intern (pt II) (LinkedIn 4493328400) | placement-company: IT staffing/training, performance-based stipend only
+2026-11-22 | JobSphere ML Analyst (pt II) (LinkedIn 4493322540) | placement-company: performance-based stipend only
+2026-11-22 | JobSphere ML Engineer (pt II) (LinkedIn 4493195349) | placement-company: performance-based ₹25K only
+2026-11-22 | SVH Enterprise AI-Assisted Full Stack Intern (pt II) (LinkedIn 4491909949) | part-time + low stipend ₹7,500/mo
+2026-11-22 | MediNex Workforce AI & ML Intern (pt II) (LinkedIn 4493101104) | staffing-company: repeated pattern
+2026-11-22 | MediNex Workforce Artificial Intelligence Intern (pt II) (LinkedIn 4492882769) | staffing-company: repeated pattern
+2026-11-22 | MediNex Workforce Machine Learning Intern (pt II) (LinkedIn 4492878914) | staffing-company: repeated pattern
+2026-11-22 | Crossing Infotech Artificial Intelligence Intern (pt II) (LinkedIn 4493186504) | staffing-company: no verifiable product; repeated pattern
+2026-11-22 | Crossing Infotech Machine Learning Intern (pt II) (LinkedIn 4493168981) | staffing-company: no verifiable product; repeated pattern
+2026-11-22 | Xenalys Research Intern Quantitative AI (pt II) (LinkedIn 4492320744) | unpaid: explicitly states no stipend
+2026-11-22 | Jobs4PanIndia Artificial Intelligence Intern (pt II) (LinkedIn 4493193436) | placement-company: repeated pattern
+2026-11-22 | Jobs4PanIndia Artificial Intelligence Intern (pt II) (LinkedIn 4493194426) | placement-company: repeated pattern
+2026-11-22 | Axentriax by Elevate Labs AI&ML Intern (pt II) (LinkedIn 4491694412) | training-org: "College Students Only" program; repeated pattern
+2026-11-22 | ThinkNovaa Artificial Intelligence Intern (pt II) (LinkedIn 4493183870) | training-org: performance-based ₹10K; repeated pattern
+2026-11-22 | Thermo Fisher IT Intern AI Engineering (pt II) (LinkedIn 4491691626) | dedup: 3 existing TFS applications already in tracker (Nov 19/20/21)
