@@ -13,6 +13,16 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-23 | Udhi Technologies | AI + Full-Stack Developer Intern | Remote India | Internship 3mo | Fit: LLM pipelines (Python)/Next.js/NestJS/PostgreSQL; ₹10K/mo; freshers welcome; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-%2B-full-stack-developer-intern-4492392125
+- [ ] 2026-11-23 | Artha Labs (Attention Tag) | Machine Learning Engineer [FT] | Bangalore/Remote India | Full-time 0-2yr | Fit: LLMs/Agentic AI/Isaac Sim; ₹15-20L + 0-0.5% equity; 1-10 employee startup; posted ~Nov 16; STRONG MATCH | https://wellfound.com/jobs/4844645-machine-learning-engineer
+- [ ] 2026-11-23 | EvoNexis | Machine Learning Intern | WFH India | Internship 3mo | Fit: Python/ML/NLP/Deep Learning; ₹17-29K/mo; unknown co (no web presence); LOW CONF | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evonexis1795322949
+- [ ] 2026-11-23 | Diffzene | Machine Learning Intern | WFH India | Internship 3mo | Fit: Python/ML/NLP/Deep Learning; ₹12-25K/mo; unknown co (no web presence); LOW CONF | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1795415635
+- [ ] 2026-11-17 | Innovfix Private Limited | AI Research Intern | Bengaluru WFO (HSR Layout) | Internship | Fit: LLMs/AI agents/applied AI research; freshers welcome; paid; previously unreadable desc now confirmed legit; STRONG MATCH | https://in.linkedin.com/jobs/view/artificial-intelligence-intern-4491127886
+- [ ] 2026-11-20 | Codemonk | Machine Learning Intern (AI/ML) [new repost] | Bengaluru on-site | Internship | Fit: LangChain/LlamaIndex/HuggingFace/RAG/GenAI; ₹13-15K/mo; new ID 4492529829 (Nov 10 entry tracked separately); STRONG MATCH | https://in.linkedin.com/jobs/view/machine-learning-intern-ai-ml-at-codemonk-4492529829
+- [ ] 2026-11-20 | Swik | AI Engineer Intern [STRETCH] | Remote India | Internship part-time | Fit: LLMs/LangChain/LangGraph/RAG; IIT pref BUT full desc: "exceptional candidates from other institutions also welcome"; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-intern-iit-grads-at-swik-4492771471
+- [ ] 2026-09-26 | Parsewave | Frontier AI Engineer [FT, verify open] | Remote India | Full-time 0-5yr | Fit: Python/GenAI/LLMs/LLM eval; ₹26-32L+bonus; posted Sep 2026 (verify still open); STRONG IF OPEN | https://cutshort.io/job/Frontier-AI-Engineer-Parsewave-papdCRmc
+---
+
 - [x ] 2026-11-23 | NewSpace Research | Engineer I - AI (AI Agent Engineer) | India (Onsite, city TBD) | Full-time 0-3yr | Fit: RAG/tool calling/MCP/LLMs/Python/prompt engineering/agent memory = TriageForge + FloatChat direct match; posted today 9h ago; FT role; STRONGEST MATCH | https://hiredoor.in/jobs/engineer-i-ai-7ec6c6
 - [x ] 2026-11-21 | Digital Alpha Platforms | AI/ML Engineer Intern | Remote India | Internship | Fit: RAG/Graph RAG/LangChain/LlamaIndex/Python/vector DBs/LLMs/agents = FloatChat + TriageForge direct match; NY-based FinAI firm; fresh repost of prev-archived listing; 2d ago; STRONG MATCH | https://remotive.com/remote/jobs/artificial-intelligence/ai-ml-engineer-6681595
 - [ x] 2026-11-23 | Codeatrix | AI/ML Intern | Remote WFH India | Internship 2mo | Fit: Python/ML/NLP; basic scope; ₹20-27K/mo; freshers/students welcome; posted today; MODERATE | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1795361573
@@ -299,6 +309,20 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-23 | InAmigos Foundation AI & ML / AI Web Dev / AI Data Analytics (3 listings) | Internshala | Unpaid + NGO template internships
+2026-11-23 | Hope Behind Tails Foundation AI / ML / Data Science (3 listings) | Internshala | Unpaid + NGO template internships
+2026-11-23 | Women First India Foundation ML / Python Dev (2 listings) | Internshala | Unpaid + NGO template internships
+2026-11-23 | NayePankh Foundation Python Development | Internshala | Unpaid + NGO
+2026-11-23 | Pledge India Foundation Data Science | Internshala | Unpaid + NGO
+2026-11-23 | Queens Of Change Foundation Data Science | Internshala | Unpaid + NGO
+2026-11-23 | Renan Partners AI Transcription Bengali | Internshala | Bengali proficiency required
+2026-11-23 | Zyno AI India Hindi Data Annotator / Transcription / AI Audio Annotator (3) | Internshala | Data annotation + language-specific, not engineering roles
+2026-11-23 | Unessa Foundation Machine Learning | Internshala | ₹4-8K/mo underpaid; 491 applicants for 5 openings
+2026-11-23 | Qubixo Python Development | Internshala | 717 applicants; not AI-focused
+2026-11-23 | DataVinci Private Limited AI Video Creator | Internshala | Video editing, not engineering
+2026-11-23 | Gravity AI AI Engineer FT | Wellfound | ₹3-5L PA annual too low for FT
+2026-11-23 | Volga Partners AI/ML Engineer Production AI & LLM Systems | WeWorkRemotely | 3+ years required (fails ≤1yr gate)
+2026-11-23 | Samora AI YC W26 Prompt Engineering Intern | Foundit | Posted March 2026 (8 months stale)
 2026-11-21 | ThinkNovaa ML Intern | performance-based stipend only (₹10K max); training org pattern
 2026-11-21 | Swik AI Engineer Intern | institution restriction: "IIT Grads" only
 2026-11-21 | Sorsiri SWE Intern | unpaid internship
