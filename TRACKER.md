@@ -13,6 +13,11 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-23 | NewSpace Research | Engineer I - AI (AI Agent Engineer) | India (Onsite, city TBD) | Full-time 0-3yr | Fit: RAG/tool calling/MCP/LLMs/Python/prompt engineering/agent memory = TriageForge + FloatChat direct match; posted today 9h ago; FT role; STRONGEST MATCH | https://hiredoor.in/jobs/engineer-i-ai-7ec6c6
+- [ ] 2026-11-21 | Digital Alpha Platforms | AI/ML Engineer Intern | Remote India | Internship | Fit: RAG/Graph RAG/LangChain/LlamaIndex/Python/vector DBs/LLMs/agents = FloatChat + TriageForge direct match; NY-based FinAI firm; fresh repost of prev-archived listing; 2d ago; STRONG MATCH | https://remotive.com/remote/jobs/artificial-intelligence/ai-ml-engineer-6681595
+- [ ] 2026-11-23 | Codeatrix | AI/ML Intern | Remote WFH India | Internship 2mo | Fit: Python/ML/NLP; basic scope; ₹20-27K/mo; freshers/students welcome; posted today; MODERATE | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-codeatrix1795361573
+- [ ] 2026-11-23 | OpalCode | AI/ML Intern | Remote WFH India | Internship 2mo Part-Time | Fit: Python/ML/NumPy; basic scope; ₹18-25K/mo; freshers welcome; part-time; posted today; MODERATE | https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-opalcode1795333810
+---
 - [ ] 2026-11-22 | Bildx AI / Neurix UG | Full-Stack AI Developer Intern | Remote India (Germany-based startup) | Internship 6mo | Fit: Python/FastAPI/LangGraph/LangChain/GenAI APIs (Gemini/OpenAI/Claude/Replicate)/React/TypeScript/PostgreSQL/Docker; ecommerce video+image ad gen SaaS; ₹15–30K/mo; 6mo full-time; founder-direct; practical exercise hiring process; STRONGEST MATCH | https://in.linkedin.com/jobs/view/full-stack-ai-developer-intern-at-bildx-ai-4492260357
 ---
 - [x ] 2026-11-21 | JAGGAER | Associate Developer, Agentic AI | Hyderabad on-site | Full-time | Fit: LangChain/LangGraph/CrewAI/AutoGen/tool-calling = TriageForge direct match; CDAO org 14 openings; ⚠️ original drive June 2026 for 2024-2026 batch; LinkedIn re-posted Nov 20 — verify 2027 batch accepted before applying; STRONG if open | https://incareers-jaggaer.icims.com/jobs/4110/recruitment-drive---in-person---associate-developer%2c-agentic-ai/job
@@ -914,3 +919,11 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-22 | Axentriax by Elevate Labs AI&ML Intern (pt II) (LinkedIn 4491694412) | training-org: "College Students Only" program; repeated pattern
 2026-11-22 | ThinkNovaa Artificial Intelligence Intern (pt II) (LinkedIn 4493183870) | training-org: performance-based ₹10K; repeated pattern
 2026-11-22 | Thermo Fisher IT Intern AI Engineering (pt II) (LinkedIn 4491691626) | dedup: 3 existing TFS applications already in tracker (Nov 19/20/21)
+2026-11-23 | Trexo Global AI Engineering Intern (hiredoor.in/jobs/ai-engineering-intern-0d39a1) | location gate: Noida onsite (not Bengaluru or remote)
+2026-11-23 | Icertis Intern AI Engineering (hiredoor.in/jobs/intern-ai-engineering-948e1c) | location gate: Pune onsite 5 days/week (not Bengaluru or remote); dedup of rejected 2026-11-21
+2026-11-23 | SOL9X AI/ML Research Intern PPO (hiredoor.in/jobs/ai-ml-research-intern-ppo--6b7753) | location gate: New Delhi onsite (not Bengaluru or remote)
+2026-11-23 | Dxora Technologies AI Engineer Fresher (hiredoor.in/jobs/ai-engineer-fresher--cdc6e3) | location gate: Delhi NCR onsite (not Bengaluru or remote)
+2026-11-23 | ATRISI ML/AI Intern HireDoor f921a2 (hiredoor.in/jobs/ml-ai-intern-f921a2) | duplicate: same job applied 2026-11-14 via atrisi.org direct link
+2026-11-23 | Digital Alpha Platforms AI/ML Engineer Remotive 6611718 (remotive.com/.../ai-ml-engineer-6611718) | archived: Remotive shows listing is closed/archived
+2026-11-23 | Scalanova Health AI & Growth Engineering Intern (Remotive) | already rejected 2026-11-11: batch gate 2024/2025/2026 only; Shubh is 2027 batch
+2026-11-23 | Cyclotron AI Intern (Remotive ai-intern-5955990) | already rejected 2026-10-29: posted 2 months ago exceeds recency gate
