@@ -13,6 +13,19 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-24 | Isomorph AI | Software Engineering Intern | Bengaluru hybrid | Internship | Fit: Python/TypeScript/AI agents/cloud; ₹40-60K/mo; IIT Madras+Delhi founding team, no institution req for applicants; fresh posting; STRONG MATCH | https://in.linkedin.com/jobs/view/software-engineering-intern-at-isomorph-ai-4494332025
+- [ ] 2026-11-24 | Saina Cloud Software Solutions | AI & Python Developer Intern | Bengaluru WFO MG Road | Internship | Fit: Python/LLMs/AI agents/prompt eng; freshers/final-year; paid; 2 openings; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-python-developer-intern-at-saina-cloud-software-solutions-4493924021
+- [ ] 2026-11-24 | RecruitBots AI | Junior GenAI Engineer | Remote India | Full-time 0-2yr | Fit: RAG/FastAPI/LLM/Python = FloatChat+TriageForge direct match; ₹4-8 LPA; fresher-friendly; STRONG MATCH | https://in.linkedin.com/jobs/view/junior-genai-engineer-at-recruitbots-ai-4492817199
+- [ ] 2026-11-24 | Duck Creek Technologies | Associate Software Engineer | Bengaluru hybrid | Full-time 0-2yr | Fit: LLM evals/knowledge graphs/RAG/Python; requires GitHub w/ original AI project (TriageForge+FloatChat qualify); STRONG MATCH | https://in.linkedin.com/jobs/view/associate-software-engineer-at-duck-creek-technologies-4483427932
+- [ ] 2026-11-24 | Conduent | App Dev & Support Engineer I (AI Dev) | Bangalore or Kochi | Full-time 0-2yr | Fit: Python/MCP/LLMs/RAG/FastAPI/conversational AI = TriageForge direct match; ⚠️ posted Nov 11, apply today (13d); STRONG MATCH | https://in.linkedin.com/jobs/view/app-dev-support-engineer-i-at-conduent-4489903869
+- [ ] 2026-11-24 | Birbal | Software Engineer Intern | Remote India | Internship | Fit: Python/AI/fintech; no exp req; remote; limited co info; STRETCH | https://in.linkedin.com/jobs/view/software-engineer-intern-at-birbal-4492678413
+- [ ] 2026-11-24 | Zetheta Algorithms | Artificial Intelligence Engineer (Intern) | Remote India | Internship | Fit: LLM/RAG/FastAPI/agents/vector DBs/guardrails/evals = exact TriageForge match; UNPAID+certificate; STRETCH | https://in.linkedin.com/jobs/view/artificial-intelligence-engineer-at-zetheta-algorithms-private-limited-4494304716
+- [ ] 2026-11-24 | Venture Launcher | AI/ML Interns | Remote India | Internship | Fit: RAG/LangChain/ChromaDB/FAISS/LangGraph/FastAPI; apply via LinkedIn DM; UNPAID; STRETCH | https://in.linkedin.com/jobs/view/we%E2%80%99re-hiring-ai-ml-interns-at-venture-launcher%21-%F0%9F%9A%80-unpaid-remote-at-venture-launcher-4494348153
+- [ ] 2026-11-24 | Bynry Inc. | Forward Deployed Engineer Intern | Pune on-site | Internship 6mo | Fit: Python/LLM/RAG/SQL/REST APIs; ₹10K/mo; ⚠️ Pune only; STRETCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-bynry-inc-4492558817
+- [ ] 2026-11-24 | TerraTern | AI Engineer | Bengaluru | Full-time fresher/1-3yr | Fit: LLM APIs/RAG/agents; fresher eligible; early-stage startup; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-at-terratern-4492543971
+- [ ] 2026-11-24 | Synlumex AI | AI Developer (Fresher / 0-1yr) | Remote India | Full-time | Fit: LLM/RAG/vector DBs/AWS; email apply sales@synlumexai.com; STRETCH | https://in.linkedin.com/jobs/view/ai-developer-%E2%80%93-fresher-0%E2%80%931-year-experience-at-synlumex-ai-4494092798
+- [ ] 2026-11-24 | AMETEK | AI Engineer / Developer | Bengaluru | Full-time 0-2yr | Fit: Python/ML/LLM/RAG/evals; global MNC (NYSE: AME); ⚠️ posted Nov 10, apply today (14d boundary); STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-developer-at-ametek-4481275295
+---
 - [ x] 2026-11-24 | Legman AI | AI Backend Developer Intern | Remote India | Internship | Fit: Python/FastAPI/LLMs/Embeddings/Vector DBs/Agent Frameworks = TriageForge + FloatChat direct stack match; 2026-2028 batch; ₹10,000/mo; fresh posting; apply tech-hiring@legman.ai; STRONG MATCH | https://hiredoor.in/jobs/ai-backend-developer-intern-1f1d26
 - [ x] 2026-11-23 | Udhi Technologies | AI + Full-Stack Developer Intern | Remote India | Internship 3mo | Fit: LLM pipelines (Python)/Next.js/NestJS/PostgreSQL; ₹10K/mo; freshers welcome; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-%2B-full-stack-developer-intern-4492392125
 - [ x] 2026-11-23 | Artha Labs (Attention Tag) | Machine Learning Engineer [FT] | Bangalore/Remote India | Full-time 0-2yr | Fit: LLMs/Agentic AI/Isaac Sim; ₹15-20L + 0-0.5% equity; 1-10 employee startup; posted ~Nov 16; STRONG MATCH | https://wellfound.com/jobs/4844645-machine-learning-engineer
@@ -310,6 +323,21 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-24 | Unloq® Moonshot AI Engineer Intern (LinkedIn 4492729642) | Institution gate: IIT/IIIT/NIT/BITS + JEE rank <5000 + CGPA 8.5 required
+2026-11-24 | Zycus AI Interns Walk-in (LinkedIn 4492014360) | Batch gate: 2026 graduates only
+2026-11-24 | Fujitsu AI & Automation Developer (LinkedIn 4490501360 / 4490387961) | Location gate: Portugal / Poland / Costa Rica only
+2026-11-24 | Albertsons Companies India AI/Agentic Eng (LinkedIn 4481590170) | Experience gate: 3–6 years, Mid-Senior level
+2026-11-24 | Gabeo.ai ML Engineer (LinkedIn 4483738409) | Recency gate: posted Oct 26, >14 days for FT
+2026-11-24 | Evnek GenAI Engineer (LinkedIn 4486348390) | Recency gate: posted Nov 3, >14 days for FT
+2026-11-24 | Crowe Capabilities Junior ML Engineer (LinkedIn 4491705669) | Location gate: Hyderabad only
+2026-11-24 | NTT DATA Associate Engineer (LinkedIn 4474851008) | Location gate: Chennai only
+2026-11-24 | Crossing Infotech AI Intern (LinkedIn 4493761795) | Profile mismatch: basic AI training org
+2026-11-24 | Axentriax AI & ML Intern (LinkedIn 4491694412) | Profile mismatch: basic ML training for college students
+2026-11-24 | Jobs4PanIndia AI Intern (LinkedIn 4494328836 / 4494341412) | Profile mismatch: non-technical training org, performance-based ₹10K max
+2026-11-24 | ThinkNovaa AI Intern (LinkedIn 4494337819) | Profile mismatch: basic training org, performance-based ₹10K max
+2026-11-24 | Sankar Group AI Agent Dev Intern (LinkedIn 4492231816) | Location gate: Bhubaneswar Hybrid only
+2026-11-24 | ENPOINTE AI/ML Engineer Intern (LinkedIn 4493944661) | Location gate: Mumbai only
+2026-11-24 | Neo Tech AI Intern (LinkedIn 4492377667) | Profile mismatch: basic AI training org
 2026-11-23 | InAmigos Foundation AI & ML / AI Web Dev / AI Data Analytics (3 listings) | Internshala | Unpaid + NGO template internships
 2026-11-23 | Hope Behind Tails Foundation AI / ML / Data Science (3 listings) | Internshala | Unpaid + NGO template internships
 2026-11-23 | Women First India Foundation ML / Python Dev (2 listings) | Internshala | Unpaid + NGO template internships
