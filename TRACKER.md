@@ -13,6 +13,7 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-24 | Legman AI | AI Backend Developer Intern | Remote India | Internship | Fit: Python/FastAPI/LLMs/Embeddings/Vector DBs/Agent Frameworks = TriageForge + FloatChat direct stack match; 2026-2028 batch; ₹10,000/mo; fresh posting; apply tech-hiring@legman.ai; STRONG MATCH | https://hiredoor.in/jobs/ai-backend-developer-intern-1f1d26
 - [ ] 2026-11-23 | Udhi Technologies | AI + Full-Stack Developer Intern | Remote India | Internship 3mo | Fit: LLM pipelines (Python)/Next.js/NestJS/PostgreSQL; ₹10K/mo; freshers welcome; posted today; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-%2B-full-stack-developer-intern-4492392125
 - [ ] 2026-11-23 | Artha Labs (Attention Tag) | Machine Learning Engineer [FT] | Bangalore/Remote India | Full-time 0-2yr | Fit: LLMs/Agentic AI/Isaac Sim; ₹15-20L + 0-0.5% equity; 1-10 employee startup; posted ~Nov 16; STRONG MATCH | https://wellfound.com/jobs/4844645-machine-learning-engineer
 - [ ] 2026-11-23 | EvoNexis | Machine Learning Intern | WFH India | Internship 3mo | Fit: Python/ML/NLP/Deep Learning; ₹17-29K/mo; unknown co (no web presence); LOW CONF | https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-evonexis1795322949
@@ -951,3 +952,13 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-23 | Digital Alpha Platforms AI/ML Engineer Remotive 6611718 (remotive.com/.../ai-ml-engineer-6611718) | archived: Remotive shows listing is closed/archived
 2026-11-23 | Scalanova Health AI & Growth Engineering Intern (Remotive) | already rejected 2026-11-11: batch gate 2024/2025/2026 only; Shubh is 2027 batch
 2026-11-23 | Cyclotron AI Intern (Remotive ai-intern-5955990) | already rejected 2026-10-29: posted 2 months ago exceeds recency gate
+2026-11-24 | Radixsol AI Software Engineer (hiredoor.in/jobs/ai-software-engineer-574eeb) | batch gate: requires 2023-2026 graduation; Shubh is 2027
+2026-11-24 | Katonic AI Forward Deployed AI Engineer (hiredoor.in/jobs/forward-deployed-ai-engineer-5c26b8) | experience gate: 1+ yr required; batch gate: 2026 only
+2026-11-24 | Alchemyst AI Full Stack Intern (Wellfound) | recency gate: Wellfound shows "Reposted: 1 month ago"; exceeds 7-day internship gate
+2026-11-24 | Artha Labs (Attention Tag) ML Engineer FT (Wellfound 4844645) | recency gate: actual posting date Oct 14 (40+ days); exceeds 14-day FT gate; tracker entry for Nov 23 reflects re-discovery date not post date
+2026-11-24 | Ambitio AI Engineer Intern (Wellfound 4980139) | recency gate: 2 weeks old; institute gate: IIT/NIT/IIIT/BITS only; Bengaluru in-office only
+2026-11-24 | Kastack Labs AI/ML Engineer Intern (Foundit 55516748) | closed: no longer accepting applications; also unpaid
+2026-11-24 | SkillZenLoop Artificial Intelligence Intern (Foundit 53013166) | closed: no longer accepting applications
+2026-11-24 | MyntOptics AI/ML Intern Agentic Systems (Foundit 41406779) | closed: no longer accepting applications
+2026-11-24 | Allo Innoware AI Operations & Automation Intern (Indeed jk=5009bf5a554dfb7a) | profile mismatch: business process automation (ChatGPT/n8n/Google Sheets ops), not AI/LLM engineering
+2026-11-24 | RevRag AI Product Analyst Intern (hiredoor.in/jobs/ai-product-analyst-intern) | closed: job not found (404)
