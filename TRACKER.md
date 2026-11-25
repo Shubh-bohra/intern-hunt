@@ -13,6 +13,14 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-25 | Ziva Health | AI/ML Engineering Intern | Remote India | Internship | Fit: multi-agent/RAG/LangChain/LangGraph/Google ADK/vector DBs/evals = TriageForge direct match; ₹30K/mo; 2026-2027 batch; fresh today; STRONGEST MATCH | https://hiredoor.in/jobs/ai-ml-engineering-intern-c88026
+- [ ] 2026-11-25 | Mexo Technologies | AI Engineering Intern (+PPO) | Bengaluru on-site | Internship PPO | Fit: AI agents/LLMs/Python/TypeScript/data pipelines; ₹25K/mo; 2026-2027 batch; PPO path; fresh today; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--36209c
+- [ ] 2026-11-25 | Isomorph AI | Forward Deployed Engineering Intern | Bengaluru on-site | Internship | Fit: build real AI apps+agents for enterprise customers; direct-to-FDE path; IIT founding team; fresh today (distinct from SW Eng Intern tracked Nov 24); STRONG MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineering-intern-at-isomorph-ai-4494324451
+- [ ] 2026-11-25 | Sarla Aviation | Applied AI Intern | Bengaluru on-site | Internship | Fit: RAG/prompt caching/structured outputs/tool use/Claude+OpenAI APIs = FloatChat direct match; eVTOL aviation startup; fresh today; STRONG MATCH | https://in.linkedin.com/jobs/view/applied-ai-intern-at-sarla-aviation-4494378180
+- [ ] 2026-11-25 | Daice Labs | AI/ML Engineering Intern | Remote India | Internship | Fit: production ML systems/hybrid AI/data pipelines; MIT CSAIL founders; remote; fresh today; GOOD MATCH | https://in.linkedin.com/jobs/view/ai-ml-engineering-intern-at-daice-labs-4494392221
+- [ ] 2026-11-20 | Milestone Technologies | AI Intern | Remote India | Internship | Fit: Python/AI agents/RAG/LLMs/LangChain/LangGraph/n8n; ₹25K/mo; 2026-2028 batch; GOOD MATCH | https://hiredoor.in/jobs/ai-intern-cec573
+- [ ] 2026-11-25 | IQVIA | AI/ML Intern | Bengaluru | Internship | Fit: Python/pandas/NumPy/scikit-learn/ML; global MNC (NYSE:IQV); no batch gate; no prior industry exp required; fresh today; SAFE BET | https://in.linkedin.com/jobs/view/intern-at-iqvia-4494328856
+---
 - [ ] 2026-11-24 | Isomorph AI | Software Engineering Intern | Bengaluru hybrid | Internship | Fit: Python/TypeScript/AI agents/cloud; ₹40-60K/mo; IIT Madras+Delhi founding team, no institution req for applicants; fresh posting; STRONG MATCH | https://in.linkedin.com/jobs/view/software-engineering-intern-at-isomorph-ai-4494332025
 - [ ] 2026-11-24 | Saina Cloud Software Solutions | AI & Python Developer Intern | Bengaluru WFO MG Road | Internship | Fit: Python/LLMs/AI agents/prompt eng; freshers/final-year; paid; 2 openings; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-python-developer-intern-at-saina-cloud-software-solutions-4493924021
 - [ ] 2026-11-24 | RecruitBots AI | Junior GenAI Engineer | Remote India | Full-time 0-2yr | Fit: RAG/FastAPI/LLM/Python = FloatChat+TriageForge direct match; ₹4-8 LPA; fresher-friendly; STRONG MATCH | https://in.linkedin.com/jobs/view/junior-genai-engineer-at-recruitbots-ai-4492817199
@@ -323,6 +331,16 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-25 | Maven Labs AI Creative & Product Intern (LinkedIn 4492576362) | Batch gate: 2025/2026 graduates only
+2026-11-25 | Vishwonix AI/ML Intern (LinkedIn 4492484112) | Location gate: Jaipur on-site
+2026-11-25 | YourAILens Studios AI Creative Intern – Generative AI Video (LinkedIn 4493192747) | Profile mismatch: generative AI video/creative arts, not engineering
+2026-11-25 | MediNex Workforce Machine Learning Intern (LinkedIn 4494363864) | Low stipend + basic scope: ₹14K/mo, no production systems
+2026-11-25 | MediNex Workforce AI & Machine Learning Intern (LinkedIn 4494369735) | Low stipend + basic scope: duplicate low-scope listing
+2026-11-25 | Crazy for Success Foundation AI Prompt Engineer (LinkedIn 4493236317) | Profile mismatch: prompt engineering training org, Pune location
+2026-11-25 | Jobs4PanIndia Artificial Intelligence Intern (LinkedIn 4494700309) | Profile mismatch: non-technical training org
+2026-11-25 | The Oz Studios GenAI Artist Intern (LinkedIn 4494327120) | Profile mismatch: creative arts, not engineering
+2026-11-25 | Zetheta Algorithms Software Engineer Intern (LinkedIn 4494311392) | Profile mismatch: generic SW dev + unpaid (AI Engineer already tracked Nov 24)
+2026-11-25 | Remotive AI/ML listings (multiple) | Recency gate: all results Feb–Apr 2026, >60 days old
 2026-11-24 | Unloq® Moonshot AI Engineer Intern (LinkedIn 4492729642) | Institution gate: IIT/IIIT/NIT/BITS + JEE rank <5000 + CGPA 8.5 required
 2026-11-24 | Zycus AI Interns Walk-in (LinkedIn 4492014360) | Batch gate: 2026 graduates only
 2026-11-24 | Fujitsu AI & Automation Developer (LinkedIn 4490501360 / 4490387961) | Location gate: Portugal / Poland / Costa Rica only
