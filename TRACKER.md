@@ -13,6 +13,10 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-25 | Uniphore | Full Stack AI Engineer Intern (6mo) | Bengaluru on-site | Internship | Fit: enterprise voice/agentic AI; LLMs/SLMs/RAG/Agentic AI + Python + React; fresh graduates; Tez Health (voice AI/STT/TTS) + FloatChat (RAG/multi-LLM) = strong case studies; STRONGEST MATCH | https://in.linkedin.com/jobs/view/full-stack-ai-engineer-intern-at-uniphore-4494796445
+- [ ] 2026-11-25 | SAP | AI Application Engineer Associate | Bengaluru hybrid | Full-time entry-level | Fit: AI coding tools + cloud-native enterprise AI; Associate = entry-level; global MNC brand; GenAI + cloud stack; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-application-engineer-associate-at-sap-4493408566
+- [ ] 2026-11-24 | CGI | Graduate Trainee – AI & ML Technologies | Bengaluru | Full-time freshers | Fit: 0 years/freshers explicitly; GenAI/ML/Python/Azure OpenAI; NYSE-listed global IT MNC; structured programme; STRONG MATCH | https://in.linkedin.com/jobs/view/graduate-trainee-ai-ml-technologies-at-cgi-4494162671
+- [ ] 2026-11-24 | WEX | Software Development Engineer 1–2 | Bengaluru | Full-time 0yr | Fit: AI/ML agentic platform; FinTech; graduate hire (0yr exp); Python + ML; STRETCH – verify exact exp req | https://in.linkedin.com/jobs/view/software-development-engineer-1-2-at-wex-4486857356
 - [ ] 2026-11-25 | Ziva Health | AI/ML Engineering Intern | Remote India | Internship | Fit: multi-agent/RAG/LangChain/LangGraph/Google ADK/vector DBs/evals = TriageForge direct match; ₹30K/mo; 2026-2027 batch; fresh today; STRONGEST MATCH | https://hiredoor.in/jobs/ai-ml-engineering-intern-c88026
 - [ ] 2026-11-25 | Mexo Technologies | AI Engineering Intern (+PPO) | Bengaluru on-site | Internship PPO | Fit: AI agents/LLMs/Python/TypeScript/data pipelines; ₹25K/mo; 2026-2027 batch; PPO path; fresh today; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--36209c
 - [ ] 2026-11-25 | Isomorph AI | Forward Deployed Engineering Intern | Bengaluru on-site | Internship | Fit: build real AI apps+agents for enterprise customers; direct-to-FDE path; IIT founding team; fresh today (distinct from SW Eng Intern tracked Nov 24); STRONG MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineering-intern-at-isomorph-ai-4494324451
@@ -331,6 +335,21 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-25 | RecruitBots AI AI Engineer Intern (LinkedIn 4494911060) | Location gate: Hyderabad on-site only
+2026-11-25 | ThinkNovaa AI Intern (LinkedIn 4494782873) | Training org; performance-based stipend ₹10K max
+2026-11-25 | Jobs4PanIndia AI Intern (LinkedIn 4494797340) | Training org pattern; performance-based ₹10K max
+2026-11-25 | Crossing Infotech AI Intern (LinkedIn 4494907452) | Training org; same company pattern as prior rejections
+2026-11-25 | ComputeLib AI Software Development Intern (LinkedIn 4494774028) | Institution restriction in title: "from Premier Colleges"
+2026-11-25 | Micron Technology Intern (LinkedIn 4494758586) | Profile mismatch: no AI/ML engineering scope
+2026-11-25 | Thermo Fisher IT Intern (LinkedIn 4491691626) | Duplicate of already-tracked Nov 20 entry
+2026-11-25 | Duck Creek Technologies Sr. Associate Software Engineer (LinkedIn 4483434709) | Title gate: "Sr." = Senior
+2026-11-25 | Axentriax by Elevate Labs AI & ML Intern (LinkedIn 4491694412) | Training org, previously rejected
+2026-11-25 | Google PhD Software Engineer Intern Summer 2027 (LinkedIn 4462934581) | Degree gate: PhD required
+2026-11-25 | HackerRank AI Researcher Intern (LinkedIn 4482505388) | Degree gate: MS/PhD + exp gate: 2–3 years required
+2026-11-25 | Wellfound listings (Eshal AI DSE, ANM Tech, interactly.video, etc.) | Recency gate: all >7 days old
+2026-11-25 | Remotive listings (multiple Feb–Apr 2026) | Recency gate: stale, all Feb–Apr 2026
+2026-11-25 | Solvative Python AI/ML Intern (Remotive) | Recency gate: expired April 2026
+2026-11-25 | Taskly AI/ML Intern | Recency gate: posted Oct 20, 36 days old
 2026-11-25 | Maven Labs AI Creative & Product Intern (LinkedIn 4492576362) | Batch gate: 2025/2026 graduates only
 2026-11-25 | Vishwonix AI/ML Intern (LinkedIn 4492484112) | Location gate: Jaipur on-site
 2026-11-25 | YourAILens Studios AI Creative Intern – Generative AI Video (LinkedIn 4493192747) | Profile mismatch: generative AI video/creative arts, not engineering
