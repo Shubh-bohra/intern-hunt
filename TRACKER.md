@@ -13,6 +13,16 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-26 | CommerceIQ | SDE Intern (UI) | Bengaluru on-site | Internship | Fit: LLM agents + MCP server + React; no exp req; TriageForge MCP + UI match; Series-D AI commerce co; STRONGEST MATCH | https://in.linkedin.com/jobs/view/sde-intern-ui-at-commerceiq-4495017373
+- [ ] 2026-11-26 | CommerceIQ | SDE Intern | Bengaluru on-site | Internship | Fit: LLM agents + MCP server + Python/Node; no exp req; TriageForge MCP + FloatChat Python match; apply with UI role | https://in.linkedin.com/jobs/view/sde-intern-at-commerceiq-4495004962
+- [ ] 2026-11-26 | Inspot IT | Agentic AI Intern (Junior/Fresher) | Karnataka India | Internship | Fit: AI agents/automation/agentic workflows; fresher explicit; same-day posting; SAFE BET | https://in.linkedin.com/jobs/view/agentic-ai-intern-junior-fresher-at-inspot-it-4494992326
+- [ ] 2026-11-26 | IQVIA | AI Engineer | Kochi on-site | Full-time 0-2yr | Fit: Python/ML/life sciences AI; 0yr eligible; global MNC (NYSE:IQV); ⚠️ Kochi location; SAFE BET | https://in.linkedin.com/jobs/view/ai-engineer-at-iqvia-4495025162
+- [ ] 2026-11-25 | Recro | Generative AI Engineer (Junior) | Bengaluru | Full-time 1yr+ | Fit: Python/RAG/GCP/GenAI frameworks/agentic; min 1yr (projects qualify); FloatChat+TriageForge match; STRETCH | https://in.linkedin.com/jobs/view/generative-ai-engineer-at-recro-4494942640
+- [ ] 2026-11-25 | Innovun Global | AI/ML Engineer – Enterprise Agentic AI | India Remote | Full-time 1yr+ | Fit: LLMs/conversational AI/enterprise agentic; min 1yr borderline; remote; TriageForge match; STRETCH | https://in.linkedin.com/jobs/view/ai-ml-engineer-enterprise-agentic-ai-at-innovun-global-4493405223
+- [ ] 2026-11-24 | Pocket FM | Member of Technical Staff – Applied AI | Bengaluru on-site | Full-time fresher | Fit: Gen AI platform/voice AI/agentic workflows/multimodal; "experience through coursework/projects/internships" = no years; Tez Health voice AI match; MTS entry-level; STRONGEST MATCH | https://in.linkedin.com/jobs/view/member-of-technical-staff-applied-ai-at-pocket-fm-4492686285
+- [ ] 2026-11-19 | Unloq® | Moonshot Internship – AI Engineer, Decision Engine | Bengaluru hybrid | Internship (fast-track FT) | Fit: Anthropic partner + Databricks partner; LLM decision engine; high-agency role; ⚠️ posted 7d ago (at gate); STRETCH | https://in.linkedin.com/jobs/view/moonshot-internship-ai-engineer-decision-engine-fast-track-to-ft-role-at-unloq-4492729642
+- [ ] 2026-11-18 | Fujitsu | AI & Automation Solutions Developer | Pune on-site | Full-time early-career | Fit: RAG/AI agents/conversational AI/voice translation; Tez Health+FloatChat match; global MNC; ⚠️ Pune location; STRETCH | https://in.linkedin.com/jobs/view/ai-automation-solutions-developer-at-fujitsu-4490501360
+- [ ] 2026-11-14 | EXL | Data Scientist GenAI (0-2yr) | Noida on-site | Full-time 0-2yr | Fit: GenAI/RAG/STT/TTS/FastAPI/LLMs/VLMs/LoRA; 0yr eligible; ⚠️ Noida; ⚠️ posted 12d ago (apply today); NYSE analytics MNC; STRETCH | https://in.linkedin.com/jobs/view/4423237-senior-executive-at-exl-4446731398
 - [ ] 2026-11-26 | Wayam AI | AI Engineering Intern (+PPO) | Remote India | Internship PPO | Fit: AI agents/RAG pipelines/fine-tuning; 2026-2028 batch; stipend undisclosed; email apply tech@wayam.ai; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--c95442
 - [ ] 2026-11-26 | Evnek Technologies | Junior Generative AI Engineer | Bengaluru on-site | Full-time fresher | Fit: LLMs/RAG/LangChain/FastAPI/ChromaDB/FAISS = FloatChat direct match; freshers 0-1yr; est. ₹5-9 LPA; STRONG MATCH | https://evnek.zohorecruit.in/jobs/Careers/126220000025900584/Generative-AI-Engineer?source=CareerSite
 - [ ] 2026-11-26 | OpalCode | Artificial Intelligence (AI) Intern (new listing) | WFH India | Internship part-time | Fit: GenAI/NLP/AI automation/Python; freshers/all students; ₹15-27K/mo; 2mo; GOOD MATCH | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-opalcode1795501482
@@ -340,6 +350,25 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-26 | PSPM Technologies AI/ML R&D Intern (LinkedIn) | UNPAID — no stipend offered
+2026-11-26 | Zetheta Algorithms AI Engineer new listing 4494793635 (LinkedIn) | UNPAID/project-based capstone (second unpaid listing this week)
+2026-11-26 | R Systems AI Full-Stack Engineering Intern (LinkedIn) | Location: Noida on-site only
+2026-11-26 | ENPOINTE AI/ML Engineer Internship (LinkedIn) | Location: Mumbai on-site only
+2026-11-26 | IIT Kanpur DF Zoho/Python/AI Intern (LinkedIn) | Location: Kanpur — not Bengaluru/remote
+2026-11-26 | Lamipak AI Engineer (LinkedIn) | Location: New Delhi on-site only
+2026-11-26 | Dexterz Technology ML Intern (LinkedIn) | Stale — application deadline was Sep 24
+2026-11-26 | Neo Tech AI AI Intern Fresher (LinkedIn) | Training/certificate company pattern
+2026-11-26 | MediNex Workforce AI & ML Intern (LinkedIn) | Staffing agency — MediNex previously rejected
+2026-11-26 | MediNex Workforce ML Intern (LinkedIn) | Staffing agency — MediNex previously rejected
+2026-11-26 | Jobs4PanIndia AI Intern (LinkedIn) | Performance-based ₹10K, certificate mill pattern
+2026-11-26 | ThinkNovaa AI Intern (LinkedIn) | Certificate mill pattern, performance-based ₹10K
+2026-11-26 | KLA Engineering AI (LinkedIn, Chennai) | Experience gate: requires Master's or Bachelor's + 2 years minimum
+2026-11-26 | JAGGAER Associate Developer Agentic AI (LinkedIn) | Experience gate: 1-2 yrs minimum + Location: Hyderabad on-site
+2026-11-26 | IDfy Emerging Artisan (LinkedIn, Mumbai) | Experience gate: 1-2 yrs minimum + Location: Mumbai
+2026-11-26 | RecruitBots AI AI Software Engineer GenAI (LinkedIn) | Experience gate: 1-2 yrs minimum; Bengaluru on-site
+2026-11-26 | NTT DATA Associate Engineer AI (LinkedIn, Chennai) | Location: Chennai + generic JD
+2026-11-26 | Albertsons Advanced Engineer Software AI/Agentic (LinkedIn) | Level: Mid-Senior — experience gate fails
+2026-11-26 | RecruitBots AI AI Engineer Intern (LinkedIn, Hyderabad) | Location: Hyderabad on-site, not Bengaluru/remote
 2026-11-26 | DXORA AI Engineer Intern (HireDoor ai-engineer-intern-fded00) | Recency gate: posted 12 days ago (> 7-day intern limit)
 2026-11-26 | CRUV AI Engineer Intern (Wellfound 4696235) | Recency gate: posted 2 months ago
 2026-11-26 | Clarion Analytics Intern GenAI/LLM/Vision AI (Indeed/remote) | Recency gate: posted ~1 month ago
