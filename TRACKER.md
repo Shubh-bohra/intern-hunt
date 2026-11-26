@@ -13,6 +13,11 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-26 | Wayam AI | AI Engineering Intern (+PPO) | Remote India | Internship PPO | Fit: AI agents/RAG pipelines/fine-tuning; 2026-2028 batch; stipend undisclosed; email apply tech@wayam.ai; STRONG MATCH | https://hiredoor.in/jobs/ai-engineering-intern-ppo--c95442
+- [ ] 2026-11-26 | Evnek Technologies | Junior Generative AI Engineer | Bengaluru on-site | Full-time fresher | Fit: LLMs/RAG/LangChain/FastAPI/ChromaDB/FAISS = FloatChat direct match; freshers 0-1yr; est. ₹5-9 LPA; STRONG MATCH | https://evnek.zohorecruit.in/jobs/Careers/126220000025900584/Generative-AI-Engineer?source=CareerSite
+- [ ] 2026-11-26 | OpalCode | Artificial Intelligence (AI) Intern (new listing) | WFH India | Internship part-time | Fit: GenAI/NLP/AI automation/Python; freshers/all students; ₹15-27K/mo; 2mo; GOOD MATCH | https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-opalcode1795501482
+- [ ] 2026-11-26 | Karvo | AI Engineering Intern (PPO) | Remote India | Internship PPO | Fit: 2026-2028 batch; ₹25K/mo; ⚠️ verify full tech stack before applying | https://hiredoor.in/jobs/ai-engineering-intern-ppo--058605
+---
 - [ ] 2026-11-25 | Uniphore | Full Stack AI Engineer Intern (6mo) | Bengaluru on-site | Internship | Fit: enterprise voice/agentic AI; LLMs/SLMs/RAG/Agentic AI + Python + React; fresh graduates; Tez Health (voice AI/STT/TTS) + FloatChat (RAG/multi-LLM) = strong case studies; STRONGEST MATCH | https://in.linkedin.com/jobs/view/full-stack-ai-engineer-intern-at-uniphore-4494796445
 - [ ] 2026-11-25 | SAP | AI Application Engineer Associate | Bengaluru hybrid | Full-time entry-level | Fit: AI coding tools + cloud-native enterprise AI; Associate = entry-level; global MNC brand; GenAI + cloud stack; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-application-engineer-associate-at-sap-4493408566
 - [ ] 2026-11-24 | CGI | Graduate Trainee – AI & ML Technologies | Bengaluru | Full-time freshers | Fit: 0 years/freshers explicitly; GenAI/ML/Python/Azure OpenAI; NYSE-listed global IT MNC; structured programme; STRONG MATCH | https://in.linkedin.com/jobs/view/graduate-trainee-ai-ml-technologies-at-cgi-4494162671
@@ -335,6 +340,20 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-26 | DXORA AI Engineer Intern (HireDoor ai-engineer-intern-fded00) | Recency gate: posted 12 days ago (> 7-day intern limit)
+2026-11-26 | CRUV AI Engineer Intern (Wellfound 4696235) | Recency gate: posted 2 months ago
+2026-11-26 | Clarion Analytics Intern GenAI/LLM/Vision AI (Indeed/remote) | Recency gate: posted ~1 month ago
+2026-11-26 | Langslide Full-Stack AI Engineer Intern (Wellfound 4101394) | Recency gate: reposted 1 month ago
+2026-11-26 | Digitals AI Generative AI Engineer Freshers 2026/27 (Hirastra) | Recency gate: FT role posted 25 days ago (> 14-day FT limit)
+2026-11-26 | UptimeAI GenAI Engineer (Hirastra, Bengaluru hybrid) | Experience gate: 1–3+ yrs minimum (Shubh at 0 yrs)
+2026-11-26 | AGRATI Tech Labs AI Engineer Intern (HireDoor ai-engineer-intern-9ecbd4) | Recency gate: posted 8 days ago (Nov 18, just outside 7-day limit)
+2026-11-26 | Velqumi AI Engineer Intern (HireDoor ai-engineer-intern-beef5b) | Recency gate: posted 8 days ago (Nov 18, outside 7-day limit)
+2026-11-26 | Revrag AI Technology AI Engineer Intern (HireDoor ai-engineer-intern-e86e17) | Recency gate: posted 8 days ago (Nov 18) + on-site Bengaluru mismatch with recency
+2026-11-26 | Vahan AI Engineer Intern (HireDoor ai-engineer-intern-d38d8a and fe5f04) | Recency gate: posted 8–10 days ago
+2026-11-26 | Discover Dollar AI Engineer Intern Agentic AI (Hirastra/Keka) | Recency gate: added Oct 12 (> 7-day intern limit)
+2026-11-26 | Siemens Agentic QA Intern | Profile mismatch: Java/JUnit/software testing focus, not AI/Python engineering
+2026-11-26 | Nablon AI Associate AI Engineer | Eligibility gate: batch 2024–2026 only, 2027 ineligible
+2026-11-26 | Es Magico Agentic AI Intern (Internshala) | Recency gate: posted ~Nov 14–16 (~10–12 days ago from Nov 26)
 2026-11-25 | RecruitBots AI AI Engineer Intern (LinkedIn 4494911060) | Location gate: Hyderabad on-site only
 2026-11-25 | ThinkNovaa AI Intern (LinkedIn 4494782873) | Training org; performance-based stipend ₹10K max
 2026-11-25 | Jobs4PanIndia AI Intern (LinkedIn 4494797340) | Training org pattern; performance-based ₹10K max
