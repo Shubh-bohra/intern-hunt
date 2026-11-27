@@ -13,10 +13,14 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-27 | Convin | Backend Intern | Bengaluru on-site | Internship | Fit: Python/Go/FastAPI/REST APIs/voicebots+chatbots backend; 0-1yr; Series-A $6.5M AI conversation intelligence; IIT Delhi founding team; LinkedIn Top Startups; Tez Health voice AI = direct match; posted today 3h ago; STRONG MATCH | https://in.linkedin.com/jobs/view/backend-intern-at-convin-4495096028
+- [ ] 2026-11-27 | Curavolv | Software Development and AI Engineering Intern | Remote India | Internship 3mo | Fit: Python/LLM workflows/RAG/embeddings/prompt eval/retrieval; ₹10K/mo; no institution gate; no exp req; posted today; GOOD MATCH | https://in.linkedin.com/jobs/view/software-development-and-ai-engineering-intern-at-curavolv-4495581034
+---
 - [ ] 2026-11-27 | FamPay | Backend Engineering Intern | Bengaluru on-site | Internship | Fit: Python/GoLang/backend/AWS; previous product co internship req (Tez Health qualifies); freshly posted 2h ago; STRONG MATCH | https://hiredoor.in/jobs/backend-engineering-intern-ac040a
 - [ ] 2026-11-27 | Blue Machines AI | Forward Deployed Engineer Intern | Bengaluru on-site | Internship 3-6mo | Fit: enterprise voice agents/CX/Python/REST/SQL; Tez Health voice AI = direct match; final-year CS req; 20h ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-blue-machines-ai-4495256881
 - [ ] 2026-11-27 | Arthrex India | Data Engineer Intern | Pune on-site | Internship full-time | Fit: Python/LLMs/RAG/LangChain/vector DBs/agentic AI; exact TriageForge+FloatChat match; ⚠️ Pune; 15h ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/data-engineer-intern-at-arthrex-india-4495014878
 - [ ] 2026-11-27 | Solvendo Limited | AI Systems & Forward Deployed Engineering | Bengaluru on-site | Internship | Fit: AI systems/FDE; Bengaluru; ⚠️ verify JD; 13h ago; STRETCH | https://in.linkedin.com/jobs/view/ai-systems-forward-deployed-engineering-at-solvendo-limited-4495003919
+---
 - [ ] 2026-11-26 | Costonomy.ai | Agentic AI Engineering Intern | Hyderabad on-site | Internship | Fit: AI agents/LLMs/GitHub; 2026-2028 batch; must have built ≥1 agent (TriageForge qualifies); live coding screen; ₹30K/mo; apply deeksha.j@costonomy.com; STRONG MATCH | https://hiredoor.in/jobs/agentic-ai-engineering-intern-c1fe59
 - [ ] 2026-11-25 | Grae AI | AI+Fullstack Intern (+PPO) | Hybrid India | Internship PPO | Fit: full-stack AI/backend/agents/LLM integrations; 2026-2027 batch; ₹40K/mo expected; apply hi@grae-ai.com; STRONG MATCH | https://hiredoor.in/jobs/ai-fullstack-intern-ppo--a4b4c7
 - [ ] 2026-11-27 | Rubrik | Software Engineer Intern – Core UI (Winter) | Bengaluru on-site | Internship | Fit: TypeScript/React/GraphQL+AI tools; 2027 batch; NYSE cybersecurity co; frontend focus; ⚠️ weak AI match; SAFE BET brand | https://hiredoor.in/jobs/software-engineer-intern-core-ui-winter-intern--76cf2e
@@ -358,6 +362,19 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-27 | Nexuron AI — Agentic AI Intern (LinkedIn) | UNPAID — "no salary or stipend will be provided" stated explicitly
+2026-11-27 | Wispr Flow — Back End Developer Demo Internship (LinkedIn, Bengaluru hybrid) | Not a job — Scaler nationwide hackathon, not employment
+2026-11-27 | Capgemini — FBS Agile Dev Team Member I (LinkedIn) | Location: Pune and Hyderabad only
+2026-11-27 | NiyamKavach — AI/ML Intern (LinkedIn) | Role mismatch: GTM/go-to-market focus, not engineering
+2026-11-27 | Rinza AI — AI/ML Engineer Intern (LinkedIn) | Role mismatch: product operations/analytics
+2026-11-27 | Lamipak — Artificial Intelligence Engineer (LinkedIn, New Delhi) | Location: New Delhi on-site only
+2026-11-27 | RecruitBots AI — AI Engineer Intern (LinkedIn 4494911060, Hyderabad) | Location: Hyderabad on-site only
+2026-11-27 | Digitals AI — Generative AI Engineer Freshers (LinkedIn 4495572401, Hyderabad) | Location: Hyderabad on-site only
+2026-11-27 | WSP in India — AI Engineer P&B (LinkedIn, Noida) | Location: Noida on-site only
+2026-11-27 | SpurQLabs — AI Agent Developer Intern (LinkedIn, Pune) | Location: Pune on-site only
+2026-11-27 | Nextburb — Intern Software Engineer (LinkedIn, Pune) | Location: Balewadi Pune on-site only
+2026-11-27 | GE HealthCare — Research Intern AI (LinkedIn 4461088583, Bengaluru) | Stale repost — low job ID indicates post from several weeks ago
+2026-11-27 | Thermo Fisher Scientific — IT Intern (LinkedIn 4493897041, Bengaluru) | Generic IT ops internship — no AI/ML scope; 4th TFS entry this week
 2026-11-26 | PSPM Technologies AI/ML R&D Intern (LinkedIn) | UNPAID — no stipend offered
 2026-11-26 | Zetheta Algorithms AI Engineer new listing 4494793635 (LinkedIn) | UNPAID/project-based capstone (second unpaid listing this week)
 2026-11-26 | R Systems AI Full-Stack Engineering Intern (LinkedIn) | Location: Noida on-site only
