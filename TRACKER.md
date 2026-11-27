@@ -13,6 +13,14 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-27 | FamPay | Backend Engineering Intern | Bengaluru on-site | Internship | Fit: Python/GoLang/backend/AWS; previous product co internship req (Tez Health qualifies); freshly posted 2h ago; STRONG MATCH | https://hiredoor.in/jobs/backend-engineering-intern-ac040a
+- [ ] 2026-11-27 | Blue Machines AI | Forward Deployed Engineer Intern | Bengaluru on-site | Internship 3-6mo | Fit: enterprise voice agents/CX/Python/REST/SQL; Tez Health voice AI = direct match; final-year CS req; 20h ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-blue-machines-ai-4495256881
+- [ ] 2026-11-27 | Arthrex India | Data Engineer Intern | Pune on-site | Internship full-time | Fit: Python/LLMs/RAG/LangChain/vector DBs/agentic AI; exact TriageForge+FloatChat match; ⚠️ Pune; 15h ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/data-engineer-intern-at-arthrex-india-4495014878
+- [ ] 2026-11-27 | Solvendo Limited | AI Systems & Forward Deployed Engineering | Bengaluru on-site | Internship | Fit: AI systems/FDE; Bengaluru; ⚠️ verify JD; 13h ago; STRETCH | https://in.linkedin.com/jobs/view/ai-systems-forward-deployed-engineering-at-solvendo-limited-4495003919
+- [ ] 2026-11-26 | Costonomy.ai | Agentic AI Engineering Intern | Hyderabad on-site | Internship | Fit: AI agents/LLMs/GitHub; 2026-2028 batch; must have built ≥1 agent (TriageForge qualifies); live coding screen; ₹30K/mo; apply deeksha.j@costonomy.com; STRONG MATCH | https://hiredoor.in/jobs/agentic-ai-engineering-intern-c1fe59
+- [ ] 2026-11-25 | Grae AI | AI+Fullstack Intern (+PPO) | Hybrid India | Internship PPO | Fit: full-stack AI/backend/agents/LLM integrations; 2026-2027 batch; ₹40K/mo expected; apply hi@grae-ai.com; STRONG MATCH | https://hiredoor.in/jobs/ai-fullstack-intern-ppo--a4b4c7
+- [ ] 2026-11-27 | Rubrik | Software Engineer Intern – Core UI (Winter) | Bengaluru on-site | Internship | Fit: TypeScript/React/GraphQL+AI tools; 2027 batch; NYSE cybersecurity co; frontend focus; ⚠️ weak AI match; SAFE BET brand | https://hiredoor.in/jobs/software-engineer-intern-core-ui-winter-intern--76cf2e
+- [ ] 2026-11-25 | Wayfair | Machine Learning Intern | Bengaluru on-site | Internship | Fit: Python/ML; major US e-commerce co (NYSE:W); ⚠️ verify JD for exp req; posted Nov 25 | https://in.linkedin.com/jobs/view/machine-learning-intern-at-wayfair-4495209952
 - [ ] 2026-11-26 | CommerceIQ | SDE Intern (UI) | Bengaluru on-site | Internship | Fit: LLM agents + MCP server + React; no exp req; TriageForge MCP + UI match; Series-D AI commerce co; STRONGEST MATCH | https://in.linkedin.com/jobs/view/sde-intern-ui-at-commerceiq-4495017373
 - [ ] 2026-11-26 | CommerceIQ | SDE Intern | Bengaluru on-site | Internship | Fit: LLM agents + MCP server + Python/Node; no exp req; TriageForge MCP + FloatChat Python match; apply with UI role | https://in.linkedin.com/jobs/view/sde-intern-at-commerceiq-4495004962
 - [ ] 2026-11-26 | Inspot IT | Agentic AI Intern (Junior/Fresher) | Karnataka India | Internship | Fit: AI agents/automation/agentic workflows; fresher explicit; same-day posting; SAFE BET | https://in.linkedin.com/jobs/view/agentic-ai-intern-junior-fresher-at-inspot-it-4494992326
@@ -1075,3 +1083,11 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-24 | MyntOptics AI/ML Intern Agentic Systems (Foundit 41406779) | closed: no longer accepting applications
 2026-11-24 | Allo Innoware AI Operations & Automation Intern (Indeed jk=5009bf5a554dfb7a) | profile mismatch: business process automation (ChatGPT/n8n/Google Sheets ops), not AI/LLM engineering
 2026-11-24 | RevRag AI Product Analyst Intern (hiredoor.in/jobs/ai-product-analyst-intern) | closed: job not found (404)
+2026-11-27 | Crowe AI Business Solutions Technical Intern (hiredoor.in/jobs/ai-business-solutions-technical-intern-26f3c3) | profile mismatch: ERP/Dynamics 365/Salesforce consulting role; requires 75% annual travel; not AI/ML/Python engineering
+2026-11-27 | MetaCognition Research Engineering Intern (LinkedIn, Bengaluru) | experience gate: requires 2–5 years experience; Shubh is fresher
+2026-11-27 | Karya AI Engineering Intern (LinkedIn) | recency gate: posted 20 days ago; exceeds 7-day internship gate
+2026-11-27 | GoKwik AI Engineering Intern (LinkedIn) | recency gate: posted 24 days ago; exceeds 7-day internship gate
+2026-11-27 | Infergent Labs AI/Full-Stack Intern (LinkedIn) | closed: live check shows "This role is closed"
+2026-11-27 | Tndrr AI/ML Intern PPO (LinkedIn) | recency gate: posted 13 days ago; exceeds 7-day internship gate
+2026-11-27 | Interstell AI Engineering Intern PPO (LinkedIn) | recency gate: posted 27 days ago + Delhi on-site only; recency + location gate fail
+2026-11-27 | HARMAN India AI/ML Intern (LinkedIn 4493823151, Bengaluru) | profile mismatch: time-series/CV/sensor-data focus for automotive; not LLM/agent/RAG engineering
