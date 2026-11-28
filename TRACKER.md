@@ -13,6 +13,21 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-28 | GitLab | Applied AI Engineer Enterprise AI | Bengaluru/Remote | Full-time 0-3yr | Fit: Python/LLM/RAG/agentic/MCP/multi-agent/guardrails; Claude+Anthropic explicitly; global tier-1 tech co; remote-first; STRONGEST MATCH | https://in.linkedin.com/jobs/view/applied-ai-engineer-enterprise-ai-at-gitlab-4493962265
+- [ ] 2026-11-28 | Thermo Fisher Scientific | IT Intern (GenAI/Agentic AI) | Bengaluru | Internship 0-2yr | Fit: Python/LangChain/LangGraph/ChromaDB/Ollama/RAG/agentic AI/guardrails; "college hires" fresh grad explicit; NYSE:TMO pharma-tech; STRONGEST MATCH | https://in.linkedin.com/jobs/view/it-intern-at-thermo-fisher-scientific-4493897041
+- [ ] 2026-11-28 | Plansom | AI Engineer | India Remote | Full-time 0-3yr | Fit: Python/Django/agentic AI/RAG/MCP/multi-agent; Microsoft Teams startup; remote-first; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-engineer-at-plansom-4493888432
+- [ ] 2026-11-28 | Convin | Backend Intern | Bengaluru on-site | Internship 0-1yr | Fit: voice AI/conversation intelligence/FastAPI/Python; Tez Health voice AI = direct match; IIT Delhi alumni; Series A $6.5M; final-year ok; STRONG MATCH | https://in.linkedin.com/jobs/view/backend-intern-at-convin-4495096028
+- [ ] 2026-11-28 | Digitals AI Inc. | GenAI Engineer Freshers 2026/27 | Hyderabad on-site ⚠️ | Full-time 0-3yr | Fit: Python/FastAPI/LangChain/RAG/ChromaDB/agents; "2026/27 freshers" explicitly; STRONG MATCH | https://in.linkedin.com/jobs/view/generative-ai-engineer-freshers-2026-27-computer-science-or-ai-only-at-digitals-ai-4495572401
+- [ ] 2026-11-28 | WSP India | AI Engineer – P&B | Bengaluru | Full-time 0-3yr | Fit: GenAI/RAG/agents/Azure/Python; global consultancy GCC; Azure-only slight mismatch; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-p-b-at-wsp-in-india-4493840297
+- [ ] 2026-11-28 | WSP India | AI Engineer – Advisory | Bengaluru | Full-time 0-3yr | Fit: same as P&B; apply alongside; STRETCH | https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-advisory-at-wsp-in-india-4493840295
+- [ ] 2026-11-28 | JERRNI | SWE Internship (ML/AI specialization) | Remote India | Internship 6mo ₹10-15K | Fit: Python/RAG/LLMs/AI agents; Palo Alto HQ modular construction; email si@jerrni.com; SAFE BET | https://in.linkedin.com/jobs/view/software-engineering-internship-si-open-source-construction-ecosystem-at-jerrni-4495355051
+- [ ] 2026-11-28 | Visa | SW Engineer Python/Kafka/GenAI | Bengaluru hybrid | Full-time 6mo-2yr | Fit: Python/LangChain/LangGraph/RAG; NYSE:V fintech; "6mo–24mo only" exp; STRETCH | https://in.linkedin.com/jobs/view/sw-engineer-python-kafka-genai-exp-6-months-24-months-only-at-visa-4493988645
+- [ ] 2026-11-28 | Google | Software Engineer II – AI Security | Pune on-site ⚠️ | Full-time 1yr | Fit: Python/AI/LLMs; Google Cloud Model Armor; Google tier-1; ⚠️ Pune; STRETCH | https://in.linkedin.com/jobs/view/software-engineer-ii-ai-security-at-google-4494381198
+- [ ] 2026-11-28 | Deloitte | Applied AI Platform Engineer (Analyst) | Hyderabad on-site ⚠️ | Full-time 1+yr | Fit: Python/LangChain/LangGraph/LangSmith/MLOps; Big4; ⚠️ Hyderabad; STRETCH | https://in.linkedin.com/jobs/view/applied-ai-platform-engineer-data-engineer-analyst-at-deloitte-4494333408
+- [ ] 2026-11-28 | RecruitBots AI | Software Engineer (GenAI) | Bengaluru on-site | Full-time 1-2yr | Fit: Python/RAG/LLM/ChromaDB/FastAPI; projects qualify for 1-2yr; SAFE BET | https://in.linkedin.com/jobs/view/software-engineer-generative-ai-at-recruitbots-ai-4494792819
+- [ ] 2026-11-28 | Mazelprime Technologies | Backend Developer Intern | India Remote | Internship | Fit: Python/FastAPI/PostgreSQL; LLM-RAG bonus; fresher ok; remote; SAFE BET | https://in.linkedin.com/jobs/view/backend-developer-intern-at-mazelprime-technologies-pvt-ltd-4495802081
+- [ ] 2026-11-28 | Meesho | Software Engineer I – Backend (Kirana Club) | Bengaluru on-site | Full-time 1+yr | Fit: Go/Python/Node; Indian unicorn; "everyone writes code with LLMs"; SAFE BET brand | https://in.linkedin.com/jobs/view/software-engineer-i-backend-kirana-club-at-meesho-4495599782
+
 - [ ] 2026-11-27 | FamPay | Backend Engineering Intern | Bengaluru on-site | Internship | Fit: Python/GoLang/backend/AWS; previous product co internship req (Tez Health qualifies); freshly posted 2h ago; STRONG MATCH | https://hiredoor.in/jobs/backend-engineering-intern-ac040a
 - [ ] 2026-11-27 | Blue Machines AI | Forward Deployed Engineer Intern | Bengaluru on-site | Internship 3-6mo | Fit: enterprise voice agents/CX/Python/REST/SQL; Tez Health voice AI = direct match; final-year CS req; 20h ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-blue-machines-ai-4495256881
 - [ ] 2026-11-27 | Arthrex India | Data Engineer Intern | Pune on-site | Internship full-time | Fit: Python/LLMs/RAG/LangChain/vector DBs/agentic AI; exact TriageForge+FloatChat match; ⚠️ Pune; 15h ago; STRONGEST MATCH | https://in.linkedin.com/jobs/view/data-engineer-intern-at-arthrex-india-4495014878
@@ -1091,3 +1106,30 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 2026-11-27 | Tndrr AI/ML Intern PPO (LinkedIn) | recency gate: posted 13 days ago; exceeds 7-day internship gate
 2026-11-27 | Interstell AI Engineering Intern PPO (LinkedIn) | recency gate: posted 27 days ago + Delhi on-site only; recency + location gate fail
 2026-11-27 | HARMAN India AI/ML Intern (LinkedIn 4493823151, Bengaluru) | profile mismatch: time-series/CV/sensor-data focus for automotive; not LLM/agent/RAG engineering
+2026-11-28 | Lexsi Labs AI Agent Engineer Intern (LinkedIn 4495337462, Mumbai) | location gate: Mumbai on-site; not remote/WFH or Bengaluru
+2026-11-28 | SpurQLabs AI Agent Developer Intern (LinkedIn 4493871279, Pune Hinjewadi) | location gate: Pune on-site Hinjewadi; not remote/WFH or Bengaluru
+2026-11-28 | Cognivac Full-Stack AI Eng Intern (LinkedIn 4374960838, Lucknow) | location gate: Lucknow on-site; not remote/WFH or Bengaluru
+2026-11-28 | CallKaro AI Forward Deployed Engineer (LinkedIn 4495300584, Gurgaon) | location gate: Gurgaon on-site NCR only; not remote/WFH or Bengaluru
+2026-11-28 | RecruitBots AI Applied AI Engineer (LinkedIn 4494911048, Lucknow) | location gate: Lucknow on-site; not remote/WFH or Bengaluru
+2026-11-28 | AlgoLeap Junior Python with AI Engineer (LinkedIn 4484367045, Noida) | location gate: Noida on-site; not remote/WFH or Bengaluru
+2026-11-28 | AlgoLeap Junior Python with AI Engineer (LinkedIn 4483925580, Mumbai) | location gate: Mumbai Metropolitan Region; not remote/WFH or Bengaluru
+2026-11-28 | Zycus Agentic AI Research Engineer (LinkedIn 4493636515, Mumbai) | degree gate: M.Tech or PhD required; not eligible
+2026-11-28 | BlackRock AI Engineer RQA Associate (LinkedIn 4495801077, Gurgaon) | experience gate: 3+ years required; hard gate
+2026-11-28 | RiseUpp AI Engineer GenAI RAG Agentic (LinkedIn 4493035695, India Remote) | experience gate: 2–4 years required; hard gate
+2026-11-28 | DwellFi AI Platform Engineer (LinkedIn 4492878682, India Remote) | eligibility gate: "prefer candidates who have completed coursework" + 2+yr required; hard gate
+2026-11-28 | Signant Health SW Engineer AI Accelerated Dev (LinkedIn 4441278581, Bengaluru) | stack gate: .NET/C# primary stack required; not Python-first AI engineering
+2026-11-28 | StoneApp SW Engineer Full Stack AI (LinkedIn 4494030144, India Remote) | stack gate: .NET/TypeScript/React primary; not Python/AI-engineering stack
+2026-11-28 | Jobgether Video Gen AI Engineer (LinkedIn 4493560864, India Remote) | stack gate: FFmpeg/Unity/CUDA/C++/Rust; not AI/LLM engineering stack
+2026-11-28 | Recro Generative AI Engineer (LinkedIn 4494937909, Pune) | dedup: same company+JD as Nov 25 Bengaluru listing already in tracker; Pune secondary location
+2026-11-28 | Zetheta AI Engineer (LinkedIn 4495090621) | UNPAID; dedup: same company as Nov 24 tracked entry
+2026-11-28 | Zetheta Software Engineer (LinkedIn 4495092513) | UNPAID; rejected again
+2026-11-28 | GE Healthcare Research Intern AI (LinkedIn 4461088583) | degree gate: PhD required; dedup: already rejected Nov 12
+2026-11-28 | College KakshA ML Engineer Intern (LinkedIn 4495080308) | training-org: deadline Dec 1; basic DS/ML scope; not AI engineering
+2026-11-28 | Dexterz Technology ML Engineer (LinkedIn 4495090919) | training-org: stale batch started Sept 24; perf-based ₹10K
+2026-11-28 | ThinkNovaa AI Intern (LinkedIn 4495089888) | training-org: perf-based up to ₹10K; repeated pattern
+2026-11-28 | ThinkNovaa ML Intern (LinkedIn 4495309079) | training-org: perf-based up to ₹10K; repeated pattern
+2026-11-28 | Jobs4PanIndia AI Intern (LinkedIn 4495300530) | placement-company: perf-based, no product; repeated pattern
+2026-11-28 | Jobs4PanIndia Backend Intern (LinkedIn 4495094832) | placement-company: same pattern; rejected en masse
+2026-11-28 | JobSPhere ML Intern (LinkedIn 4495846542) | placement-company: perf-based ₹35K; repeated pattern
+2026-11-28 | JobSPhere ML Engineer (LinkedIn 4495313966) | placement-company: perf-based ₹25K; repeated pattern
+2026-11-28 | Patch Line Technologies Python Django Developer (LinkedIn 4495208555, Indore) | location gate: Indore on-site; non-AI Django role
