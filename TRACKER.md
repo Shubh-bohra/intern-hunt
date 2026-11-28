@@ -13,6 +13,7 @@ draw a line after every day's run
 
 New jobs always go at the TOP of this section (newest run first, right under this heading). Never append at the bottom.
 
+- [ ] 2026-11-28 | Curavolv | Software Development and AI Engineering Intern | Remote India | Internship 3mo ₹10K | Fit: LLM/RAG/embeddings/agents/Python; FloatChat RAG + TriageForge structured output match; 100% remote; no exp req; SAFE BET | https://in.linkedin.com/jobs/view/software-development-and-ai-engineering-intern-at-curavolv-4495581034
 - [ ] 2026-11-28 | GitLab | Applied AI Engineer Enterprise AI | Bengaluru/Remote | Full-time 0-3yr | Fit: Python/LLM/RAG/agentic/MCP/multi-agent/guardrails; Claude+Anthropic explicitly; global tier-1 tech co; remote-first; STRONGEST MATCH | https://in.linkedin.com/jobs/view/applied-ai-engineer-enterprise-ai-at-gitlab-4493962265
 - [ ] 2026-11-28 | Thermo Fisher Scientific | IT Intern (GenAI/Agentic AI) | Bengaluru | Internship 0-2yr | Fit: Python/LangChain/LangGraph/ChromaDB/Ollama/RAG/agentic AI/guardrails; "college hires" fresh grad explicit; NYSE:TMO pharma-tech; STRONGEST MATCH | https://in.linkedin.com/jobs/view/it-intern-at-thermo-fisher-scientific-4493897041
 - [ ] 2026-11-28 | Plansom | AI Engineer | India Remote | Full-time 0-3yr | Fit: Python/Django/agentic AI/RAG/MCP/multi-agent; Microsoft Teams startup; remote-first; STRONG MATCH | https://in.linkedin.com/jobs/view/ai-engineer-at-plansom-4493888432
@@ -373,6 +374,21 @@ New jobs always go at the TOP of this section (newest run first, right under thi
 ## Rejected by filters (routine only, do not edit)
 
 (jobs the routines checked and dropped, one line each: date | link | reason)
+2026-11-28 | Fydelup Software Engineer Intern (LinkedIn) | Experience gate: "2+ years of professional software development" explicitly required
+2026-11-28 | Uplers AI/LLM Engineer role (LinkedIn) | Experience gate: 3+ years required
+2026-11-28 | Lexsi Labs AI Agent Engineer Evaluations (LinkedIn) | Seniority gate: Mid-Senior level
+2026-11-28 | Joblet-AI Fullstack Developer (LinkedIn) | Seniority gate: Senior level
+2026-11-28 | MediNex Workforce AI/ML Intern ×2 (LinkedIn) | Staffing agency — MediNex previously rejected multiple times
+2026-11-28 | Jobgether AI/Tech role (LinkedIn) | Staffing agency / generic job board poster
+2026-11-28 | Jobs4PanIndia AI Intern (LinkedIn) | Generic poster / training org — previously rejected multiple times
+2026-11-28 | TalentConnect/JobSPhere AI role (LinkedIn) | Staffing agency / generic poster
+2026-11-28 | Neo Tech AI Intern (LinkedIn) | Too generic — no LLM/AI engineering scope; training org pattern
+2026-11-28 | ThinkNovaa AI Intern ×2 (LinkedIn) | Too generic — training org / certificate mill pattern; previously rejected
+2026-11-28 | Women in AI talent pool (LinkedIn) | Talent pool / community listing, not a job posting
+2026-11-28 | Keel SDE 1 (LinkedIn) | Profile mismatch: Java-heavy expertise required, not Python/AI engineering focus
+2026-11-28 | Lexsi Labs AI Agent Engineer Intern (LinkedIn 4495337462, Nov 27 repost) | Already in REJECTED tracker (Nov 14) — location gate: Mumbai on-site; outside Bengaluru/remote scope
+2026-11-28 | Auric AI Labs Backend Engineer (LinkedIn 4495364418, Nov 28 repost) | Already in REJECTED tracker (Nov 14) — experience gate: 1+ years required
+2026-11-28 | Crossing Infotech AI Intern (LinkedIn 4495017732, Nov 26 repost) | Already in REJECTED tracker (Nov 24, Nov 25) — training org pattern
 2026-11-26 | PSPM Technologies AI/ML R&D Intern (LinkedIn) | UNPAID — no stipend offered
 2026-11-26 | Zetheta Algorithms AI Engineer new listing 4494793635 (LinkedIn) | UNPAID/project-based capstone (second unpaid listing this week)
 2026-11-26 | R Systems AI Full-Stack Engineering Intern (LinkedIn) | Location: Noida on-site only
